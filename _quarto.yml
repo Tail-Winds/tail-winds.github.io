@@ -6,11 +6,13 @@ website:
   title: "TailWinds"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: Cruises/UMCES_FRM_RecCruiseReport_2022-08-15.qmd
-        text: FRM Cruise Report
-      
+      - text: Whale monitoring
+        href: http://dcs.whoi.edu/mdoc0521/mdoc0521_mdoc.shtml
+      - text: FRM Cruise Report
+        href: Cruises/UMCES_FRM_RecCruiseReport_2022-08-15.qmd
+      - text: Marine Mammal Monitoring
+        href: mmm.qmd
+        
 format:
   html:
     theme: cosmo
