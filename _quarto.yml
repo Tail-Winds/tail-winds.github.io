@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: "cruises/umces_frm_reccruisereport_2022-08-15.html"
+      - href: "Cruises/UMCES_FRM_RecCruiseReport_2022-08-15.html"
         text: FRM Cruise Report
       
 format:
