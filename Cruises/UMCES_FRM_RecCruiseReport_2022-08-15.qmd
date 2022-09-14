@@ -9,6 +9,9 @@ message: false
 knitr:
   opts_knit:
     root.dir: "c:/users/darpa2/analysis/frm-survey"
+execute: 
+  freeze: auto
+    
 params:
   st_date: '2022-08-15'
   end_date: '2022-08-16'

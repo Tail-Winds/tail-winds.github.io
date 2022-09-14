@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "TailWinds: The UMCES Wind Energy Montioring Project"
+  title: "TailWinds"
   navbar:
     left:
       - href: index.qmd
