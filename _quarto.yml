@@ -8,8 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: "cruises/umces_frm_reccruisereport_2022-08-15.html"
+        text: FRM Cruise Report
+      
 format:
   html:
     theme: cosmo
