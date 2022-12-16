@@ -1,5 +1,5 @@
 ---
-title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
+title: "Getting yourself set up to edit the website"
 ---
 
 ## 1. R
@@ -34,5 +34,23 @@ The Quarto website has [really thorough guides](https://quarto.org/docs/get-star
 
 Generally:
 
-1. go to File > New File > Quarto Document to make a new page.
-2. Edit the _quarto.yml file -- this serves as the website's map.
+1. Click the "Pull" button in the Git tab. This will download any changes that have made to the website that you don't have.
+2. Go to File > New File > Quarto Document to make a new page.
+3. Write whatever you want to go on the page
+4. If you want the file to show up on the navigation bar, edit the _quarto.yml file -- this serves as the website's map. Feel free to skip this step if you don't want people to navigate to the page just yet. This is similar to the current page you're on -- you can access directly through the URL, but not by clicking to it.
+5. Go to Build > Preview Site. This will convert everything to HTML behind the scenes.
+6. Go to the Git tab and click the "Pull" button. This will download any changes that have made to the website since step 1.
+7. Click the "Commit" button and select the files you want to add to the website. Put a message describing the changes you've made in the "Commit message" box so that others can see what is going on.
+8. Click "Commit" in the dialog box to log these changes.
+9. Click the "Push" button. This sends all of your changes to GitHub, where the website is compiled and built in the cloud!
+10. In a few seconds, the website will be updated.
+
+When making an edit to a page that already exits:
+
+1. Click "Pull" in the Git tab.
+2. Edit your file.
+3. Preview website as before to build the HTML.
+4. Click "Pull" again.
+5. Commit changes.
+6. Push to GitHub
+

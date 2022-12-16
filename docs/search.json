@@ -51,36 +51,36 @@
   {
     "objectID": "website_instructions.html",
     "href": "website_instructions.html",
-    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "title": "Getting yourself set up to edit the website",
     "section": "",
     "text": "You don’t have to use R to do any of this – it also will work with Jupyter notebooks or in the command line, e.g. For the purposes of this guide, I’m assuming that our current lingua franca is R.\nSo, if you don’t have R installed on your machine, go ahead and download it here, then install."
   },
   {
     "objectID": "website_instructions.html#rstudio",
     "href": "website_instructions.html#rstudio",
-    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "title": "Getting yourself set up to edit the website",
     "section": "2. RStudio",
     "text": "2. RStudio\nAgain, this isn’t the only program that will do that, I’m just assuming that it’s common language at this point. Download by following this link and install. I’m fairly certain that RStudio comes with a version of Quarto, the program we’ll use to build the website, installed.\n\n2a. Quarto\nJust in case I’m wrong about that, click here to download Quarto, then install."
   },
   {
     "objectID": "website_instructions.html#git-and-github",
     "href": "website_instructions.html#git-and-github",
-    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "title": "Getting yourself set up to edit the website",
     "section": "3. Git and GitHub",
     "text": "3. Git and GitHub\nThis is the hardest part. Seriously. Installing git is way more annoying than it should be. Luckily, there’s a really good guide called Happy Git with R that does a pretty good job walking through this process while being candid about the pitfalls.\nThe guide also walks you through signing up for GitHub, which is easy, free, and neccesary for you to access the website."
   },
   {
     "objectID": "website_instructions.html#download-the-website-to-your-computer",
     "href": "website_instructions.html#download-the-website-to-your-computer",
-    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "title": "Getting yourself set up to edit the website",
     "section": "4. Download the website to your computer",
     "text": "4. Download the website to your computer\nThis is also known as “cloning the repository” in Git/GitHub speak. I suggest using RStudio, following the instructions in section 16.2.2 here. Use https://github.com/Tail-Winds/tail-winds.github.io.git as the URL for the GitHub repository.\nNow you’re good to go!"
   },
   {
     "objectID": "website_instructions.html#createedit-quarto-.qmd-files-for-the-desired-page",
     "href": "website_instructions.html#createedit-quarto-.qmd-files-for-the-desired-page",
-    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "title": "Getting yourself set up to edit the website",
     "section": "5. Create/edit Quarto (.qmd) files for the desired page",
-    "text": "5. Create/edit Quarto (.qmd) files for the desired page\nThe Quarto website has really thorough guides on how to do this. Slava and I are also on call via Slack!\nGenerally:\n\ngo to File > New File > Quarto Document to make a new page.\nEdit the _quarto.yml file – this serves as the website’s map."
+    "text": "5. Create/edit Quarto (.qmd) files for the desired page\nThe Quarto website has really thorough guides on how to do this. Slava and I are also on call via Slack!\nGenerally:\n\nClick the “Pull” button in the Git tab. This will download any changes that have made to the website that you don’t have.\nGo to File > New File > Quarto Document to make a new page.\nWrite whatever you want to go on the page\nIf you want the file to show up on the navigation bar, edit the _quarto.yml file – this serves as the website’s map. Feel free to skip this step if you don’t want people to navigate to the page just yet. This is similar to the current page you’re on – you can access directly through the URL, but not by clicking to it.\nGo to Build > Preview Site. This will convert everything to HTML behind the scenes.\nGo to the Git tab and click the “Pull” button. This will download any changes that have made to the website since step 1.\nClick the “Commit” button and select the files you want to add to the website. Put a message describing the changes you’ve made in the “Commit message” box so that others can see what is going on.\nClick “Commit” in the dialog box to log these changes.\nClick the “Push” button. This sends all of your changes to GitHub, where the website is compiled and built in the cloud!\nIn a few seconds, the website will be updated.\n\nWhen making an edit to a page that already exits:\n\nClick “Pull” in the Git tab.\nEdit your file.\nPreview website as before to build the HTML.\nClick “Pull” again.\nCommit changes.\nPush to GitHub"
   }
 ]
