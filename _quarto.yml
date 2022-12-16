@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - text: Whale monitoring
-        href: http://dcs.whoi.edu/mdoc0521/mdoc0521_mdoc.shtml
+        href: http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml
       - text: FRM Cruise Report
         href: Cruises/UMCES_FRM_RecCruiseReport_2022-08-15.qmd
       - text: Marine Mammal Monitoring
