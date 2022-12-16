@@ -1,0 +1,38 @@
+---
+title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
+---
+
+## 1. R
+
+You don't have to use R to do any of this -- it also will work with Jupyter notebooks or in the command line, e.g. For the purposes of this guide, I'm assuming that our current *lingua franca* is R.
+
+So, if you don't have R installed on your machine, go ahead and [download it here](https://cran.r-project.org/), then install.
+
+## 2. RStudio
+
+Again, this isn't the only program that will do that, I'm just assuming that it's common language at this point. Download [by following this link](https://posit.co/download/rstudio-desktop/) and install. I'm fairly certain that RStudio comes with a version of [Quarto](https://quarto.org/), the program we'll use to build the website, installed.
+
+### 2a. Quarto
+
+Just in case I'm wrong about that, [click here](https://quarto.org/docs/get-started/) to download Quarto, then install.
+
+## 3. Git and GitHub
+
+This is the hardest part. Seriously. Installing git is way more annoying than it should be. Luckily, there's a really good guide called [Happy Git with R](https://happygitwithr.com/install-intro.html) that does a pretty good job walking through this process while being candid about the pitfalls.
+
+The guide also walks you through signing up for GitHub, which is easy, free, and neccesary for you to access the website.
+
+## 4. Download the website to your computer
+
+This is also known as "cloning the repository" in Git/GitHub speak. I suggest using RStudio, following the [instructions in section 16.2.2 here](https://happygitwithr.com/existing-github-first.html#rstudio-ide-1). Use https://github.com/Tail-Winds/tail-winds.github.io.git as the URL for the GitHub repository.
+
+Now you're good to go!
+
+## 5. Create/edit Quarto (.qmd) files for the desired page
+
+The Quarto website has [really thorough guides](https://quarto.org/docs/get-started/hello/rstudio.html) on how to do this. Slava and I are also on call via Slack!
+
+Generally:
+
+1. go to File > New File > Quarto Document to make a new page.
+2. Edit the _quarto.yml file -- this serves as the website's map.

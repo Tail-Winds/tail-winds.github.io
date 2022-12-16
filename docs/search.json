@@ -47,5 +47,40 @@
     "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
     "section": "",
     "text": "During the next 8 years, 2021 – 2029, US Wind, Inc. will undertake development of Lease area OCS-A 0490. In tandem with this development, UMCES will undertake a coordinated program of fishery resource and marine mammal monitoring. This plan was informed by extensive planning with US Wind administrators and advances state-of-the-science acoustic technologies and experimental design elements. The program includes monitoring of (1) commercial and recreational fishery resources, with a focus on black sea bass; (2) marine mammals (cetaceans: whales, dolphins and porpoises), using a passive acoustic monitoring array and emphasizing large whales, such as the endangered right whales, and dolphins; and (3) near real-time detections of baleen whales.\n\n\nThe first two monitoring projects follow a BACI design, including (1) analysis of US Wind’s metocean buoy sensor data for fish and marine mammal detections, and for the Fishery Resource Monitoring proposal a start-up period to test technologies and field deployments (2021- 2022), (2) before (2023-2024), during (2025-2026), and after periods (2027-2028); and (3) a data analysis and reporting wrap up phase (2029). The near real-time whale detection system will provide timely alerts on the presence of endangered whales for a 12-month sustained deployment (2022-2023) and continues monitoring with this buoy system that was initially constructed and deployed through Maryland state support. Field deployments for all monitoring projects utilize Ocean City commercial fishing and recreational charter vessels, as well as the UMCES R/V Rachel Carson. The Fishery Resource Monitoring project evaluates reef and spillover effects in a unique Before-After-Gradient design and for the first time tests ropeless gear in the black sea bass pot fishery. The Marine Mammal Monitoring project deploys two types of listening devices: Rockhopper recorders designed by Cornell University to determine the occurrence and position of large whales (including North Atlantic right whales) and dolphins, and F-POD devices to detect the tonal echolocation clicks of small cetaceans including porpoises. Additionally, this project will deploy biotelemetry receivers to listen for passing fishes, sharks, rays and turtles that have been implanted with transponders.\n\n\n\nThe Near Real-time Whale Monitoring project is a unique partnership between UMCES and Woods Hole Oceanographic Institution that utilizes specialized quiet mooring technology, whale vocalization detection algorithms, and telecommunications to transmit frequent alerts on the presence of baleen whales.\n\n\n\nProgram deliveries include (1) database and analytical products related to project hypotheses and objectives; (2) extensive data sharing within the NOAA, BOEM, and offshore wind science community; (3) semi-annual progress and final reports for each project; and (4) professionally produced short videos of field deployments, diver footage, and stakeholder interviews related to black sea bass reef effects."
+  },
+  {
+    "objectID": "website_instructions.html",
+    "href": "website_instructions.html",
+    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "section": "",
+    "text": "You don’t have to use R to do any of this – it also will work with Jupyter notebooks or in the command line, e.g. For the purposes of this guide, I’m assuming that our current lingua franca is R.\nSo, if you don’t have R installed on your machine, go ahead and download it here, then install."
+  },
+  {
+    "objectID": "website_instructions.html#rstudio",
+    "href": "website_instructions.html#rstudio",
+    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "section": "2. RStudio",
+    "text": "2. RStudio\nAgain, this isn’t the only program that will do that, I’m just assuming that it’s common language at this point. Download by following this link and install. I’m fairly certain that RStudio comes with a version of Quarto, the program we’ll use to build the website, installed.\n\n2a. Quarto\nJust in case I’m wrong about that, click here to download Quarto, then install."
+  },
+  {
+    "objectID": "website_instructions.html#git-and-github",
+    "href": "website_instructions.html#git-and-github",
+    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "section": "3. Git and GitHub",
+    "text": "3. Git and GitHub\nThis is the hardest part. Seriously. Installing git is way more annoying than it should be. Luckily, there’s a really good guide called Happy Git with R that does a pretty good job walking through this process while being candid about the pitfalls.\nThe guide also walks you through signing up for GitHub, which is easy, free, and neccesary for you to access the website."
+  },
+  {
+    "objectID": "website_instructions.html#download-the-website-to-your-computer",
+    "href": "website_instructions.html#download-the-website-to-your-computer",
+    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "section": "4. Download the website to your computer",
+    "text": "4. Download the website to your computer\nThis is also known as “cloning the repository” in Git/GitHub speak. I suggest using RStudio, following the instructions in section 16.2.2 here. Use https://github.com/Tail-Winds/tail-winds.github.io.git as the URL for the GitHub repository.\nNow you’re good to go!"
+  },
+  {
+    "objectID": "website_instructions.html#createedit-quarto-.qmd-files-for-the-desired-page",
+    "href": "website_instructions.html#createedit-quarto-.qmd-files-for-the-desired-page",
+    "title": "Team for Assessing Impacts to Living resources from offshore WIND turbineS",
+    "section": "5. Create/edit Quarto (.qmd) files for the desired page",
+    "text": "5. Create/edit Quarto (.qmd) files for the desired page\nThe Quarto website has really thorough guides on how to do this. Slava and I are also on call via Slack!\nGenerally:\n\ngo to File > New File > Quarto Document to make a new page.\nEdit the _quarto.yml file – this serves as the website’s map."
   }
 ]
