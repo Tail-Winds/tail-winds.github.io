@@ -1,0 +1,11 @@
+---
+title: "Press"
+metadata-files:
+  - _metadata.yml
+listing:
+  id: press-listings
+  contents: press.yml
+---
+
+::: {.press-listings}
+:::

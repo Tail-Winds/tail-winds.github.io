@@ -1,0 +1,11 @@
+listing: 
+  date-format: short
+  feed: false
+  categories: true
+  fields:
+    - date
+    - name
+    - image
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
