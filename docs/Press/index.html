@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-name','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-name","listing-href","listing-image","listing-date","listing-categories"],
+      searchColumns: ["listing-title","listing-url","listing-source","listing-image","listing-date","listing-categories","listing-project","listing-href"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -181,6 +181,9 @@ ul.task-list li input[type="checkbox"] {
      <select id="listing-press-listings-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-press-listings'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
          <option value="listing-date-sort" data-direction="asc">
           Date - Oldest
         </option>
@@ -195,42 +198,50 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Whales,Whale buoy" data-listing-date-sort="1626321600000">
+<div class="quarto-post image-right" data-index="0" data-categories="Whales,Whale buoy" data-listing-date-sort="Thu Jul 15 2021 00:00:00 GMT-0400 (Eastern Daylight Time)" data-listing-title-sort="New Ocean Buoy To Monitor Activity In Wind Farm Area">
 <div class="thumbnail">
-<a href="">
+<a href="https://mdcoastdispatch.com/2021/07/15/new-ocean-buoy-to-monitor-activity-in-wind-farm-area/">
 <div class="thumbnail-image">
 
 </div>
-</a><p><a href=""></a></p>
+</a><p><a href="https://mdcoastdispatch.com/2021/07/15/new-ocean-buoy-to-monitor-activity-in-wind-farm-area/"></a></p>
 </div>
 <div class="body">
-<a href=""> </a>
+<a href="https://mdcoastdispatch.com/2021/07/15/new-ocean-buoy-to-monitor-activity-in-wind-farm-area/">
+<h3 class="no-anchor listing-title">
+New Ocean Buoy To Monitor Activity In Wind Farm Area
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
 </div>
 <div class="metadata">
 <a href="">
 <div class="listing-date">
 7/15/21
 </div>
-<div class="metadata-value listing-name">
-New Ocean Buoy To Monitor Activity In Wind Farm Area
-</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Whales,Whale buoy" data-listing-date-sort="1625630400000">
+<div class="quarto-post image-right" data-index="1" data-categories="Whales,Whale buoy" data-listing-date-sort="Wed Jul 07 2021 00:00:00 GMT-0400 (Eastern Daylight Time)" data-listing-title-sort="Monitoring Buoy To Help Research Marine Mammals Off Atlantic Coast" data-listing-image-sort="https://www.umces.edu/sites/default/files/styles/paragraph_with_media__small/public/paragraph-media/Marine%20Mammal%20Buoy.jpeg">
 <div class="thumbnail">
 <p><a href=""> <img src="https://www.umces.edu/sites/default/files/styles/paragraph_with_media__small/public/paragraph-media/Marine%20Mammal%20Buoy.jpeg" class="thumnail-image"> </a></p>
 </div>
 <div class="body">
-<a href=""> </a>
+<a href="">
+<h3 class="no-anchor listing-title">
+Monitoring Buoy To Help Research Marine Mammals Off Atlantic Coast
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
 </div>
 <div class="metadata">
 <a href="">
 <div class="listing-date">
 7/7/21
-</div>
-<div class="metadata-value listing-name">
-Monitoring Buoy To Help Research Marine Mammals Off Atlantic Coast
 </div>
 </a>
 </div>
