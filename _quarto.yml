@@ -6,12 +6,14 @@ website:
   title: "TailWinds"
   navbar:
     left:
-      - text: Whale monitoring
-        href: http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml
-      - text: Fishery Resorce Monitoring
-        href: Cruises/UMCES_FRM_RecCruiseReport_2022-08-15.qmd
-      - text: Marine Mammal Monitoring
-        href: mmm.qmd
+      - text: Monitoring Projects
+        menu:
+        - text: Whales in Real-time
+          href: http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml
+        - text: Fishery Resorces
+          href: Cruises/UMCES_FRM_RecCruiseReport_2022-08-15.qmd
+        - text: Marine Mammals
+          href: mmm.qmd
       - text: The Team
         href: team.qmd
         
