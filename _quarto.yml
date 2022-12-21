@@ -4,6 +4,7 @@ project:
 
 website:
   title: "TailWinds"
+  site-url: "https://tailwinds.umces.edu/"
   navbar:
     left:
       - text: Monitoring Projects
@@ -16,6 +17,8 @@ website:
           href: mmm.qmd
       - text: The Team
         href: team.qmd
+      # - text: In the Press
+      #   href: Press/index.qmd
         
 format:
   html:
