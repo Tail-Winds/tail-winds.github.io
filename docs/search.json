@@ -60,7 +60,7 @@
     "href": "team.html",
     "title": "Our Team",
     "section": "",
-    "text": "University of Maryland Center for Environmental Science secor@umces.edu"
+    "text": "University of Maryland Center for Environmental Science\nsecor@umces.edu\nWebsite\n \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\nhelenbailey@bluewaveconsultinggroup.com\n \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nlyubchich@umces.edu\nWebsite"
   },
   {
     "objectID": "team.html#dr.-helen-bailey",
@@ -110,5 +110,26 @@
     "title": "Getting yourself set up to edit the website",
     "section": "5. Create/edit Quarto (.qmd) files for the desired page",
     "text": "5. Create/edit Quarto (.qmd) files for the desired page\nThe Quarto website has really thorough guides on how to do this. Slava and I are also on call via Slack!\nGenerally:\n\nClick the “Pull” button in the Git tab. This will download any changes that have made to the website that you don’t have.\nGo to File > New File > Quarto Document to make a new page.\nWrite whatever you want to go on the page\nIf you want the file to show up on the navigation bar, edit the _quarto.yml file – this serves as the website’s map. Feel free to skip this step if you don’t want people to navigate to the page just yet. This is similar to the current page you’re on – you can access directly through the URL, but not by clicking to it.\nGo to Build > Preview Site. This will convert everything to HTML behind the scenes.\nGo to the Git tab and click the “Pull” button. This will download any changes that have made to the website since step 1.\nClick the “Commit” button and select the files you want to add to the website. Put a message describing the changes you’ve made in the “Commit message” box so that others can see what is going on.\nClick “Commit” in the dialog box to log these changes.\nClick the “Push” button. This sends all of your changes to GitHub, where the website is compiled and built in the cloud!\nIn a few seconds, the website will be updated.\n\nWhen making an edit to a page that already exits:\n\nClick “Pull” in the Git tab.\nEdit your file.\nPreview website as before to build the HTML.\nClick “Pull” again.\nCommit changes.\nPush to GitHub"
+  },
+  {
+    "objectID": "team.html#real-time-whale",
+    "href": "team.html#real-time-whale",
+    "title": "Our Team",
+    "section": "Real-time Whale",
+    "text": "Real-time Whale"
+  },
+  {
+    "objectID": "team.html#robert-bell",
+    "href": "team.html#robert-bell",
+    "title": "Our Team",
+    "section": "Robert Bell",
+    "text": "Robert Bell"
+  },
+  {
+    "objectID": "team.html#analysts",
+    "href": "team.html#analysts",
+    "title": "Our Team",
+    "section": "Analysts",
+    "text": "Analysts\n\nRobert Bell\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nrbell@umces.edu\n\n\n\n\n\nMike O’Brien\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nobrien@umces.edu\n  \n\n\n\n\nKirsten Silva\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nksilva@umces.edu\n\n\n\n\nJamie Testa\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\njctesta@umces.edu"
   }
 ]

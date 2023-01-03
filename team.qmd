@@ -2,15 +2,158 @@
 title: "Our Team"
 ---
 
-## Dr. David Secor
+## Leads
+
+### Dr. David Secor
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/dave.jpg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
 
 University of Maryland Center for Environmental Science
+
 <secor@umces.edu>
 
-## Dr. Helen Bailey
+[Website](https://www.umces.edu/david-secor)
+
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827)
+[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ)
+
+:::
+:::
+
+
+### Dr. Helen Bailey
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/helen.jpg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
 
 Blue Wave Consulting Group
+
 <helenbailey@bluewaveconsultinggroup.com>
 
-## Dr. Vyacheslav Lyubchich
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687)
+[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ)
+
+:::
+:::
+
+### Dr. Vyacheslav Lyubchich
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/slava.jpg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+
+University of Maryland Center for Environmental Science
+
+<lyubchich@umces.edu>
+
+[Website](https://www.umces.edu/vyacheslav-lyubchich)
+
+[{{< fa brands github size=2x >}}](https://github.com/vlyubchich)
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7936-4285)
+[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=qMeQJCgAAAAJ)
+[{{< ai scopus size=2x >}}](https://www.scopus.com/authid/detail.uri?authorId=56814941600)
+
+:::
+:::
+
+
+## Analysts
+
+### Robert Bell
+
+::: columns
+::: {.column width="25%"}
+
+
+
+:::
+::: {.column width="5%"}
+:::
+:::  {.column width="70%"}
+
+University of Maryland Center for Environmental Science
+
+<rbell@umces.edu>
+
+[{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle)
+:::
+:::
+
+
+### Mike O'Brien
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/mike.jpg)
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="70%"}
+
+University of Maryland Center for Environmental Science
+
+<obrien@umces.edu>
+
+[{{< fa brands github size=2x >}}](https://github.com/mhpob)
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395)
+[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en)
+
+:::
+:::
+
+### Kirsten Silva
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/kirsten.jpg)
+
+:::
+::: {.column width="5%"}
+:::
+:::  {.column width="70%"}
+
+University of Maryland Center for Environmental Science
+
+<ksilva@umces.edu>
+
+:::
+:::
+
+### Jamie Testa
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/jamie.jpg)
+
+:::
+::: {.column width="5%"}
+:::
+:::  {.column width="70%"}
+
+University of Maryland Center for Environmental Science
+
+<jctesta@umces.edu>
+
+:::
+:::
+
 
