@@ -5,10 +5,10 @@ title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offs
 ::: columns
 ::: {.column width="20%"}
 
-![](pictures/index/umces-seal.jpg)
+![](Pictures/index/umces-seal.jpg)
 :::
 ::: {.column width="40%"}
-![](pictures/index/us-wind_logo.jpg)
+![](Pictures/index/us-wind_logo.jpg)
 :::
 :::
 
