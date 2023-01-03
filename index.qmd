@@ -2,6 +2,16 @@
 title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
 ---
 
+::: columns
+::: {.column width="20%"}
+
+![](pictures/index/umces-seal.jpg)
+:::
+::: {.column width="40%"}
+![](pictures/index/us-wind_logo.jpg)
+:::
+:::
+
 [US Wind, Inc.](https://uswindinc.com/) is developing Lease area OCS-A 0490 in waters offshore of Ocean City, MD. In tandem with this development, UMCES TAILWINDS will undertake a coordinated program of fishery resource and marine mammal monitoring. The program includes monitoring of (1) commercial and recreational fishery resources, with a focus on black sea bass; (2) marine mammals (cetaceans: whales, dolphins and porpoises), using a passive acoustic monitoring array and emphasizing large whales and dolphins; and (3) near real-time detections of baleen whales.
 
 ## Fishery Resource and Marine Mammal Monitoring
