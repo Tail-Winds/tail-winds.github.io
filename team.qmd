@@ -75,8 +75,10 @@ University of Maryland Center for Environmental Science
 [{{< fa brands github size=2x >}}](https://github.com/vlyubchich)
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7936-4285)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=qMeQJCgAAAAJ)
+[{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Vyacheslav-Lyubchich)
 [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/989365)
 [{{< ai scopus size=2x >}}](https://www.scopus.com/authid/detail.uri?authorId=56814941600)
+[{{< fa brands youtube size=2x >}}](https://www.youtube.com/@statspilot)
 
 :::
 :::
