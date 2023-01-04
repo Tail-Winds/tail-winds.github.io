@@ -14,8 +14,8 @@
     "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
   },
   {
-    "objectID": "frm/index.html#recreational-fishery-resource-monitoring",
-    "href": "frm/index.html#recreational-fishery-resource-monitoring",
+    "objectID": "frm/index.html#recreational",
+    "href": "frm/index.html#recreational",
     "title": "Fishery Resource Monitoring",
     "section": "Recreational Fishery Resource Monitoring",
     "text": "Recreational Fishery Resource Monitoring\n\nUMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
@@ -103,12 +103,5 @@
     "title": "Getting yourself set up to edit the website",
     "section": "5. Create/edit Quarto (.qmd) files for the desired page",
     "text": "5. Create/edit Quarto (.qmd) files for the desired page\nThe Quarto website has really thorough guides on how to do this. Slava and I are also on call via Slack!\nGenerally:\n\nClick the “Pull” button in the Git tab. This will download any changes that have made to the website that you don’t have.\nGo to File > New File > Quarto Document to make a new page.\nWrite whatever you want to go on the page\nIf you want the file to show up on the navigation bar, edit the _quarto.yml file – this serves as the website’s map. Feel free to skip this step if you don’t want people to navigate to the page just yet. This is similar to the current page you’re on – you can access directly through the URL, but not by clicking to it.\nGo to Build > Preview Site. This will convert everything to HTML behind the scenes.\nGo to the Git tab and click the “Pull” button. This will download any changes that have made to the website since step 1.\nClick the “Commit” button and select the files you want to add to the website. Put a message describing the changes you’ve made in the “Commit message” box so that others can see what is going on.\nClick “Commit” in the dialog box to log these changes.\nClick the “Push” button. This sends all of your changes to GitHub, where the website is compiled and built in the cloud!\nIn a few seconds, the website will be updated.\n\nWhen making an edit to a page that already exits:\n\nClick “Pull” in the Git tab.\nEdit your file.\nPreview website as before to build the HTML.\nClick “Pull” again.\nCommit changes.\nPush to GitHub"
-  },
-  {
-    "objectID": "frm/index.html#recreational",
-    "href": "frm/index.html#recreational",
-    "title": "Fishery Resource Monitoring",
-    "section": "Recreational Fishery Resource Monitoring",
-    "text": "Recreational Fishery Resource Monitoring\n\nUMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
   }
 ]

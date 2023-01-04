@@ -1,5 +1,8 @@
 ---
 title: "Our Team"
+format: 
+  html:
+    link-external-icon: false
 ---
 
 ## Leads
