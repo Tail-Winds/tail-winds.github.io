@@ -117,8 +117,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#commercial-fishery-resource-monitoring" id="toc-commercial-fishery-resource-monitoring" class="nav-link active" data-scroll-target="#commercial-fishery-resource-monitoring">Commercial Fishery Resource Monitoring</a></li>
-  <li><a href="#recreational-fishery-resource-monitoring" id="toc-recreational-fishery-resource-monitoring" class="nav-link" data-scroll-target="#recreational-fishery-resource-monitoring">Recreational Fishery Resource Monitoring</a></li>
+  <li><a href="#commercial" id="toc-commercial" class="nav-link active" data-scroll-target="#commercial">Commercial Fishery Resource Monitoring</a></li>
+  <li><a href="#recreational" id="toc-recreational" class="nav-link" data-scroll-target="#recreational">Recreational Fishery Resource Monitoring</a></li>
   </ul>
 </nav>
     </div>
@@ -142,13 +142,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="commercial-fishery-resource-monitoring" class="level2">
-<h2 class="anchored" data-anchor-id="commercial-fishery-resource-monitoring">Commercial Fishery Resource Monitoring</h2>
+<section id="commercial" class="level2">
+<h2 class="anchored" data-anchor-id="commercial">Commercial Fishery Resource Monitoring</h2>
 <p><img src="images/CFRM schema.png" class="img-fluid" style="width:75.0%"></p>
 <p>UMCES TailWinds is working with <a href="https://www.instagram.com/seabornseafood">Seaborn Seafood</a>, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an <a href="https://www.edgetech.com/product/5112-ropeless-fishing-system/">Edgetech ropeless device</a>. This together with 1-day soak times will curtail interactions with protected species.</p>
 </section>
-<section id="recreational-fishery-resource-monitoring" class="level2">
-<h2 class="anchored" data-anchor-id="recreational-fishery-resource-monitoring">Recreational Fishery Resource Monitoring</h2>
+<section id="recreational" class="level2">
+<h2 class="anchored" data-anchor-id="recreational">Recreational Fishery Resource Monitoring</h2>
 <p><img src="images/RFRM schema.png" class="img-fluid" style="width:75.0%"></p>
 <p>UMCES TailWinds is working with <a href="https://finchasersportfishing.com/">Fin Chaser Charters</a>, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish.</p>
 
@@ -287,6 +287,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/tailwinds\.umces\.edu\//);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

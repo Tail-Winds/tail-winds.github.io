@@ -2,12 +2,12 @@
 title: "Fishery Resource Monitoring"
 ---
 
-## Commercial Fishery Resource Monitoring
+## Commercial Fishery Resource Monitoring {#commercial}
 ![](images/CFRM schema.png){width=75%}
 
 UMCES TailWinds is working with [Seaborn Seafood](https://www.instagram.com/seabornseafood), Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (‘23-’24), During (’25-’26), and After (‘27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an [Edgetech ropeless device](https://www.edgetech.com/product/5112-ropeless-fishing-system/). This together with 1-day soak times will curtail interactions with protected species.
 
-## Recreational Fishery Resource Monitoring
+## Recreational Fishery Resource Monitoring {#recreational}
 ![](images/RFRM schema.png){width=75%}
 
 UMCES TailWinds is working with [Fin Chaser Charters](https://finchasersportfishing.com/), Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (‘23-’24), During (’25-’26), and After (‘27-’28) periods. Diet and physiological condition are assessed for sampled fish.
