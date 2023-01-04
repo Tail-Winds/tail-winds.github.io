@@ -101,6 +101,10 @@ University of Maryland Center for Environmental Science
 
 University of Maryland Center for Environmental Science
 
+Projects:
+
+  - [Marine mammal monitoring](mmm.qmd)
+
 [{{< fa envelope size=1x >}}](rbell@umces.edu)      <rbell@umces.edu>
 
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle)
@@ -120,6 +124,10 @@ University of Maryland Center for Environmental Science
 ::: {.column width="70%"}
 
 University of Maryland Center for Environmental Science
+
+Projects:
+
+- [Fishery Resources](FRM/frm.qmd)
 
 [{{< fa envelope size=1x >}}](obrien@umces.edu)      <obrien@umces.edu>
 
@@ -144,6 +152,11 @@ University of Maryland Center for Environmental Science
 
 University of Maryland Center for Environmental Science
 
+Projects:
+
+  - [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
+  - [Marine mammal monitoring](mmm.qmd)
+
 [{{< fa envelope size=1x >}}](ksilva@umces.edu)      <ksilva@umces.edu>
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
@@ -163,6 +176,11 @@ University of Maryland Center for Environmental Science
 :::  {.column width="70%"}
 
 University of Maryland Center for Environmental Science
+
+Projects:
+
+  - [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
+  - [Marine mammal monitoring](mmm.qmd)
 
 [{{< fa envelope size=1x >}}](jctesta@umces.edu)       <jctesta@umces.edu>
 
