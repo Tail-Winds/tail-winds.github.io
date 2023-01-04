@@ -23,6 +23,7 @@ University of Maryland Center for Environmental Science
 
 [Lab Website](http://fishconnectivity.cbl.umces.edu)
 
+[{{< fa brands twitter size=2x >}}](https://twitter.com/secorlab)
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ)
 [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727)
@@ -46,6 +47,7 @@ Blue Wave Consulting Group
 
 [{{< fa envelope size=1x >}}](helenbailey@bluewaveconsultinggroup.com)    <helenbailey@bluewaveconsultinggroup.com>
 
+[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ)
 [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/599233)
@@ -141,6 +143,8 @@ University of Maryland Center for Environmental Science
 
 [{{< fa envelope size=1x >}}](ksilva@umces.edu)      <ksilva@umces.edu>
 
+[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
+
 :::
 :::
 
@@ -158,6 +162,8 @@ University of Maryland Center for Environmental Science
 University of Maryland Center for Environmental Science
 
 [{{< fa envelope size=1x >}}](jctesta@umces.edu)       <jctesta@umces.edu>
+
+[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 
 :::
 :::
