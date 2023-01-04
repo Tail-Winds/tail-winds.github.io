@@ -5,85 +5,66 @@ title: "Our Team"
 ## Leads
 
 ### Dr. David Secor
+
 ::: columns
 ::: {.column width="25%"}
-
 ![](Pictures/team/dave.jpg)
-
 :::
+
 ::: {.column width="5%"}
 :::
-::: {.column width="70%"}
 
+::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
-[{{< fa envelope size=1x >}}](secor@umces.edu)    <secor@umces.edu>
+[{{< fa envelope size=1x >}}](secor@umces.edu) [secor\@umces.edu](mailto:secor@umces.edu){.email}
 
-[UMCES Profile](https://www.umces.edu/david-secor)
-
+[UMCES Profile](https://www.umces.edu/david-secor)  
 [Lab Website](http://fishconnectivity.cbl.umces.edu)
 
-[{{< fa brands twitter size=2x >}}](https://twitter.com/secorlab)
-[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ)
-[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727)
-[{{< fa brands youtube size=2x >}}](https://www.youtube.com/@secorlab)
-
+[{{< fa brands twitter size=2x >}}](https://twitter.com/secorlab) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727) [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@secorlab)
 :::
 :::
-
 
 ### Dr. Helen Bailey
+
 ::: columns
 ::: {.column width="25%"}
-
 ![](Pictures/team/helen.jpg)
-
 :::
+
 ::: {.column width="5%"}
 :::
-::: {.column width="70%"}
 
+::: {.column width="70%"}
 Blue Wave Consulting Group
 
-[{{< fa envelope size=1x >}}](helenbailey@bluewaveconsultinggroup.com)    <helenbailey@bluewaveconsultinggroup.com>
+[{{< fa envelope size=1x >}}](helenbailey@bluewaveconsultinggroup.com) [helenbailey\@bluewaveconsultinggroup.com](mailto:helenbailey@bluewaveconsultinggroup.com){.email}
 
-[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
-[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ)
-[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/599233)
-
+[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/599233)
 :::
 :::
 
 ### Dr. Vyacheslav Lyubchich
+
 ::: columns
 ::: {.column width="25%"}
-
 ![](Pictures/team/slava.jpg)
-
 :::
+
 ::: {.column width="5%"}
 :::
-::: {.column width="70%"}
 
+::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
-[{{< fa envelope size=1x >}}](lyubchich@umces.edu)     <lyubchich@umces.edu>
+[{{< fa envelope size=1x >}}](lyubchich@umces.edu) [lyubchich\@umces.edu](mailto:lyubchich@umces.edu){.email}
 
 [Website](https://www.umces.edu/vyacheslav-lyubchich)
 
-[{{< fa brands github size=2x >}}](https://github.com/vlyubchich)
-[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7936-4285)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=qMeQJCgAAAAJ)
-[{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Vyacheslav-Lyubchich)
-[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/989365)
-[{{< ai scopus size=2x >}}](https://www.scopus.com/authid/detail.uri?authorId=56814941600)
-[{{< fa brands youtube size=2x >}}](https://www.youtube.com/@statspilot)
-
+[{{< fa brands github size=2x >}}](https://github.com/vlyubchich) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7936-4285) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=qMeQJCgAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Vyacheslav-Lyubchich) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/989365) [{{< ai scopus size=2x >}}](https://www.scopus.com/authid/detail.uri?authorId=56814941600) [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@statspilot)
 :::
 :::
-
 
 ## Analysts
 
@@ -91,102 +72,91 @@ University of Maryland Center for Environmental Science
 
 ::: columns
 ::: {.column width="25%"}
-
-
-
 :::
+
 ::: {.column width="5%"}
 :::
-:::  {.column width="70%"}
 
+::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
-Projects:
+Projects:  
 
-  - [Marine mammal monitoring](mmm.qmd)
+- [Marine mammal monitoring](mmm.qmd)
 
-[{{< fa envelope size=1x >}}](rbell@umces.edu)      <rbell@umces.edu>
+[{{< fa envelope size=1x >}}](rbell@umces.edu) [rbell\@umces.edu](mailto:rbell@umces.edu){.email}
 
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle)
 :::
 :::
 
-
 ### Mike O'Brien
+
 ::: columns
 ::: {.column width="25%"}
-
 ![](Pictures/team/mike.jpg)
-
 :::
+
 ::: {.column width="5%"}
 :::
-::: {.column width="70%"}
 
+::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
 Projects:
 
-- [Fishery Resources](FRM/frm.qmd)
+-   [Fishery Resources](frm/index.qmd)
 
-[{{< fa envelope size=1x >}}](obrien@umces.edu)      <obrien@umces.edu>
+[{{< fa envelope size=1x >}}](obrien@umces.edu) [obrien\@umces.edu](mailto:obrien@umces.edu){.email}
 
-[{{< fa brands github size=2x >}}](https://github.com/mhpob)
-[{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en)
-[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/ABF-9080-2021)
-
+[{{< fa brands github size=2x >}}](https://github.com/mhpob) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/ABF-9080-2021)
 :::
 :::
 
 ### Kirsten Silva
+
 ::: columns
 ::: {.column width="25%"}
-
 ![](Pictures/team/kirsten.jpg)
-
 :::
+
 ::: {.column width="5%"}
 :::
-:::  {.column width="70%"}
 
+::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
 Projects:
 
-  - [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
-  - [Marine mammal monitoring](mmm.qmd)
+-   [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
+-   [Marine mammal monitoring](mmm.qmd)
 
-[{{< fa envelope size=1x >}}](ksilva@umces.edu)      <ksilva@umces.edu>
+[{{< fa envelope size=1x >}}](ksilva@umces.edu) [ksilva\@umces.edu](mailto:ksilva@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
-
 :::
 :::
 
 ### Jamie Testa
+
 ::: columns
 ::: {.column width="25%"}
-
 ![](Pictures/team/jamie.jpg)
-
 :::
+
 ::: {.column width="5%"}
 :::
-:::  {.column width="70%"}
 
+::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
 Projects:
 
-  - [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
-  - [Marine mammal monitoring](mmm.qmd)
+-   [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
+-   [Marine mammal monitoring](mmm.qmd)
 
-[{{< fa envelope size=1x >}}](jctesta@umces.edu)       <jctesta@umces.edu>
+[{{< fa envelope size=1x >}}](jctesta@umces.edu) [jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
-
 :::
 :::
-
-

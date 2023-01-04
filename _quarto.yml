@@ -12,7 +12,7 @@ website:
         - text: Whales in Real-time
           href: http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml
         - text: Fishery Resources
-          file: FRM/frm.qmd
+          file: frm/index.qmd
         - text: Marine Mammals
           file: mmm.qmd
       - text: The Team
