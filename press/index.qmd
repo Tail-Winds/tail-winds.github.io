@@ -1,6 +1,6 @@
 ---
 title: "Press"
-metadata-files:
+metadata-files: 
   - _metadata.yml
 listing:
   id: press-listings
