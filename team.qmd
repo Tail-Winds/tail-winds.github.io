@@ -19,7 +19,8 @@ University of Maryland Center for Environmental Science
 
 <secor@umces.edu>
 
-[Website](https://www.umces.edu/david-secor)
+[UMCES Profile](https://www.umces.edu/david-secor)
+[Website](http://fishconnectivity.cbl.umces.edu)
 
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ)
