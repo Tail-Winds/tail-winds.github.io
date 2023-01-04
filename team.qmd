@@ -17,13 +17,15 @@ title: "Our Team"
 
 University of Maryland Center for Environmental Science
 
-<secor@umces.edu>
+[{{< fa envelope size=1x >}}](secor@umces.edu)    <secor@umces.edu>
 
 [UMCES Profile](https://www.umces.edu/david-secor)
-[Website](http://fishconnectivity.cbl.umces.edu)
+
+[Lab Website](http://fishconnectivity.cbl.umces.edu)
 
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ)
+[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727)
 
 :::
 :::
@@ -42,10 +44,11 @@ University of Maryland Center for Environmental Science
 
 Blue Wave Consulting Group
 
-<helenbailey@bluewaveconsultinggroup.com>
+[{{< fa envelope size=1x >}}](helenbailey@bluewaveconsultinggroup.com)    <helenbailey@bluewaveconsultinggroup.com>
 
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ)
+[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/599233)
 
 :::
 :::
@@ -63,13 +66,14 @@ Blue Wave Consulting Group
 
 University of Maryland Center for Environmental Science
 
-<lyubchich@umces.edu>
+[{{< fa envelope size=1x >}}](lyubchich@umces.edu)     <lyubchich@umces.edu>
 
 [Website](https://www.umces.edu/vyacheslav-lyubchich)
 
 [{{< fa brands github size=2x >}}](https://github.com/vlyubchich)
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7936-4285)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=qMeQJCgAAAAJ)
+[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/989365)
 [{{< ai scopus size=2x >}}](https://www.scopus.com/authid/detail.uri?authorId=56814941600)
 
 :::
@@ -92,7 +96,7 @@ University of Maryland Center for Environmental Science
 
 University of Maryland Center for Environmental Science
 
-<rbell@umces.edu>
+[{{< fa envelope size=1x >}}](rbell@umces.edu)      <rbell@umces.edu>
 
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle)
 :::
@@ -112,11 +116,12 @@ University of Maryland Center for Environmental Science
 
 University of Maryland Center for Environmental Science
 
-<obrien@umces.edu>
+[{{< fa envelope size=1x >}}](obrien@umces.edu)      <obrien@umces.edu>
 
 [{{< fa brands github size=2x >}}](https://github.com/mhpob)
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395)
 [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en)
+[{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/ABF-9080-2021)
 
 :::
 :::
@@ -134,7 +139,7 @@ University of Maryland Center for Environmental Science
 
 University of Maryland Center for Environmental Science
 
-<ksilva@umces.edu>
+[{{< fa envelope size=1x >}}](ksilva@umces.edu)      <ksilva@umces.edu>
 
 :::
 :::
@@ -152,7 +157,7 @@ University of Maryland Center for Environmental Science
 
 University of Maryland Center for Environmental Science
 
-<jctesta@umces.edu>
+[{{< fa envelope size=1x >}}](jctesta@umces.edu)       <jctesta@umces.edu>
 
 :::
 :::
