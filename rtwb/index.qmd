@@ -2,4 +2,4 @@
 title: "Real Time Whale Buoy"
 ---
 
-http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml
+[Ocean City, MD Buoy](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
