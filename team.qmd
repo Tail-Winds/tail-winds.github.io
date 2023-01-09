@@ -138,7 +138,7 @@ Projects:
   
 [{{< fa envelope size=1x >}} lrodriguez@umces.edu ](mailto:lrodriguez@umces.edu ){.email}
 
-[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
+[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
 
 :::
 :::
