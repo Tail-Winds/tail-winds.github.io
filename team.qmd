@@ -20,7 +20,7 @@ format:
 ::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
-[{{< fa envelope size=1x >}}](secor@umces.edu) [secor\@umces.edu](mailto:secor@umces.edu){.email}
+[{{< fa envelope size=1x >}} secor\@umces.edu](mailto:secor@umces.edu){.email}
 
 [UMCES Profile](https://www.umces.edu/david-secor)  
 [Lab Website](http://fishconnectivity.cbl.umces.edu)
@@ -42,7 +42,7 @@ University of Maryland Center for Environmental Science
 ::: {.column width="70%"}
 Blue Wave Consulting Group
 
-[{{< fa envelope size=1x >}}](helenbailey@bluewaveconsultinggroup.com) [helenbailey\@bluewaveconsultinggroup.com](mailto:helenbailey@bluewaveconsultinggroup.com){.email}
+[{{< fa envelope size=1x >}} helenbailey\@bluewaveconsultinggroup.com](mailto:helenbailey@bluewaveconsultinggroup.com){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/599233)
 :::
@@ -61,7 +61,7 @@ Blue Wave Consulting Group
 ::: {.column width="70%"}
 University of Maryland Center for Environmental Science
 
-[{{< fa envelope size=1x >}}](lyubchich@umces.edu) [lyubchich\@umces.edu](mailto:lyubchich@umces.edu){.email}
+[{{< fa envelope size=1x >}} lyubchich\@umces.edu](mailto:lyubchich@umces.edu){.email}
 
 [Website](https://www.umces.edu/vyacheslav-lyubchich)
 
@@ -87,7 +87,7 @@ Projects:
 
 - [Marine mammal monitoring](mmm.qmd)
 
-[{{< fa envelope size=1x >}}](rbell@umces.edu) [rbell\@umces.edu](mailto:rbell@umces.edu){.email}
+[{{< fa envelope size=1x >}} rbell\@umces.edu](mailto:rbell@umces.edu){.email}
 
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle)
 :::
@@ -110,7 +110,7 @@ Projects:
 
 -   [Fishery Resources](frm/index.qmd)
 
-[{{< fa envelope size=1x >}}](obrien@umces.edu) [obrien\@umces.edu](mailto:obrien@umces.edu){.email}
+[{{< fa envelope size=1x >}} obrien\@umces.edu](mailto:obrien@umces.edu){.email}
 
 [{{< fa brands github size=2x >}}](https://github.com/mhpob) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/ABF-9080-2021)
 :::
@@ -134,7 +134,7 @@ Projects:
 -   [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
 -   [Marine mammal monitoring](mmm.qmd)
 
-[{{< fa envelope size=1x >}}](ksilva@umces.edu) [ksilva\@umces.edu](mailto:ksilva@umces.edu){.email}
+[{{< fa envelope size=1x >}} ksilva\@umces.edu](mailto:ksilva@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
@@ -158,7 +158,7 @@ Projects:
 -   [Real-time whale monitoring](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
 -   [Marine mammal monitoring](mmm.qmd)
 
-[{{< fa envelope size=1x >}}](jctesta@umces.edu) [jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
+[{{< fa envelope size=1x >}} jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
