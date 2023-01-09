@@ -116,6 +116,33 @@ Projects:
 :::
 :::
 
+### Lauren Rodriguez
+
+::: columns
+::: {.column width="25%"}
+
+![](Pictures/team/lauren.jpg)
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+University of Maryland Center for Environmental Science
+
+Projects:
+
+  - [Fishery Resources](frm/index.qmd)
+  - [Marine mammal monitoring](mmm.qmd)
+  
+[{{< fa envelope size=1x >}} lrodriguez@umces.edu ](mailto:lrodriguez@umces.edu ){.email}
+
+[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
+
+:::
+:::
+
 ### Kirsten Silva
 
 ::: columns
