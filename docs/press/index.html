@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="quarto-0.9.80">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>TailWinds - Marine Mammal Monitoring</title>
+  <title>TailWinds - Press</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -13,22 +13,24 @@
     ul.task-list{list-style: none;}
   </style>
 
-  <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-  <script src="site_libs/quarto-nav/headroom.min.js"></script>
-  <script src="site_libs/clipboard/clipboard.min.js"></script>
-  <meta name="quarto:offset" content="./">
-  <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-  <script src="site_libs/quarto-search/fuse.min.js"></script>
-  <script src="site_libs/quarto-search/quarto-search.js"></script>
-  <script src="site_libs/quarto-html/quarto.js"></script>
-  <script src="site_libs/quarto-html/popper.min.js"></script>
-  <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-  <script src="site_libs/quarto-html/anchor.min.js"></script>
-  <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-  <script src="site_libs/bootstrap/bootstrap.min.js"></script>
-  <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="../site_libs/quarto-nav/headroom.min.js"></script>
+  <script src="../site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="../">
+  <script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="../site_libs/quarto-search/fuse.min.js"></script>
+  <script src="../site_libs/quarto-search/quarto-search.js"></script>
+  <script src="../site_libs/quarto-listing/list.min.js"></script>
+  <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+  <script src="../site_libs/quarto-html/quarto.js"></script>
+  <script src="../site_libs/quarto-html/popper.min.js"></script>
+  <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="../site_libs/quarto-html/anchor.min.js"></script>
+  <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
   <script id="quarto-search-options" type="application/json">{
     "location": "navbar",
     "copy-button": false,
@@ -48,17 +50,40 @@
       "search-submit-button-title": "Submit"
     }
   }</script>
+  <script>
+
+    window.document.addEventListener("DOMContentLoaded", function (_event) {
+      const listingTargetEl = window.document.querySelector('#listing-press-listings .list');
+      if (!listingTargetEl) {
+        // No listing discovered, do not attach.
+        return; 
+      }
+
+      const options = {
+        valueNames: ['listing-date','listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+        
+        searchColumns: ["listing-title","listing-href","listing-source","listing-image","listing-date","listing-categories","listing-project"],
+      };
+
+      window['quarto-listings'] = window['quarto-listings'] || {};
+      window['quarto-listings']['listing-press-listings'] = new List('listing-press-listings', options);
+
+      if (window['quarto-listing-loaded']) {
+        window['quarto-listing-loaded']();
+      }
+    });
+    </script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">TailWinds</span>
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -70,21 +95,21 @@
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-monitoring-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">Monitoring Projects</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-monitoring-projects">    
         <li>
-    <a class="dropdown-item" href="./rtwb/index.html">
+    <a class="dropdown-item" href="../rtwb/index.html">
  <span class="dropdown-text">Whales in Real-time</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./frm/index.html">
+    <a class="dropdown-item" href="../frm/index.html">
  <span class="dropdown-text">Fishery Resources</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./mmm.html">
+    <a class="dropdown-item" href="../mmm.html">
  <span class="dropdown-text">Marine Mammals</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./team.html">The Team</a>
+    <a class="nav-link" href="../team.html">The Team</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -97,60 +122,96 @@
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
-<h2 id="toc-title">On this page</h2>
-<ul>
-<li><a href="#under-construction" class="nav-link active" data-scroll-target="#under-construction">Under construction</a></li>
-</ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Whale buoy">Whale buoy <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Whales">Whales <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 <header id="title-block-header" class="quarto-title-block default">
 
-<div class="quarto-title"><h1 class="title display-7">Marine Mammal Monitoring</h1></div></header>
+<div class="quarto-title"><h1 class="title display-7">Press</h1></div></header>
+<div class="press-listings">
 
-<section id="under-construction" class="level1">
-<h1>Under construction</h1>
-<p><img src="Pictures/mmm/traffic-cone.png" class="img-fluid"></p>
-<!-- ```{r} -->
-<!-- library(sf) -->
-<!-- library(geoarrow) -->
-<!-- library(leaflet) -->
-<!-- library(targets) -->
-<!-- ``` -->
-<!-- ```{r} -->
-<!-- towers <- st_read(tar_read(usw_locations), -->
-<!--                   layer = 'WTG_Layout_2022_0111', -->
-<!--                   quiet = T) -->
-<!-- wms_enc <- 'https://gis.charttools.noaa.gov/arcgis/rest/services/MCS/ENCOnline/MapServer/exts/MaritimeChartService/WMSServer' -->
-<!-- zones <- st_read(tar_read(usw_buildout), -->
-<!--                  quiet = T) -->
-<!-- mmm <- read.csv('Data/GEO/mmm_sites.csv', -->
-<!--                 na.strings = '') |>  -->
-<!--   st_as_sf(coords = c('longitude', 'latitude'), crs = 4326) |>  -->
-<!--   dplyr::mutate(type_name = as.factor(ifelse(is.na(type_name), 'MARU', type_name))) -->
-<!-- leaflet() |>  -->
-<!--   setView(lng = -74.7, lat = 38.3, zoom = 10) |>  -->
-<!--   addWMSTiles( -->
-<!--     wms_enc, -->
-<!--     layers = c(0:3, 6), -->
-<!--     options = WMSTileOptions(format = "image/png", transparent = T) -->
-<!--   ) |> -->
-<!--   addPolygons(data = zones, -->
-<!--               group = 'Development Zone') |>  -->
-<!--   addCircleMarkers(data = towers, radius = 1, color = 'black') |>   -->
-<!--   addCircleMarkers(data = mmm, label = ~ site, -->
-<!--                    color = ~ colorFactor(c('red', 'orange', 'green'), mmm$type_name)(type_name), -->
-<!--                    group = 'type_name') |> -->
-<!--   # addLegend(data = mmm, pal = ~ colorFactor(c('red', 'orange', 'green'), mmm$type_name)) |>  -->
-<!--   addMeasure(primaryLengthUnit = 'meters', primaryAreaUnit = 'hectares') |> -->
-<!--   addMiniMap(zoomLevelFixed = 7) -->
-<!-- ``` -->
+</div>
 
 
-</section>
-</main> <!-- /main -->
+
+<div class="quarto-listing" id="listing-press-listings">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-press-listings-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-press-listings'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Whales,Whale buoy" data-listing-date-sort="2021-07-15" data-listing-title-sort="New Ocean Buoy To Monitor Activity In Wind Farm Area">
+<div class="thumbnail">
+<a href="">
+<div class="thumbnail-image">
+
+</div>
+</a><p><a href=""></a></p>
+</div>
+<div class="body">
+<a href="">
+<h3 class="no-anchor listing-title">
+New Ocean Buoy To Monitor Activity In Wind Farm Area
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="">
+<div class="listing-date">
+7/14/21
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Whales,Whale buoy" data-listing-date-sort="2021-07-07" data-listing-title-sort="Monitoring Buoy To Help Research Marine Mammals Off Atlantic Coast" data-listing-image-sort="https://www.umces.edu/sites/default/files/styles/paragraph_with_media__small/public/paragraph-media/Marine%20Mammal%20Buoy.jpeg">
+<div class="thumbnail">
+<p><a href=""> <img src="https://www.umces.edu/sites/default/files/styles/paragraph_with_media__small/public/paragraph-media/Marine%20Mammal%20Buoy.jpeg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="">
+<h3 class="no-anchor listing-title">
+Monitoring Buoy To Help Research Marine Mammals Off Atlantic Coast
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="">
+<div class="listing-date">
+7/6/21
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const icon = "";

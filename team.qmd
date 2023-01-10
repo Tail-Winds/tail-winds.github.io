@@ -75,6 +75,7 @@ University of Maryland Center for Environmental Science
 
 ::: columns
 ::: {.column width="25%"}
+![](Pictures/team/robert.jpg)
 :::
 
 ::: {.column width="5%"}
@@ -89,7 +90,7 @@ Projects:
 
 [{{< fa envelope size=1x >}} rbell\@umces.edu](mailto:rbell@umces.edu){.email}
 
-[{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle)
+[{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle) [{{< fa brands mastodon size=2x >}}](https://ecoevo.social/@cosmicspittle)
 :::
 :::
 
