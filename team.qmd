@@ -191,3 +191,23 @@ Projects:
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
 :::
+
+### Caroline Tribble
+
+::: columns
+::: {.column width="25%"}
+![](Pictures/team/caroline.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+University of Maryland Center for Environmental Science
+
+Projects:
+
+-   [Marine mammal monitoring](mmm.qmd)
+
+:::
+:::
