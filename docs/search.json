@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Our Team",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\nLab Website\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nWebsite"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "team.html#analysts",
-    "href": "team.html#analysts",
-    "title": "Our Team",
-    "section": "Analysts",
-    "text": "Analysts\n\nRobert Bell\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nMarine mammal monitoring\n\n rbell@umces.edu\n \n\n\n\n\nMike O’Brien\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nFishery Resources\n\n obrien@umces.edu\n   \n\n\n\n\nLauren Rodriguez\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nFishery Resources\nMarine mammal monitoring\n\n lrodriguez@umces.edu\n\n\n\n\n\nKirsten Silva\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n ksilva@umces.edu\n\n\n\n\n\nJamie Testa\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n jctesta@umces.edu\n\n\n\n\n\nCaroline Tribble\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nMarine mammal monitoring"
+    "objectID": "frm/index.html",
+    "href": "frm/index.html",
+    "title": "Fishery Resource Monitoring",
+    "section": "",
+    "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
   },
   {
-    "objectID": "press/index.html",
-    "href": "press/index.html",
-    "title": "Press",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Ocean Buoy To Monitor Activity In Wind Farm Area\n\n\n\n\n\n\n\n\n\n7/15/21\n\n\n\n\n\n\n  \n\n\n\n\nMonitoring Buoy To Help Research Marine Mammals Off Atlantic Coast\n\n\n\n\n\n\n\n\n\n7/7/21\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "rtwb/index.html",
-    "href": "rtwb/index.html",
-    "title": "Real Time Whale Buoy",
-    "section": "",
-    "text": "UMCES TailWinds is working with US Wind, MD DNR and Woods Hole Oceanographic Institution (WHOI) to monitor for whales offshore Ocean City, Maryland. US Wind has funded a year monitoring for four baleen whale species: fin, humpback,sei and North Atlantic right whales using a real-time whale buoy (RTWB). This buoy records audio, processes it with a Low Frequency Detection and Classification system (LFDCS) and transmits data via iridium satellite communications daily to the Robots 4 Whales website. This data is reviewed daily by UMCES scientists for the presence of whales calls and whale detections are shared with apps: Whale Alert, BOEM’s Ocean Alert, and Mysticetus.\nOcean City, MD Buoy"
+    "objectID": "frm/index.html#recreational",
+    "href": "frm/index.html#recreational",
+    "title": "Fishery Resource Monitoring",
+    "section": "Recreational Fishery Resource Monitoring",
+    "text": "Recreational Fishery Resource Monitoring\n\nUMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
   },
   {
     "objectID": "index.html",
@@ -49,27 +42,6 @@
     "text": "Near Real-time Whale Monitoring\n\n\n\n\n\n\n\n\nThe Near Real-time Whale Monitoring project is a unique partnership between UMCES and Woods Hole Oceanographic Institution that utilizes specialized quiet mooring technology, whale vocalization detection algorithms, and telecommunications to transmit frequent alerts on the presence of baleen whales. The near real-time whale detection system will provide timely alerts on the presence of endangered whales."
   },
   {
-    "objectID": "frm/index.html",
-    "href": "frm/index.html",
-    "title": "Fishery Resource Monitoring",
-    "section": "",
-    "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
-  },
-  {
-    "objectID": "frm/index.html#recreational",
-    "href": "frm/index.html#recreational",
-    "title": "Fishery Resource Monitoring",
-    "section": "Recreational Fishery Resource Monitoring",
-    "text": "Recreational Fishery Resource Monitoring\n\nUMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "mmm.html",
     "href": "mmm.html",
     "title": "Marine Mammal Monitoring",
@@ -77,11 +49,18 @@
     "text": "Under construction"
   },
   {
-    "objectID": "rtwb/index.html#whales-detected-this-month",
-    "href": "rtwb/index.html#whales-detected-this-month",
+    "objectID": "press/index.html",
+    "href": "press/index.html",
+    "title": "Press",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Ocean Buoy To Monitor Activity In Wind Farm Area\n\n\n\n\n\n\n\n\n\n7/15/21\n\n\n\n\n\n\n  \n\n\n\n\nMonitoring Buoy To Help Research Marine Mammals Off Atlantic Coast\n\n\n\n\n\n\n\n\n\n7/7/21\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "rtwb/index.html",
+    "href": "rtwb/index.html",
     "title": "Real Time Whale Buoy",
-    "section": "Whale(s) detected this month",
-    "text": "Whale(s) detected this month\n North Atlantic right whale (Eubalaena glacialis) Current Status of population: Critically Endangered species Visit the NARW page on NOAA’s website for more information.\n Fin whale (Balaenoptera physalus) Current Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n Humpback whale (Megaptera novaeangliae) Current status of population: Protected species Visit the humpback whale page on NOAA’s website for more information.\n##Project Funders and collaborators"
+    "section": "",
+    "text": "UMCES TailWinds is working with US Wind, MD DNR and Woods Hole Oceanographic Institution (WHOI) to monitor for whales offshore Ocean City, Maryland. US Wind has funded a year monitoring for four baleen whale species: fin, humpback,sei and North Atlantic right whales using a real-time whale buoy (RTWB). This buoy records audio, processes it with a Low Frequency Detection and Classification system (LFDCS) and transmits data via iridium satellite communications daily to the Robots 4 Whales website. This data is reviewed daily by UMCES scientists for the presence of whales calls and whale detections are shared with apps: Whale Alert, BOEM’s Ocean Alert, and Mysticetus.\nOcean City, MD Buoy"
   },
   {
     "objectID": "rtwb/index.html#whales-detected-this-month-january-2023",
@@ -96,5 +75,19 @@
     "title": "Real Time Whale Buoy",
     "section": "Project Funders and collaborators",
     "text": "Project Funders and collaborators"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\nLab Website\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nWebsite"
+  },
+  {
+    "objectID": "team.html#analysts",
+    "href": "team.html#analysts",
+    "title": "Our Team",
+    "section": "Analysts",
+    "text": "Analysts\n\nRobert Bell\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nMarine mammal monitoring\n\n rbell@umces.edu\n \n\n\n\n\nMike O’Brien\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nFishery Resources\n\n obrien@umces.edu\n   \n\n\n\n\nLauren Rodriguez\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nFishery Resources\nMarine mammal monitoring\n\n lrodriguez@umces.edu\n\n\n\n\n\nKirsten Silva\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n ksilva@umces.edu\n\n\n\n\n\nJamie Testa\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n jctesta@umces.edu\n\n\n\n\n\nCaroline Tribble\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\nProjects:\n\nMarine mammal monitoring"
   }
 ]
