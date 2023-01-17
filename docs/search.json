@@ -25,7 +25,7 @@
     "href": "rtwb/index.html",
     "title": "Real Time Whale Buoy",
     "section": "",
-    "text": "Ocean City, MD Buoy\n\nUnder construction"
+    "text": "UMCES TailWinds is working with US Wind, MD DNR and Woods Hole Oceanographic Institution (WHOI) to monitor for whales offshore Ocean City, Maryland. US Wind has funded a year monitoring for four baleen whale species: fin, humpback,sei and North Atlantic right whales using a real-time whale buoy (RTWB). This buoy records audio, processes it with a Low Frequency Detection and Classification system (LFDCS) and transmits data via iridium satellite communications daily to the Robots 4 Whales website. This data is reviewed daily by UMCES scientists for the presence of whales calls and whale detections are shared with apps: Whale Alert, BOEM’s Ocean Alert, and Mysticetus.\nOcean City, MD Buoy"
   },
   {
     "objectID": "index.html",
@@ -75,5 +75,26 @@
     "title": "Marine Mammal Monitoring",
     "section": "",
     "text": "Under construction"
+  },
+  {
+    "objectID": "rtwb/index.html#whales-detected-this-month",
+    "href": "rtwb/index.html#whales-detected-this-month",
+    "title": "Real Time Whale Buoy",
+    "section": "Whale(s) detected this month",
+    "text": "Whale(s) detected this month\n North Atlantic right whale (Eubalaena glacialis) Current Status of population: Critically Endangered species Visit the NARW page on NOAA’s website for more information.\n Fin whale (Balaenoptera physalus) Current Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n Humpback whale (Megaptera novaeangliae) Current status of population: Protected species Visit the humpback whale page on NOAA’s website for more information.\n##Project Funders and collaborators"
+  },
+  {
+    "objectID": "rtwb/index.html#whales-detected-this-month-january-2023",
+    "href": "rtwb/index.html#whales-detected-this-month-january-2023",
+    "title": "Real Time Whale Buoy",
+    "section": "Whale(s) detected this month (January 2023)",
+    "text": "Whale(s) detected this month (January 2023)\n\nNorth Atlantic right whale (Eubalaena glacialis) Current Status of population: Critically Endangered species Visit the NARW page on NOAA’s website for more information.\n\nFin whale (Balaenoptera physalus) Current Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n\nHumpback whale (Megaptera novaeangliae) Current status of population: Protected species Visit the humpback whale page on NOAA’s website for more information."
+  },
+  {
+    "objectID": "rtwb/index.html#project-funders-and-collaborators",
+    "href": "rtwb/index.html#project-funders-and-collaborators",
+    "title": "Real Time Whale Buoy",
+    "section": "Project Funders and collaborators",
+    "text": "Project Funders and collaborators"
   }
 ]
