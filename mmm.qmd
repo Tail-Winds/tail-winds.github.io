@@ -1,14 +1,5 @@
 ---
 title: "Marine Mammal Monitoring"
-echo: false
-warning: false
-message: false
-
-knitr:
-  opts_knit:
-    root.dir: "c:/users/darpa2/analysis/frm-survey"
-execute: 
-  freeze: auto
 ---
 
 # Under construction

@@ -14,3 +14,5 @@ listing:
   filter-ui: true
   sort-ui: true
   sort: "date desc"
+
+# https://quarto.org/docs/projects/quarto-projects.html#shared-metadata

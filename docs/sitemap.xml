@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwinds.umces.edu/about.html</loc>
-    <lastmod>2023-01-04T22:45:14.606Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/frm/index.html</loc>
-    <lastmod>2023-01-04T22:45:15.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/index.html</loc>
-    <lastmod>2023-01-04T22:45:17.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/mmm.html</loc>
-    <lastmod>2023-01-04T22:45:18.617Z</lastmod>
+    <loc>https://tailwinds.umces.edu/team.html</loc>
+    <lastmod>2023-01-12T20:49:27.487Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/press/index.html</loc>
-    <lastmod>2023-01-04T22:45:19.984Z</lastmod>
+    <lastmod>2023-01-12T20:49:27.842Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/team.html</loc>
-    <lastmod>2023-01-04T22:45:21.877Z</lastmod>
+    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
+    <lastmod>2023-01-12T20:49:28.140Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/website_instructions.html</loc>
-    <lastmod>2023-01-04T22:45:23.301Z</lastmod>
+    <loc>https://tailwinds.umces.edu/index.html</loc>
+    <lastmod>2023-01-12T20:49:28.474Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/index.html</loc>
+    <lastmod>2023-01-12T20:49:28.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/about.html</loc>
+    <lastmod>2023-01-12T20:49:29.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/mmm.html</loc>
+    <lastmod>2023-01-12T20:49:30.252Z</lastmod>
   </url>
 </urlset>

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.280">
+<meta name="generator" content="quarto-1.2.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>TailWinds - Getting yourself set up to edit the website</title>
+<title>TailWinds - Real Time Whale Buoy</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,7 +60,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">TailWinds</span>
     </a>
   </div>
@@ -85,21 +85,21 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-monitoring-projects">    
         <li>
-    <a class="dropdown-item" href="http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml">
+    <a class="dropdown-item" href="../rtwb/index.html">
  <span class="dropdown-text">Whales in Real-time</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./frm/index.html">
+    <a class="dropdown-item" href="../frm/index.html">
  <span class="dropdown-text">Fishery Resources</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./mmm.html">
+    <a class="dropdown-item" href="../mmm.html">
  <span class="dropdown-text">Marine Mammals</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./team.html">
+    <a class="nav-link" href="../team.html">
  <span class="menu-text">The Team</span></a>
   </li>  
 </ul>
@@ -117,14 +117,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#r" id="toc-r" class="nav-link active" data-scroll-target="#r">1. R</a></li>
-  <li><a href="#rstudio" id="toc-rstudio" class="nav-link" data-scroll-target="#rstudio">2. RStudio</a>
-  <ul class="collapse">
-  <li><a href="#a.-quarto" id="toc-a.-quarto" class="nav-link" data-scroll-target="#a.-quarto">2a. Quarto</a></li>
-  </ul></li>
-  <li><a href="#git-and-github" id="toc-git-and-github" class="nav-link" data-scroll-target="#git-and-github">3. Git and GitHub</a></li>
-  <li><a href="#download-the-website-to-your-computer" id="toc-download-the-website-to-your-computer" class="nav-link" data-scroll-target="#download-the-website-to-your-computer">4. Download the website to your computer</a></li>
-  <li><a href="#createedit-quarto-.qmd-files-for-the-desired-page" id="toc-createedit-quarto-.qmd-files-for-the-desired-page" class="nav-link" data-scroll-target="#createedit-quarto-.qmd-files-for-the-desired-page">5. Create/edit Quarto (.qmd) files for the desired page</a></li>
+  <li><a href="#under-construction" id="toc-under-construction" class="nav-link active" data-scroll-target="#under-construction">Under construction</a></li>
   </ul>
 </nav>
     </div>
@@ -133,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Getting yourself set up to edit the website</h1>
+<h1 class="title">Real Time Whale Buoy</h1>
 </div>
 
 
@@ -148,54 +141,10 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="r" class="level2">
-<h2 class="anchored" data-anchor-id="r">1. R</h2>
-<p>You don’t have to use R to do any of this – it also will work with Jupyter notebooks or in the command line, e.g.&nbsp;For the purposes of this guide, I’m assuming that our current <em>lingua franca</em> is R.</p>
-<p>So, if you don’t have R installed on your machine, go ahead and <a href="https://cran.r-project.org/">download it here</a>, then install.</p>
-</section>
-<section id="rstudio" class="level2">
-<h2 class="anchored" data-anchor-id="rstudio">2. RStudio</h2>
-<p>Again, this isn’t the only program that will do that, I’m just assuming that it’s common language at this point. Download <a href="https://posit.co/download/rstudio-desktop/">by following this link</a> and install. I’m fairly certain that RStudio comes with a version of <a href="https://quarto.org/">Quarto</a>, the program we’ll use to build the website, installed.</p>
-<section id="a.-quarto" class="level3">
-<h3 class="anchored" data-anchor-id="a.-quarto">2a. Quarto</h3>
-<p>Just in case I’m wrong about that, <a href="https://quarto.org/docs/get-started/">click here</a> to download Quarto, then install.</p>
-</section>
-</section>
-<section id="git-and-github" class="level2">
-<h2 class="anchored" data-anchor-id="git-and-github">3. Git and GitHub</h2>
-<p>This is the hardest part. Seriously. Installing git is way more annoying than it should be. Luckily, there’s a really good guide called <a href="https://happygitwithr.com/install-intro.html">Happy Git with R</a> that does a pretty good job walking through this process while being candid about the pitfalls.</p>
-<p>The guide also walks you through signing up for GitHub, which is easy, free, and neccesary for you to access the website.</p>
-</section>
-<section id="download-the-website-to-your-computer" class="level2">
-<h2 class="anchored" data-anchor-id="download-the-website-to-your-computer">4. Download the website to your computer</h2>
-<p>This is also known as “cloning the repository” in Git/GitHub speak. I suggest using RStudio, following the <a href="https://happygitwithr.com/existing-github-first.html#rstudio-ide-1">instructions in section 16.2.2 here</a>. Use https://github.com/Tail-Winds/tail-winds.github.io.git as the URL for the GitHub repository.</p>
-<p>Now you’re good to go!</p>
-</section>
-<section id="createedit-quarto-.qmd-files-for-the-desired-page" class="level2">
-<h2 class="anchored" data-anchor-id="createedit-quarto-.qmd-files-for-the-desired-page">5. Create/edit Quarto (.qmd) files for the desired page</h2>
-<p>The Quarto website has <a href="https://quarto.org/docs/get-started/hello/rstudio.html">really thorough guides</a> on how to do this. Slava and I are also on call via Slack!</p>
-<p>Generally:</p>
-<ol type="1">
-<li>Click the “Pull” button in the Git tab. This will download any changes that have made to the website that you don’t have.</li>
-<li>Go to File &gt; New File &gt; Quarto Document to make a new page.</li>
-<li>Write whatever you want to go on the page</li>
-<li>If you want the file to show up on the navigation bar, edit the _quarto.yml file – this serves as the website’s map. Feel free to skip this step if you don’t want people to navigate to the page just yet. This is similar to the current page you’re on – you can access directly through the URL, but not by clicking to it.</li>
-<li>Go to Build &gt; Preview Site. This will convert everything to HTML behind the scenes.</li>
-<li>Go to the Git tab and click the “Pull” button. This will download any changes that have made to the website since step 1.</li>
-<li>Click the “Commit” button and select the files you want to add to the website. Put a message describing the changes you’ve made in the “Commit message” box so that others can see what is going on.</li>
-<li>Click “Commit” in the dialog box to log these changes.</li>
-<li>Click the “Push” button. This sends all of your changes to GitHub, where the website is compiled and built in the cloud!</li>
-<li>In a few seconds, the website will be updated.</li>
-</ol>
-<p>When making an edit to a page that already exits:</p>
-<ol type="1">
-<li>Click “Pull” in the Git tab.</li>
-<li>Edit your file.</li>
-<li>Preview website as before to build the HTML.</li>
-<li>Click “Pull” again.</li>
-<li>Commit changes.</li>
-<li>Push to GitHub</li>
-</ol>
+<p><img src="images/HumpbackHawaiicropped.png" class="img-fluid"> <a href="http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml">Ocean City, MD Buoy</a></p>
+<section id="under-construction" class="level1">
+<h1>Under construction</h1>
+<p><img src="images/traffic-cone.png" style="height:50.0%"></p>
 
 
 </section>

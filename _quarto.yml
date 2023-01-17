@@ -10,7 +10,7 @@ website:
       - text: Monitoring Projects
         menu:
         - text: Whales in Real-time
-          href: http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml
+          href: rtwb/index.qmd
         - text: Fishery Resources
           href: frm/index.qmd
         - text: Marine Mammals
