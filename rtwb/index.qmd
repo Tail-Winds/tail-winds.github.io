@@ -5,40 +5,35 @@ format:
     resources:
       - audio
 ---
-![](images/HumpbackHawaiicropped.png)
-UMCES TailWinds is working with US Wind, MD DNR and Woods Hole Oceanographic Institution (WHOI) to monitor for whales offshore Ocean City, Maryland. US Wind has funded a year monitoring for four baleen whale species: fin, humpback,sei and North Atlantic right whales using a real-time whale buoy (RTWB). This buoy records audio, processes it with a Low Frequency Detection and Classification system (LFDCS) and transmits data via iridium satellite communications daily to the Robots 4 Whales website. This data is reviewed daily by UMCES scientists for the presence of whales calls and whale detections are shared with apps: Whale Alert, BOEM's Ocean Alert, and Mysticetus. 
+
+![](images/HumpbackHawaiicropped.png) UMCES TailWinds is working with US Wind, MD DNR and Woods Hole Oceanographic Institution (WHOI) to monitor for whales offshore Ocean City, Maryland. US Wind has funded a year monitoring for four baleen whale species: fin, humpback,sei and North Atlantic right whales using a real-time whale buoy (RTWB). This buoy records audio, processes it with a Low Frequency Detection and Classification system (LFDCS) and transmits data via iridium satellite communications daily to the Robots 4 Whales website. This data is reviewed daily by UMCES scientists for the presence of whales calls and whale detections are shared with apps: Whale Alert, BOEM's Ocean Alert, and Mysticetus. Listen to Dr. Helen Bailey's podcast below for more information. 
 
 <audio controls source src="audio/Cetacean_Sound_Bite_11_July_2022.mp3">
+
 </audio>
-   
+
 [Ocean City, MD Buoy](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
 
 ![](images/Websitefigure1.png)
 
 ## Whale(s) detected this month (January 2023)
+
 ![](images/NARW.png)
 
 North Atlantic right whale (Eubalaena glacialis)\
 Current Status of population: Critically Endangered species\
-Visit the NARW page on NOAA's website for more information. 
+Visit the [North Atlantic right whale page](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale) on NOAA's website for more information.
 
 ![](images/Finwhale.png)
 
 Fin whale (Balaenoptera physalus)\
-Current Status of population: Endangered species\  
-Visit the fin whale page on NOAA's website for more information. 
+Current Status of population: Endangered species\ Visit the [fin whale page](https://www.fisheries.noaa.gov/species/fin-whale) on NOAA's website for more information.
 
 ![](images/Humpbackwhale.png)
 
 Humpback whale (Megaptera novaeangliae)\
-Current status of population: Protected species\ 
-Visit the humpback whale page on NOAA's website for more information. 
+Current status of population: Protected species\ Visit the humpback whale page on NOAA's website for more information.
 
-## Project Funders and collaborators 
-![](images/USWindlogo.png) 
-![](images/UMCESlogo.png) 
-![](images/MDDNRlogo.png) 
-![](images/WHOIlogo.png) 
+## Project Funders and collaborators
 
-
-
+![](images/USWindlogo.png) ![](images/UMCESlogo.png) ![](images/MDDNRlogo.png) ![](images/WHOIlogo.png)
