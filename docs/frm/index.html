@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.3.106">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -80,26 +80,26 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-monitoring-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-monitoring-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Monitoring Projects</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-monitoring-projects">    
         <li>
-    <a class="dropdown-item" href="../rtwb/index.html">
+    <a class="dropdown-item" href="../rtwb/index.html" rel="" target="">
  <span class="dropdown-text">Whales in Real-time</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../frm/index.html">
+    <a class="dropdown-item" href="../frm/index.html" rel="" target="">
  <span class="dropdown-text">Fishery Resources</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../mmm.html">
+    <a class="dropdown-item" href="../mmm.html" rel="" target="">
  <span class="dropdown-text">Marine Mammals</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../team.html">
+    <a class="nav-link" href="../team.html" rel="" target="">
  <span class="menu-text">The Team</span></a>
   </li>  
 </ul>
@@ -293,7 +293,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+ 	var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

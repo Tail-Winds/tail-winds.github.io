@@ -1,12 +1,15 @@
 ---
 title: "Real Time Whale Buoy"
+format:
+  html:
+    resources:
+      - audio
 ---
 ![](images/HumpbackHawaiicropped.png)
 UMCES TailWinds is working with US Wind, MD DNR and Woods Hole Oceanographic Institution (WHOI) to monitor for whales offshore Ocean City, Maryland. US Wind has funded a year monitoring for four baleen whale species: fin, humpback,sei and North Atlantic right whales using a real-time whale buoy (RTWB). This buoy records audio, processes it with a Low Frequency Detection and Classification system (LFDCS) and transmits data via iridium satellite communications daily to the Robots 4 Whales website. This data is reviewed daily by UMCES scientists for the presence of whales calls and whale detections are shared with apps: Whale Alert, BOEM's Ocean Alert, and Mysticetus. 
 
-<audio controls>
-     <source src="audio/Cetacean_Sound_Bite_11_July_2022.mp3" type="audio/mpeg">
-   </audio>
+<audio controls source src="audio/Cetacean_Sound_Bite_11_July_2022.mp3">
+</audio>
    
 [Ocean City, MD Buoy](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
 

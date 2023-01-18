@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwinds.umces.edu/team.html</loc>
-    <lastmod>2023-01-12T20:49:27.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/press/index.html</loc>
-    <lastmod>2023-01-12T20:49:27.842Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
-    <lastmod>2023-01-18T17:34:37.834Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/index.html</loc>
-    <lastmod>2023-01-17T21:05:14.597Z</lastmod>
+    <loc>https://tailwinds.umces.edu/about.html</loc>
+    <lastmod>2023-01-17T21:19:50.563Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/frm/index.html</loc>
-    <lastmod>2023-01-12T20:49:28.792Z</lastmod>
+    <lastmod>2023-01-17T21:19:51.169Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/about.html</loc>
-    <lastmod>2023-01-12T20:49:29.948Z</lastmod>
+<<<<<<< HEAD
+    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
+    <lastmod>2023-01-18T17:34:37.834Z</lastmod>
+=======
+    <loc>https://tailwinds.umces.edu/index.html</loc>
+    <lastmod>2023-01-17T21:19:51.834Z</lastmod>
+>>>>>>> refs/remotes/origin/realtime
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/mmm.html</loc>
-    <lastmod>2023-01-17T19:59:02.291Z</lastmod>
+    <lastmod>2023-01-17T21:19:52.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/press/index.html</loc>
+    <lastmod>2023-01-17T21:19:53.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
+    <lastmod>2023-01-17T21:19:53.702Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/team.html</loc>
+    <lastmod>2023-01-17T21:19:54.628Z</lastmod>
   </url>
 </urlset>
