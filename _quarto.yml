@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "TailWinds"
@@ -32,3 +31,5 @@ format:
 resources:
   - CNAME
 
+execute:
+  freeze: auto
