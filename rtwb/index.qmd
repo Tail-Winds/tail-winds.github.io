@@ -16,18 +16,12 @@ format:
 
 ![](images/Websitefigure1.png)
 
-## Whale(s) detected this month (`r month.name[as.numeric(format(Sys.Date(), '%m'))]` `r format(Sys.Date(), '%Y')`)
+## Whale(s) detected this month
 
 ```{r}
 #| results: asis
 #| echo: false
-res <- knitr::knit_child(
-  input = "wotm/2023-01.qmd",
-  envir = environment(),
-  quiet = TRUE
-)
-
-cat(res, sep = "\n")
+#| child: wotm/wotm.qmd
 ```
 
 ## Project Funders and collaborators
