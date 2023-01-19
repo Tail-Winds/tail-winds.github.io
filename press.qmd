@@ -1,0 +1,29 @@
+---
+title: "Press"
+listing: 
+  id: press
+  contents: press/press.yml
+metadata-files: [press/_meta.yml]
+---
+
+::: {.press}
+:::
+
+<!-- listing:  -->
+<!--   date-format: short -->
+<!--   feed: false -->
+<!--   type: default -->
+<!--   categories: true -->
+<!--   fields: -->
+<!--     - date -->
+<!--     - title -->
+<!--     - image -->
+<!--   field-links:  -->
+<!--     - title -->
+<!--     - date -->
+<!--     - image -->
+<!--   filter-ui: true -->
+<!--   sort-ui: true -->
+<!--   sort: "date desc" -->
+<!--   id: press-listings -->
+<!--   contents: press.yml -->

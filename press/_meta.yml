@@ -1,0 +1,14 @@
+listing: 
+  date-format: short
+  feed: false
+  categories: true
+  fields:
+    - date
+    - title
+    - image
+  field-links: [title]
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
+
+# https://quarto.org/docs/projects/quarto-projects.html#shared-metadata
