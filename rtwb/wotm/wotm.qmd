@@ -64,26 +64,26 @@ sw <- 'Sei whale' %in% whales_mon$whale
 #| label: right-whale
 #| results: asis
 #| echo: false
-#| child: wotm/rightwhale.qmd
+#| child: rightwhale.qmd
 ```
 
 ```{r eval=fw}
 #| label: fin-whale
 #| results: asis
 #| echo: false
-#| child: wotm/finwhale.qmd
+#| child: finwhale.qmd
 ```
 
 ```{r eval=hw}
 #| label: humpback-whale
 #| results: asis
 #| echo: false
-#| child: wotm/humpbackwhale.qmd
+#| child: humpbackwhale.qmd
 ```
 
 ```{r eval=sw}
 #| label: sei-whale
 #| results: asis
 #| echo: false
-#| child: wotm/seiwhale.qmd
+#| child: seiwhale.qmd
 ```
