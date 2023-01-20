@@ -1,0 +1,31 @@
+---
+title: Meet the Whales
+---
+
+```{r}
+#| label: right-whale
+#| results: asis
+#| echo: false
+#| child: ../rtwb/wotm/rightwhale.qmd
+```
+
+```{r}
+#| label: fin-whale
+#| results: asis
+#| echo: false
+#| child: ../rtwb/wotm/finwhale.qmd
+```
+
+```{r}
+#| label: humpback-whale
+#| results: asis
+#| echo: false
+#| child: ../rtwb/wotm/humpbackwhale.qmd
+```
+
+```{r}
+#| label: sei-whale
+#| results: asis
+#| echo: false
+#| child: ../rtwb/wotm/seiwhale.qmd
+```

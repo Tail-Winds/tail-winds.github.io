@@ -13,7 +13,15 @@ website:
         - text: Fishery Resources
           href: frm/index.qmd
         - text: Marine Mammals
-          file: mmm.qmd
+          href: mmm.qmd
+      - text: The Species
+        menu:
+        - text: Whales
+          href: meetthe/whales.qmd
+        - text: Dolphins and Porpoises
+          href: meetthe/dolphins.qmd
+        - text: Fish
+          href: meetthe/fish.qmd
       - text: The Team
         href: team.qmd
       # - text: In the Press
