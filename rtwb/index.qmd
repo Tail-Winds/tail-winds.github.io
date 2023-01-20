@@ -13,7 +13,7 @@ format:
 ```{r}
 #| results: asis
 #| echo: false
-#| child: wotm/wotm.qmd
+#| child: wotm.qmd
 ```
 
 ## Monitoring for Whales in real-time
