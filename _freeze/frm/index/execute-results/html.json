@@ -5,6 +5,7 @@
     "supporting": [
       "index_files"
     ],
+
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

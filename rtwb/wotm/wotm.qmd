@@ -1,0 +1,89 @@
+
+```{r}
+#| echo: false
+
+date <- Sys.Date()
+month_num <- as.numeric(format(Sys.Date(), '%m'))
+month_name <- month.name[month_num]
+year <- format(Sys.Date(), '%Y')
+```
+
+
+###  `r paste(month_name, year)`
+```{r}
+#| echo: false
+#| message: false
+library(rvest)
+library(dplyr)
+library(tidyr)
+
+whales_html <- read_html('http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml') 
+
+whales <- whales_html |> 
+  html_element(xpath = '/html/body/table[1]') |> 
+  html_table()
+
+
+colors <- whales_html |> 
+  html_elements(xpath = '/html/body/table[1]/tr/td')|> 
+  html_attr('style')
+
+colors <- colors[grepl('background', colors)]
+
+colors <- gsub('background-color:', '', colors)
+
+whales[, 2:5] <- matrix(colors, ncol = 4, byrow = T)
+
+
+
+whales <- whales |>
+  mutate(
+    across(
+      everything(),
+      ~ case_when(. == 'lightgray' ~ 'not detected',
+                  . == 'yellow' ~ 'possibly detected',
+                  . == 'red' ~ 'detected',
+                  T ~ .)
+    ),
+    Date = as.Date(Date, format = '%m/%d/%Y')
+  )
+
+whales_mon <- whales |>
+  filter(as.numeric(format(Date, '%m')) == month_num) |> 
+  gather('whale', 'detected', -Date) |>
+  filter(detected == 'detected') |>
+  distinct(whale)
+
+rw <- 'Right whale' %in% whales_mon$whale
+fw <- 'Fin whale' %in% whales_mon$whale
+hw <- 'Humpback whale' %in% whales_mon$whale
+sw <- 'Sei whale' %in% whales_mon$whale
+```
+
+```{r eval=rw}
+#| label: right-whale
+#| results: asis
+#| echo: false
+#| child: rightwhale.qmd
+```
+
+```{r eval=fw}
+#| label: fin-whale
+#| results: asis
+#| echo: false
+#| child: finwhale.qmd
+```
+
+```{r eval=hw}
+#| label: humpback-whale
+#| results: asis
+#| echo: false
+#| child: humpbackwhale.qmd
+```
+
+```{r eval=sw}
+#| label: sei-whale
+#| results: asis
+#| echo: false
+#| child: seiwhale.qmd
+```
