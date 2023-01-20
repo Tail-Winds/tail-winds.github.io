@@ -13,7 +13,7 @@ website:
         - text: Fishery Resources
           href: frm/index.qmd
         - text: Marine Mammals
-          file: mmm.qmd
+          file: mmm/index.qmd
       - text: The Team
         href: team.qmd
       # - text: In the Press
