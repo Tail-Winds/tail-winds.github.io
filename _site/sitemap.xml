@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tailwinds.umces.edu/frm/index.html</loc>
-    <lastmod>2023-01-19T22:45:01.239Z</lastmod>
+    <lastmod>2023-01-20T15:46:54.926Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/index.html</loc>
-    <lastmod>2023-01-19T22:45:01.752Z</lastmod>
+    <lastmod>2023-01-20T15:51:50.956Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/mmm.html</loc>
@@ -18,10 +18,18 @@
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
-    <lastmod>2023-01-19T22:45:03.251Z</lastmod>
+    <lastmod>2023-01-20T15:51:55.420Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/team.html</loc>
     <lastmod>2023-01-19T22:45:03.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/rec_survey.html</loc>
+    <lastmod>2023-01-20T15:46:53.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/pot_survey.html</loc>
+    <lastmod>2023-01-20T15:46:53.413Z</lastmod>
   </url>
 </urlset>
