@@ -24,9 +24,8 @@ UMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of th
 
 </audio>
 
-
 ![](images/Websitefigure1.png){width="5in"},![](images/WHALEALERT.png){width="2in"}
 
 ## Project Funders and collaborators
 
-![](images/USWindlogo.png) ![](images/UMCESlogo.png) ![](images/MDDNRlogo.png) ![](images/WHOIlogo.png)
+![](images/UMCESlogo.png){width="2in"} ![](images/USWindlogo.png){width="2in"} ![](images/MEALOGO.jpg){width="2in"} ![](images/MDDNRlogo.png){width="2in"} ![](images/WHOIlogo.png){width="2in"} ![](images/Helenslogo.png){width="1.25in"}
