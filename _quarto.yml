@@ -16,6 +16,8 @@ website:
           file: mmm.qmd
       - text: The Team
         href: team.qmd
+      - text: For Reference
+        href: pubs/index.qmd
       # - text: In the Press
       #   href: Press/index.qmd
 
