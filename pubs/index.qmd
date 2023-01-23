@@ -2,6 +2,20 @@
 title: "Related publications and references"
 ---
 
+## Baseline monitoring for marine mammals
+
+{{< ai closed-access size=lg color=pink >}} Bailey, H., Lyubchich, V., Wingfield, J., Fandel, A., Garrod, A., and Rice, A.N. (2019) Empirical evidence that large marine predator foraging behavior is consistent with area-restricted search theory. Ecology, 100: e02743. [https://doi.org/10.1002/ecy.2743](https://doi.org/10.1002/ecy.2743)
+
+{{< ai closed-access size=lg color=pink >}} Garrod, A., Fandel, A. D., Wingfield, J. E., Fouda, L., Rice, A. N., and Bailey, H. (2018) Validating automated click detector dolphin detection rates and investigating factors affecting performance. The Journal of the Acoustical Society of America, 144: 931-939. [https://doi.org/10.1121/1.5049802](https://doi.org/10.1121/1.5049802)
+
+{{< ai open-access size=lg color=green >}} Fouda, L., Wingfield, J. E., Fandel, A. D., Garrod, A., Hodge, K. B., Rice, A. N., and Bailey, H. (2018) Dolphins simplify their vocal calls in response to increased ambient noise. Biology letters, 14: 20180484. [https://doi.org/10.1098/rsbl.2018.0484](https://doi.org/10.1098/rsbl.2018.0484)
+
+{{< ai open-access size=lg color=green >}} Wingfield, J.E., O’Brien, M., Lyubchich, V., Roberts, J.J., Halpin, P.N., Rice, A.N. and Bailey, H., 2017. Year-round spatiotemporal distribution of harbour porpoises within and around the Maryland wind energy area. PLOS ONE, 12(5), p.e0176653 [https://doi.org/10.1371/journal.pone.0176653](https://doi.org/10.1371/journal.pone.0176653)
+
+{{< ai open-access size=lg color=green >}} Bailey, H., Brookes, K.L. and Thompson, P.M. (2014) Assessing environmental impacts of offshore wind farms: Lessons learned and recommendations for the future. Aquatic Biosystems, 10: 8. [https://doi.org/10.1186/2046-9063-10-8](https://doi.org/10.1186/2046-9063-10-8)
+
+{{< ai open-access size=lg color=green >}} Bailey, H., Fandel, A. D., Silva, K., Gryzb, E., McDonald, E., Hoover, A. L., Ogburn, M. B., & Rice, A. N. (2021). Identifying and predicting occurrence and abundance of a vocal animal species based on individually specific calls. Ecosphere, 12(8). [https://doi.org/10.1002/ecs2.3685](https://doi.org/10.1002/ecs2.3685)
+
 ## Baseline monitoring for migratory fishes
 
 {{< ai open-access size=lg color=green >}} O’Brien, M.H.P., Secor, D.H., 2021. Influence of thermal stratification and storms on acoustic telemetry detection efficiency: a year-long test in the US Southern Mid-Atlantic Bight. Animal Biotelemetry 9, 8. [https://doi.org/10.1186/s40317-021-00233-3](https://doi.org/10.1186/s40317-021-00233-3)
