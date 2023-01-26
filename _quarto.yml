@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - CNAME
+    - audio
 
 website:
   title: "TailWinds"
@@ -24,6 +27,8 @@ website:
           href: meetthe/fish.qmd
       - text: The Team
         href: team.qmd
+      - text: For Reference
+        href: pubs/index.qmd
       # - text: In the Press
       #   href: Press/index.qmd
 
@@ -35,9 +40,6 @@ format:
     toc: true
     link-external-icon: true
     link-external-newwindow: true
-
-resources:
-  - CNAME
 
 execute:
   freeze: auto
