@@ -1,8 +1,27 @@
 ---
 title: "Real Time Whale Buoy"
 ---
-![](images/HumpbackHawaiicropped.png)
-[Ocean City, MD Buoy](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml)
 
-# Under construction
-![](images/traffic-cone.png){height=50%}
+![](images/HumpbackHawaiicropped.png)
+
+## Whale(s) detected this month
+
+```{r}
+#| results: asis
+#| echo: false
+#| child: wotm.qmd
+```
+
+## Monitoring for Whales in real-time
+
+UMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of the [Ocean City Real-time Whale Buoy (RTWB)](http://dcs.whoi.edu/mdoc0722/mdoc0722_mdoc.shtml), listening for fin, humpback, sei and North Atlantic right whales. Built and deployed by Woods Hole Oceanographic Institution and purchased by the MD Department of Natural Resources, the Ocean City RTWB is deployed 27 miles offshore in the US wind MarWin Project area and represents the southernmost RTWB system in a network of whale listening stations that extends into the Gulf of Maine. This RTWB records audio, processes it with an on-board classification algorithm and at two hour intervals, transmits data via iridium satellite communications daily to the [Robots4Whales](http://dcs/whoi.edu/) website. This data is reviewed daily by UMCES scientists who confirm whales calls and send alerts to a Whale Alert network and informs National Ocean and Atmospheric Administration's alerts to marine traffic to avoid endangered North Atlantic right whales within [Slow Zones](https://fisheries.noaa.gov/feature-story/help-endangered-whales-slow-down-slow-zones). Listen to Dr. Helen Bailey's podcast below for more information.
+
+<audio controls source src="../audio/Cetacean_Sound_Bite_11_July_2022.mp3">
+
+</audio>
+
+![](images/Websitefigure1.png){width="5in"},![](images/WHALEALERT.png){width="2in"}
+
+## Project Funders and collaborators
+
+![](images/UMCESlogo.png){width="2in"} ![](images/USWindlogo.png){width="2in"} ![](images/MEALOGO.jpg){width="2in"} ![](images/MDDNRlogo.png){width="2in"} ![](images/WHOIlogo.png){width="2in"} ![](images/Helenslogo.png){width="1.25in"}

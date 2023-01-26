@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: docs
+  resources:
+    - CNAME
+    - audio
 
 website:
   title: "TailWinds"
@@ -17,6 +19,8 @@ website:
           file: mmm.qmd
       - text: The Team
         href: team.qmd
+      - text: For Reference
+        href: pubs/index.qmd
       # - text: In the Press
       #   href: Press/index.qmd
 
@@ -29,6 +33,5 @@ format:
     link-external-icon: true
     link-external-newwindow: true
 
-resources:
-  - CNAME
-
+execute:
+  freeze: auto
