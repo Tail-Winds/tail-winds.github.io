@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - CNAME
+    - audio
 
 website:
   title: "TailWinds"
@@ -29,9 +32,6 @@ format:
     toc: true
     link-external-icon: true
     link-external-newwindow: true
-
-resources:
-  - CNAME
 
 execute:
   freeze: auto
