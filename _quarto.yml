@@ -16,7 +16,7 @@ website:
         - text: Fishery Resources
           href: frm/index.qmd
         - text: Marine Mammals
-          href: mmm.qmd
+          file: mmm/index.qmd
       - text: The Species
         menu:
         - text: Whales
