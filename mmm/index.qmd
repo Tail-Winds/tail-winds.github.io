@@ -36,6 +36,6 @@ Dolphins are very social vocal species that use many different sounds for a vari
 
 ## Harbor Porpoise ![](images/porpoise_scaled.png){width="1in"}
 
-## North Atlantic right whale ![](images/NARW.png)
+## North Atlantic right whale ![](images/NARW.png){width="2in"}
 
-## Humpback Whale ![](images/humpback.png)
+## Humpback Whale ![](images/humpback.png){width="1.75in"}
