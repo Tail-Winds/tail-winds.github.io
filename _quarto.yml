@@ -8,6 +8,8 @@ website:
   title: "TailWinds"
   site-url: "https://tailwinds.umces.edu/"
   navbar:
+    logo: index_images/tailwinds_logo_white.png
+    title: false
     left:
       - text: Monitoring Projects
         menu:
@@ -26,7 +28,7 @@ website:
         - text: Fish
           href: meetthe/fish.qmd
       - text: The Team
-        href: team.qmd
+        href: team/index.qmd
       - text: For Reference
         href: pubs/index.qmd
       # - text: In the Press
