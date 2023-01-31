@@ -86,7 +86,7 @@ University of Maryland Center for Environmental Science
 
 Projects:  
 
--   [Marine mammal monitoring](mmm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 [{{< fa envelope size=1x >}} rbell\@umces.edu](mailto:rbell@umces.edu){.email}
 
@@ -109,7 +109,7 @@ University of Maryland Center for Environmental Science
 
 Projects:
 
--   [Marine mammal monitoring](mmm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 :::
 :::
@@ -130,7 +130,7 @@ University of Maryland Center for Environmental Science
 
 Projects:
 
--   [Fishery Resources](frm/index.qmd)
+-   [Fishery Resources](../frm/index.qmd)
 
 [{{< fa envelope size=1x >}} obrien\@umces.edu](mailto:obrien@umces.edu){.email}
 
@@ -155,8 +155,8 @@ University of Maryland Center for Environmental Science
 
 Projects:
 
--   [Fishery Resources](frm/index.qmd)
--   [Marine mammal monitoring](mmm/index.qmd)
+-   [Fishery Resources](../frm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
   
 [{{< fa envelope size=1x >}} lrodriguez@umces.edu ](mailto:lrodriguez@umces.edu ){.email}
 
@@ -180,8 +180,8 @@ University of Maryland Center for Environmental Science
 
 Projects:
 
--   [Real-time whale monitoring](rtwb/index.qmd)
--   [Marine mammal monitoring](mmm/index.qmd)
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 [{{< fa envelope size=1x >}} ksilva\@umces.edu](mailto:ksilva@umces.edu){.email}
 
@@ -204,8 +204,8 @@ University of Maryland Center for Environmental Science
 
 Projects:
 
--   [Real-time whale monitoring](rtwb/index.qmd)
--   [Marine mammal monitoring](mmm/index.qmd)
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 [{{< fa envelope size=1x >}} jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
 
@@ -228,7 +228,7 @@ University of Maryland Center for Environmental Science
 
 Projects:
 
--   [Marine mammal monitoring](mmm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 :::
 :::
