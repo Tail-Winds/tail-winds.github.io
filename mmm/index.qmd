@@ -60,7 +60,7 @@ Harbor Porpoises are the smallest cetacean being monitored during this study and
 
 North Atlantic right whales are the most endangered species in this study, their current status is critically endangered with than 340 individuals. Right whale's presence can be determined in audio by identifying upcall sounds at 200Hz.
 
-<audio controls source src="../audio/NARW_022422_201500.mp3" type="audio/wav">
+<audio controls source src="../audio/NARW_022422_201500.mp3">
 
 </audio>
 
@@ -68,6 +68,6 @@ North Atlantic right whales are the most endangered species in this study, their
 
 Humpback whales create a variety of complex sounds. They are most commonly known for their song patterns (only produced by male singers), however they also can emit social sounds (produced by both males and females). Humpback whales can sing up to 30 minutes at a time before they come up for air. The sequences of sound patterns created by singers are most commonly used to identify the presence of humpback whales.
 
-<audio controls source src="../audio/Humpbacksong_020722_225400.mp3" type="audio/wav">
+<audio controls source src="../audio/Humpbacksong_020722_225400.mp3">
 
 </audio>
