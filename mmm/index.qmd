@@ -11,22 +11,37 @@ A Passive Acoustic Monitoring (PAM) listening array will asses any long term cha
 # Listening devices
 
 ## Rockhoppers
+::: {.columns}
+::: {.column width="30%"}
+![](images/rockhoppers.png)
+:::
 
-![](images/rockhoppers.png){width="3in"}
+::: {.column width="5%"}
+:::
 
+::: {.column width="55%"}
 Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins.
+:::
+:::
 
 ## F-PODS
+::: {.columns}
+::: {.column width="15%"}
+![](images/FPOD.png){height="2in"}
+:::
 
-![](images/FPOD.png){width=".5in"}
+::: {.column width="5%"}
+:::
 
+::: {.column width="80%"}
 F-PODS log detailed information on echolocation clicks of dolphins and porpoises [www.chelonia.co.uk](https://www.chelonia.co.uk). Unlike the rockhoppers, these devices do not record the entire soundstream of the underwater environment but rather are specific to dolphins and porpoises.
-
+:::
+:::
 # Seasonality of Marine Mammals
 
 Marine Mammals can be detected offshore Maryland year round. However, specific species can only be found during specific times of the year. These seasonal patterns correlate with migration to and from favored feeding and breeding grounds. Marine mammals found offshore Maryland include a variety of different dolphin species, harbor porpoise, and baleen whales.
 
-![](images/MMM%20seasonal%20detections.png)
+![](images/MMM%20seasonal%20detections.png){.column-body-outset}
 
 # Sounds of Marine Mammals
 
@@ -38,14 +53,13 @@ Dolphins are very social vocal species that use many different sounds for a vari
 
 Harbor Porpoises are the smallest cetacean being monitored during this study and the most abundant in population size. Their foraging and social communication sounds consist of high frequency click trains.
 
-## North Atlantic right whale ![](images/NARW.png){width="2.5"}
+## North Atlantic right whale ![](images/NARW.png){width="2.5in"}
 
-North Atlantic right whales are the most endangered species in this study, their current status is critically endangered with than 340 indivuduals. Right whale's presence can be determined in audio by identifying upcall sounds at 200Hz.
+North Atlantic right whales are the most endangered species in this study, their current status is critically endangered with than 340 individuals. Right whale's presence can be determined in audio by identifying upcall sounds at 200Hz.
 
 <audio controls source src="../audio/NARW_022422_201500.wav" type="audio/wav">
-
 </audio>
 
-## Humpback Whale ![](images/humpback.png)
+## Humpback Whale ![](images/humpback.png){width="2in"}
 
 Humpback whales create a variety of complex sounds. They are most commonly known for their song patterns (only produced by male singers), however they also can emit social sounds (produced by both males and females). Humpback whales can sing up to 30 minutes at a time before they come up for air. The sequences of sound patterns created by singers are most commonly used to identify the presence of humpback whales.
