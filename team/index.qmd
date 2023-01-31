@@ -94,6 +94,27 @@ Projects:
 :::
 :::
 
+### Amber Fandel
+
+::: columns
+::: {.column width="25%"}
+![](images/amber.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+University of Maryland Center for Environmental Science
+
+Projects:
+
+-   [Marine mammal monitoring](mmm/index.qmd)
+
+:::
+:::
+
+
 ### Mike O'Brien
 
 ::: columns
