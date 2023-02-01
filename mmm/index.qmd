@@ -52,6 +52,10 @@ Marine Mammals can be detected offshore Maryland year round. However, specific s
 
 Dolphins are very social vocal species that use many different sounds for a variety of behaviors. Some of the sounds they make include: echolocation clicks, buzzes, and whistles. Clicks are buzzes indicate foraging behavior and whistles are used for social communication. Dolphins are known to emit individually unique whistles known as signature whistles. These whistles share the identity of an individual with other dolphins and are known to be stable for decades. Identifying signature whistles in audio recordings allows scientists an opportunity to track individuals temporally and spatially, a benefit when one is wondering if the same dolphins are returning to the same area year after year
 
+{{< video ../video/T1Coffshore_180727_finalversion.mp4 >}}
+
+This video shows the spectrogram image and audio collected from an underwater recorder in the US wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle. 
+
 ## Harbor Porpoise ![](images/porpoise_scaled.png){width="1.5in"}
 
 Harbor Porpoises are the smallest cetacean being monitored during this study and the most abundant in population size. Their foraging and social communication sounds consist of high frequency click trains.
