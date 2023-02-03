@@ -1,14 +1,23 @@
 ---
-title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
+title: |
+  ![](index_images/tailwinds_logo.png)
+subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
 ---
 
 ::: columns
+
+:::{.column width="15%"}
+:::
+
 ::: {.column width="20%"}
 
-![](Pictures/index/umces-seal.jpg)
+![](index_images/umces-seal.jpg){fig-align="center"}
 :::
 ::: {.column width="40%"}
-![](Pictures/index/us-wind_logo.jpg)
+![](index_images/us-wind_logo.jpg)
+:::
+
+:::{.column width="15%"}
 :::
 :::
 
@@ -17,9 +26,9 @@ title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offs
 ## Fishery Resource and Marine Mammal Monitoring
 
 ::: {layout-ncol=2 layout-valign="center"}
-![](Pictures/index/pots_and_flags.jpg)
+![](index_images/pots_and_flags.jpg)
 
-![](Pictures/index/mike_helen.png)
+![](index_images/mike_helen.png)
 :::
 
 Monitoring projects follow a *Before-After-Control-Impact* (BACI) and *Before-After-Gradient* (BAG) design following the before (2022-2024), during (2025-2026), and after construction periods (2027-2028). Field deployments for all monitoring projects utilize Ocean City commercial fishing and recreational charter vessels, as well as the [UMCES *R/V Rachel Carson*](https://www.umces.edu/research-fleet). The Fishery Resource Monitoring project evaluates reef and spillover effects and tests ropeless gear, the latter as a conservation measure against whale entanglement. The Marine Mammal Monitoring project deploys two types of listening devices: [Rockhopper recorders](https://www.birds.cornell.edu/ccb/rockhopper-unit/) designed by Cornell University to determine the occurrence and position of large whales (including North Atlantic right whales) and dolphins, and [F-POD devices](https://www.chelonia.co.uk/fpod_home_page.htm) to detect the tonal echolocation clicks of small cetaceans including porpoises. Additionally, this project will deploy [biotelemetry receivers](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/) to listen for passing fishes, sharks, rays and turtles that have been implanted with transponders. UMCES will also analyze US Wind's [Metocean buoy](https://www.rpsgroup.com/services/oceans-and-coastal/metocean-science-and-technology/our-metocean-technology/metocean-buoy/) sensor data for fish and marine mammal detections.
@@ -27,14 +36,14 @@ Monitoring projects follow a *Before-After-Control-Impact* (BACI) and *Before-Af
 ## Near Real-time Whale Monitoring
 ::: columns
 ::: {.column width="45%"}
-![](Pictures/index/umces_buoy.png)
+![](index_images/umces_buoy.png)
 
-![](Pictures/index/right_whale_warning.jpg)
+![](index_images/right_whale_warning.jpg)
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="50%"}
-![](Pictures/index/whale_pitch.png)
+![](index_images/whale_pitch.png)
 
 The Near Real-time Whale Monitoring project is a unique partnership between UMCES and Woods Hole Oceanographic Institution that utilizes specialized quiet mooring technology, whale vocalization detection algorithms, and telecommunications to transmit frequent alerts on the presence of baleen whales. The near real-time whale detection system will provide timely alerts on the presence of endangered whales.
 :::

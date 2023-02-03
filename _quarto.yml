@@ -3,11 +3,14 @@ project:
   resources:
     - CNAME
     - audio
+    - video
 
 website:
   title: "TailWinds"
   site-url: "https://tailwinds.umces.edu/"
   navbar:
+    logo: index_images/tailwinds_logo_white.png
+    title: false
     left:
       - text: Monitoring Projects
         menu:
@@ -16,9 +19,9 @@ website:
         - text: Fishery Resources
           href: frm/index.qmd
         - text: Marine Mammals
-          file: mmm.qmd
+          file: mmm/index.qmd
       - text: The Team
-        href: team.qmd
+        href: team/index.qmd
       - text: For Reference
         href: pubs/index.qmd
       # - text: In the Press

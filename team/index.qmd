@@ -11,7 +11,7 @@ format:
 
 ::: columns
 ::: {.column width="25%"}
-![](Pictures/team/dave.jpg)
+![](images/dave.jpg)
 :::
 
 ::: {.column width="5%"}
@@ -22,7 +22,7 @@ University of Maryland Center for Environmental Science
 
 [{{< fa envelope size=1x >}} secor\@umces.edu](mailto:secor@umces.edu){.email}
 
-[UMCES Profile](https://www.umces.edu/david-secor)  
+[UMCES Profile](https://www.umces.edu/david-secor)\
 [Lab Website](http://fishconnectivity.cbl.umces.edu)
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/secorlab) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727) [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@secorlab)
@@ -33,7 +33,7 @@ University of Maryland Center for Environmental Science
 
 ::: columns
 ::: {.column width="25%"}
-![](Pictures/team/helen.jpg)
+![](images/helen.jpg)
 :::
 
 ::: {.column width="5%"}
@@ -52,7 +52,7 @@ Blue Wave Consulting Group
 
 ::: columns
 ::: {.column width="25%"}
-![](Pictures/team/slava.jpg)
+![](images/slava.jpg)
 :::
 
 ::: {.column width="5%"}
@@ -71,45 +71,54 @@ University of Maryland Center for Environmental Science
 
 ## Analysts
 
+::: columns
+::: {.column width="32%"}
 ### Robert Bell
 
-::: columns
-::: {.column width="25%"}
-![](Pictures/team/robert.jpg)
+![](images/robert.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
 :::
 
-::: {.column width="5%"}
-:::
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
-::: {.column width="70%"}
-University of Maryland Center for Environmental Science
-
-Projects:  
-
--   [Marine mammal monitoring](mmm.qmd)
 
 [{{< fa envelope size=1x >}} rbell\@umces.edu](mailto:rbell@umces.edu){.email}
 
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle) [{{< fa brands mastodon size=2x >}}](https://ecoevo.social/@cosmicspittle)
 :::
+
+::: {.column width="2%"}
 :::
 
+::: {.column width="32%"}
+### Amber Fandel
+
+![](images/amber.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6859-3138) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?&user=EEQNkTMAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Amber-Fandel)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
 ### Mike O'Brien
 
-::: columns
-::: {.column width="25%"}
-![](Pictures/team/mike.jpg)
-:::
+![](images/mike.jpg)
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-University of Maryland Center for Environmental Science
-
+::: {style="line-height: 0.1"}
 Projects:
+:::
 
--   [Fishery Resources](frm/index.qmd)
+-   [Fishery Resources](../frm/index.qmd)
 
 [{{< fa envelope size=1x >}} obrien\@umces.edu](mailto:obrien@umces.edu){.email}
 
@@ -117,74 +126,58 @@ Projects:
 :::
 :::
 
+::: columns
+::: {.column width="32%"}
 ### Lauren Rodriguez
 
-::: columns
-::: {.column width="25%"}
+![](images/lauren.jpg)
 
-![](Pictures/team/lauren.jpg)
-
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-University of Maryland Center for Environmental Science
-
+::: {style="line-height: 0.1"}
 Projects:
+:::
 
--   [Fishery Resources](frm/index.qmd)
--   [Marine mammal monitoring](mmm.qmd)
-  
-[{{< fa envelope size=1x >}} lrodriguez@umces.edu ](mailto:lrodriguez@umces.edu ){.email}
+-   [Fishery Resources](../frm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< fa envelope size=1x >}} lrodriguez\@umces.edu](mailto:lrodriguez@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
-
-:::
 :::
 
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
 ### Kirsten Silva
 
-::: columns
-::: {.column width="25%"}
-![](Pictures/team/kirsten.jpg)
-:::
+![](images/kirsten.jpg)
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-University of Maryland Center for Environmental Science
-
+::: {style="line-height: 0.1"}
 Projects:
+:::
 
--   [Real-time whale monitoring](rtwb/index.qmd)
--   [Marine mammal monitoring](mmm.qmd)
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 [{{< fa envelope size=1x >}} ksilva\@umces.edu](mailto:ksilva@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
+
+::: {.column width="2%"}
 :::
 
+::: {.column width="32%"}
 ### Jamie Testa
 
-::: columns
-::: {.column width="25%"}
-![](Pictures/team/jamie.jpg)
-:::
+![](images/jamie.jpg)
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-University of Maryland Center for Environmental Science
-
+::: {style="line-height: 0.1"}
 Projects:
+:::
 
--   [Real-time whale monitoring](rtwb/index.qmd)
--   [Marine mammal monitoring](mmm.qmd)
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
 
 [{{< fa envelope size=1x >}} jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
 
@@ -192,22 +185,16 @@ Projects:
 :::
 :::
 
+::: columns
+::: {.column width="32%"}
 ### Caroline Tribble
 
-::: columns
-::: {.column width="25%"}
-![](Pictures/team/caroline.jpg)
-:::
+![](images/caroline.jpg)
 
-::: {.column width="5%"}
-:::
-
-::: {.column width="70%"}
-University of Maryland Center for Environmental Science
-
+::: {style="line-height: 0.1"}
 Projects:
+:::
 
--   [Marine mammal monitoring](mmm.qmd)
-
+-   [Marine mammal monitoring](../mmm/index.qmd)
 :::
 :::
