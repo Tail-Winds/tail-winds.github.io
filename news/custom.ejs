@@ -11,7 +11,7 @@
     
       <div id="itemImage" style="width:150px; height:150px; background-size:contain; background-position:center; margin: 0px 30px 15px 0px;">
       
-        <a href="<%- item.url %>" class="listing-categories">
+        <a href="<%- item.url %>" class="thumbnail">
           <img src="<%- item.image %>" width="150" height="150" />
         </a>
         
@@ -22,19 +22,33 @@
       <div id="itemHeader" style="justify-content: space-between; line-height:30px; margin-bottom:3px; align-items:flex-start;">
     
       <div id="itemTitle" style="display:block; width:95%">
-        <p style="font-size:22px">
-          <a href="<%- item.url %>" class="listing-categories"><%= item.title %>
+        <p style="font-size:20px">
+          <a href="<%- item.url %>"><%= item.title %>
           </a>
         </p>
       </div>
-    
-      <div id="itemDescription" style="margin-bottom:8px">
-        <%= item['description'] %>
+      
+      
+      <div class="container" style="display: flex; height: 100px;">
+      
+        <div style="width: 50%;">
+            <%= item['source'] %>
+            <p style="font-size:14px"><%= item['date'] %></p>
+        </div>
+        
+        <div style="flex-grow: 1;">
+          Categories:
+          
+            <% for (const category of item.categories) { %>
+              <div class="listing-category" style="font-size:14px" onclick="window.quartoListingCategory('<%=category%>'); return false;">
+                  <%= category %>
+              </div>
+            <% } %>
+            
+        </div>
+        
       </div>
-    
-      <div id="created" style="margin-top:8px">
-        <p style="font-size:14px"><%= item['date'] %></p>
-      </div>
+      
     
     </div>
     

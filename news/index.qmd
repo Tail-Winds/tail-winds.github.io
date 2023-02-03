@@ -1,23 +1,14 @@
 ---
 title: "What's new in the news"
+format: 
+  html:
+    link-external-icon: false
 listing:
   id: press-listing
-  template: custom.ejs
-  contents: press.yml 
-  date-format: short
-  feed: false
-  categories: true
-  fields:
-    - date
-    - title
-    - image
-  field-links: 
-    - title
-    - date
-    - image
-  filter-ui: true
-  sort-ui: true
-  sort: "date desc"
+  contents: press.yml
+  template: custom.ejs 
+metadata-files: 
+  - _metadata.yml
 ---
 
 ## On the Web
@@ -29,5 +20,6 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 ## From our scientists
 
 
+## Scrolling blog example to show Kirsten
 :::{.press-listing}
 :::
