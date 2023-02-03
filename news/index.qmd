@@ -1,5 +1,23 @@
 ---
 title: "What's new in the news"
+listing:
+  id: press-listing
+  template: custom.ejs
+  contents: press.yml 
+  date-format: short
+  feed: false
+  categories: true
+  fields:
+    - date
+    - title
+    - image
+  field-links: 
+    - title
+    - date
+    - image
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
 ---
 
 ## On the Web
@@ -9,3 +27,7 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 [CBLOutreach (\@CBL Outreach)](https://twitter.com/cbloutreach/status/1621132848143941637?s=51&t=wv_MDv6-V_3WTIkktqz63Q)Tweeted: #Dolphins will adjust their calls in the face of underwater noise pollution, with Helen Bailey, research professor at @UMCES, describing it to the BBC as "similar to when we shout louder when we are talking in a noisy bar."
 
 ## From our scientists
+
+
+:::{.press-listing}
+:::
