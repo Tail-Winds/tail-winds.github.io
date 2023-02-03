@@ -1,14 +1,23 @@
 ---
-title: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
+title: |
+  ![](index_images/tailwinds_logo.png)
+subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
 ---
 
 ::: columns
+
+:::{.column width="15%"}
+:::
+
 ::: {.column width="20%"}
 
-![](index_images/umces-seal.jpg)
+![](index_images/umces-seal.jpg){fig-align="center"}
 :::
 ::: {.column width="40%"}
 ![](index_images/us-wind_logo.jpg)
+:::
+
+:::{.column width="15%"}
 :::
 :::
 
