@@ -102,6 +102,8 @@ Projects:
 :::
 
 -   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6859-3138) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?&user=EEQNkTMAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Amber-Fandel)
 :::
 
 ::: {.column width="2%"}
