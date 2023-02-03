@@ -3,6 +3,7 @@ project:
   resources:
     - CNAME
     - audio
+    - video
 
 website:
   title: "TailWinds"
