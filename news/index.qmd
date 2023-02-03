@@ -5,10 +5,23 @@ format:
     link-external-icon: false
 listing:
   id: press-listing
-  contents: press.yml
+  contents: [outside/press.yml, posts]
   template: custom.ejs 
-metadata-files: 
-  - _metadata.yml
+  date-format: medium
+  feed: false
+  type: default
+  categories: true
+  fields:
+    - date
+    - title
+    - image
+  field-links: 
+    - title
+    - date
+    - image
+  filter-ui: true
+  sort-ui: true
+  sort: "date desc"
 ---
 
 ## On the Web
@@ -21,5 +34,5 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 
 
 ## Scrolling blog example to show Kirsten
-:::{.press-listing}
+:::{#press-listing}
 :::
