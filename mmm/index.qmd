@@ -54,8 +54,8 @@ Dolphins are a very social vocal species that use many different sounds for a va
 
 {{< video ../video/T1Coffshore_180727_finalversion.mp4 >}}
 
-::: {.column-margin}
-This video shows the spectrogram image and audio collected from an underwater recorder in the US Wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle. 
+::: column-margin
+This video shows the spectrogram image and audio collected from an underwater recorder in the US Wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle.
 :::
 
 ## Harbor Porpoise ![](images/porpoise_scaled.png){width="1.5in"}
