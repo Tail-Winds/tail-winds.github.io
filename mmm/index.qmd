@@ -54,8 +54,8 @@ Dolphins are a very social vocal species that use many different sounds for a va
 
 {{< video ../video/T1Coffshore_180727_finalversion.mp4 >}}
 
-::: {.column-margin}
-This video shows the spectrogram image and audio collected from an underwater recorder in the US Wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle. 
+::: column-margin
+This video shows the spectrogram image and audio collected from an underwater recorder in the US Wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle.
 :::
 
 ## Harbor Porpoise ![](images/porpoise_scaled.png){width="1.5in"}
@@ -66,7 +66,7 @@ Harbor porpoises are the smallest cetacean being monitored during this study and
 
 North Atlantic right whales are the most endangered species in this study; their current status is critically-endangered with fewer than 340 individuals. The right whale's presence can be determined in an audio recording by identifying upcall sounds at 200Hz.
 
-<audio controls source src="../audio/NARW_022422_201500.mp3">
+<audio controls source src="../audio/Right-whale_Amplified.mp3">
 
 </audio>
 
