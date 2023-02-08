@@ -1,27 +1,5 @@
 ---
 title: "What's new in the news"
-format: 
-  html:
-    link-external-icon: false
-listing:
-  id: press-listing
-  contents: [outside/press.yml, posts]
-  template: custom.ejs 
-  date-format: medium
-  feed: false
-  type: default
-  categories: true
-  fields:
-    - date
-    - title
-    - image
-  field-links: 
-    - title
-    - date
-    - image
-  filter-ui: true
-  sort-ui: true
-  sort: "date desc"
 ---
 
 ## On the Web
