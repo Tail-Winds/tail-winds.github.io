@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/press/index.html",
+    "items": []
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/posts/cbl/2023-01/index.html"
+    ]
+  }
+]
