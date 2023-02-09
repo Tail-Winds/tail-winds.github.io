@@ -7,7 +7,7 @@ project:
 
 website:
   title: "TailWinds"
-  site-url: "https://tailwinds.umces.edu"
+  site-url: "https://tailwinds.umces.edu/"
   navbar:
     logo: index_images/tailwinds_logo_white.png
     title: false
