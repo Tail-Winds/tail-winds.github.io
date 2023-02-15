@@ -20,7 +20,8 @@ UMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of th
 
 </audio>
 
-![](images/Websitefigure1.png){width="5in"},![](images/WHALEALERT.png){width="2in"}
+![](images/RTWB_Flowdiagram.jpg) Sounds that whales make within the detection range of the RTWB recorder are transmitted from the buoy via iridium satellite communications to a computer where analysts can review the data for the presence of whales at the [Robots4Whales](http://dcs.whoi.edu) website. Any whales detected are shared with the public through the Robots4Whales website and apps (BOEM's Ocean Alert, Whale Alert, and Mysticetus).
+
 
 ## Project Funders and collaborators
 
