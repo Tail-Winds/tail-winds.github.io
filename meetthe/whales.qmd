@@ -2,30 +2,95 @@
 title: Meet the Whales
 ---
 
-```{r}
-#| label: right-whale
-#| results: asis
-#| echo: false
-#| child: ../rtwb/wotm/rightwhale.qmd
-```
+## North Atlantic right whale 
+### (*Eubalaena glacialis*)
 
-```{r}
-#| label: fin-whale
-#| results: asis
-#| echo: false
-#| child: ../rtwb/wotm/finwhale.qmd
-```
+::: columns
+::: {.column width="40%"}
+North Atlantic right whales are identified by sounds called upcalls at 200Hz with no consistent pattern. Right whales can be detected about 10km from the Real-time Whale Buoy. 
+:::
 
-```{r}
-#| label: humpback-whale
-#| results: asis
-#| echo: false
-#| child: ../rtwb/wotm/humpbackwhale.qmd
-```
+::: {.column width="5%"}
+:::
 
-```{r}
-#| label: sei-whale
-#| results: asis
-#| echo: false
-#| child: ../rtwb/wotm/seiwhale.qmd
-```
+::: {.column width="55%"}
+![](images/NARW_publicdomain.png)
+:::
+:::
+
+Near Real-time data transmitted 12 January, 2022 
+![](images/RT_RWD_12Jan22_045600.png)
+
+Archived audio spectrogram recorded 12 January, 2022 
+![](images/RWD_20220112_045600.png)
+
+## Humpback whale 
+### (*Megaptera novaeangliae*)
+
+::: columns
+::: {.column width="40%"}
+Humpback whales make the most variety of sounds of the whale species being studied. They are most commonly identified by song patterns, but are known to produce social sounds as well. The songs are produced only by males, however both females and males can make social sounds. Humpback whales can be detected about 10km from the Real-time Whale Buoy. 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![](images/Humpbackwhale_publicdomain.png) 
+:::
+:::
+
+Near real-time data transmitted 8 March, 2022 
+![](images/RT_HWSong_08Mar22_175600.png) 
+
+Archived audio spectrogram recorded 8 March, 2022 
+![](images/HWD_20220308_175600.png)
+
+## Fin whale
+### (*Balaenoptera physalus*)
+
+::: columns
+::: {.column width="40%"}
+Fin whales are identified by a 20Hz pulse train with a consistent seasonal inter-pulse interval. These whales produce sound at the lowest frequency of all the four whale species studied and have the largest detection range. Fin whales can be detected within 100km of the Real-time Whale Buoy. 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![](images/Finwhale_creditGREMM.png)
+:::
+:::
+
+Near real-time data transmitted 20 December, 2021
+![](images/RT_FWD_12Dec2021_010300.png)
+
+Archived audio spectrogram recorded 20 December, 2022
+![](images/FWD_20211220_010300.png) 
+
+
+## Sei whale
+### (*Balaenoptera borealis*)
+
+::: columns
+::: {.column width="40%"}
+Sei whales are identified by sounds with a downsweep shape between 30 and 100Hz. These sounds can appear as singles, doublets or triplets. Sei whales can be detected about 10km from the Real-time Whale Buoy. This species presence has been identified the least in the US Wind lease area. 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![](images/Seiwhale_NOAAfisheries.png) 
+:::
+:::
+
+Near real-time data transmitted 9 October, 2021 
+![](images/RT_SWD_09Oct2021_131000.png) 
+
+Archived audio spectrogram recorded 9 October, 2021
+![](images/SWD_20211009_131000.png) 
+
+
+
+
