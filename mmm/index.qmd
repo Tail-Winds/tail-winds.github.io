@@ -21,9 +21,13 @@ A Passive Acoustic Monitoring (PAM) listening array will asses any long term cha
 :::
 
 ::: {.column width="55%"}
-Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins.
+Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins. Deployment of this technology and related analysis represents a key partnership between UMCES and The Cornell Lab Center for Conservation Bioacoustics.
 :::
 :::
+### A Collaboration
+A team from the K. Lisa Yang Center for Conservation Bioacoustics led by Dr. Aaron Rice will investigate the temporal and spatial patterns of cetacean habitat and underwater noise levels in the Maryland Wind Energy Area. Additionally, the team from Cornell will also conduct one of the first before-, during- and after-construction analyses of whale occurrence as it relates to wind farm construction. To learn more about the Yang center: [https://www.birds.cornell.edu/ccb/](https://www.birds.cornell.edu/ccb/)
+
+
 
 ## F-PODS
 
@@ -77,3 +81,9 @@ Humpback whales create a variety of complex sounds. They are most-commonly known
 <audio controls source src="../audio/Humpbacksong_020722_225400.mp3">
 
 </audio>
+
+## Project Funders and collaborators 
+![](images/logos/UMCESlogo.png){width="2in"} ![](images/logos/USWindlogo.png){width="2in"}
+![](images/logos/Helenslogo.png){width="1.25in"}
+![](images/logos/Cornell Insignia.jpg){width=1in}
+![](images/logos/Cornelllogo.png){width=2in} 
