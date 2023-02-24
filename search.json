@@ -1,59 +1,38 @@
 [
   {
-    "objectID": "rtwb/index.html#whales-detected-this-month",
-    "href": "rtwb/index.html#whales-detected-this-month",
-    "title": "Real Time Whale Buoy",
-    "section": "Whale(s) detected this month",
-    "text": "Whale(s) detected this month\n\nFebruary 2023\n\nNorth Atlantic right whale (Eubalaena glacialis)\nCurrent Status of population: Critically Endangered species\nVisit the North Atlantic right whale page on NOAA’s website for more information.\n\nFin whale (Balaenoptera physalus)\nCurrent Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n\nHumpback whale (Megaptera novaeangliae)\nCurrent status of population: Protected species\nVisit the humpback whale page on NOAA’s website for more information."
-  },
-  {
-    "objectID": "rtwb/index.html#monitoring-for-whales-in-real-time",
-    "href": "rtwb/index.html#monitoring-for-whales-in-real-time",
-    "title": "Real Time Whale Buoy",
-    "section": "Monitoring for Whales in real-time",
-    "text": "Monitoring for Whales in real-time\nUMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of the Ocean City Real-time Whale Buoy (RTWB), listening for fin, humpback, sei and North Atlantic right whales. Built and deployed by Woods Hole Oceanographic Institution and purchased by the MD Department of Natural Resources, the Ocean City RTWB is deployed 27 miles offshore in the US wind MarWin Project area and represents the southernmost RTWB system in a network of whale listening stations that extends into the Gulf of Maine. This RTWB records audio, processes it with an on-board classification algorithm and at two hour intervals, transmits data via iridium satellite communications daily to the Robots4Whales website. This data is reviewed daily by UMCES scientists who confirm whales calls and send alerts to a Whale Alert network and informs National Ocean and Atmospheric Administration’s alerts to marine traffic to avoid endangered North Atlantic right whales within Slow Zones. Listen to Dr. Helen Bailey’s podcast below for more information.\n\n\n Sounds that whales make within the detection range of the RTWB recorder are transmitted from the buoy via iridium satellite communications to a computer where analysts can review the data for the presence of whales at the Robots4Whales website. Any whales detected are shared with the public through the Robots4Whales website and apps (BOEM’s Ocean Alert, Whale Alert, and Mysticetus)."
-  },
-  {
-    "objectID": "rtwb/index.html#project-funders-and-collaborators",
-    "href": "rtwb/index.html#project-funders-and-collaborators",
-    "title": "Real Time Whale Buoy",
-    "section": "Project Funders and collaborators",
-    "text": "Project Funders and collaborators"
-  },
-  {
-    "objectID": "rtwb/wotm/seiwhale.html",
-    "href": "rtwb/wotm/seiwhale.html",
-    "title": "TailWinds",
+    "objectID": "news/posts/cbl/2023-01/index.html",
+    "href": "news/posts/cbl/2023-01/index.html",
+    "title": "TailWinds update: January 2023",
     "section": "",
-    "text": "Sei whale (Balaenoptera borealis)\nCurrent status of population: Endangered species\nVisit the sei whale page on NOAA’s website for more information."
+    "text": "Note\n\n\n\nThis update was first featured in the January 2023 edition of the CBL Newsletter.\nThe US Wind group at UMCES has been rebranded, and we’ll be providing quarterly updates to the CBL community starting right now! Check out our new project website: https://tailwinds.umces.edu"
   },
   {
-    "objectID": "rtwb/wotm/finwhale.html",
-    "href": "rtwb/wotm/finwhale.html",
-    "title": "TailWinds",
-    "section": "",
-    "text": "Fin whale (Balaenoptera physalus)\nCurrent Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information."
+    "objectID": "news/posts/cbl/2023-01/index.html#who-are-we",
+    "href": "news/posts/cbl/2023-01/index.html#who-are-we",
+    "title": "TailWinds update: January 2023",
+    "section": "Who are we?",
+    "text": "Who are we?\nThe TailWinds group, Team for Assessing Impacts to Living resources from offshore WIND turbineS, is led by Drs. Dave Secor, Helen Bailey, and Slava Lyubchich with support by student Robert Bell and Faculty Research Assistants Mike O’Brien, Lauren Rodriguez, Kirsten Silva, and Jamie Testa."
   },
   {
-    "objectID": "rtwb/wotm/humpbackwhale.html",
-    "href": "rtwb/wotm/humpbackwhale.html",
-    "title": "TailWinds",
-    "section": "",
-    "text": "Humpback whale (Megaptera novaeangliae)\nCurrent status of population: Protected species\nVisit the humpback whale page on NOAA’s website for more information."
+    "objectID": "news/posts/cbl/2023-01/index.html#what-are-we",
+    "href": "news/posts/cbl/2023-01/index.html#what-are-we",
+    "title": "TailWinds update: January 2023",
+    "section": "What are we?",
+    "text": "What are we?\n\n\nUS Wind, Inc. is developing a wind farm in waters offshore of Ocean City, MD. In tandem with this development, UMCES TailWinds is undertaking a coordinated program of fishery resource and marine mammal monitoring. The program includes monitoring of (1) commercial and recreational fishery resources, with a focus on black sea bass; (2) marine mammals (cetaceans: whales, dolphins and porpoises), using a passive acoustic monitoring array and emphasizing large whales and dolphins; and (3) near real-time detections of baleen whales.\n\n\n\n\n\nFishery Resource Monitoring\nThe TailWinds team completed a pilot year last summer, comprising four monthly pot fishing trips and two bimonthly hook-and-line recreational trips between June and September 2022.\n\n\nReal-time Whale Monitoring\nJamie Testa and Kirsten Silva review daily acoustic transmissions from the near-real time whale buoy east of Ocean City, MD where ‘whale season’ has officially started! Over the past month they have detected critically endangered North Atlantic right whales, humpback whales, and fin whales.\nThe real time whale buoy is listening for four baleen whales: fin, sei, humpback and North Atlantic right whales. Each species has specific sounds that can be identified through the use of pitch tracks (visual representations of sound from an audio spectrogram) that are transmitted via Iridium satellite from the buoy which is located within the US Wind lease area.\nAnyone can visit the Robots4Whales website and view acoustic detections which have been processed through a low-frequency detection and classification system (LFDCS) and displayed as colored lines (pitchtracks) for rapid, daily analysis."
   },
   {
-    "objectID": "rtwb/wotm/rightwhale.html",
-    "href": "rtwb/wotm/rightwhale.html",
-    "title": "TailWinds",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "What’s new in the news",
     "section": "",
-    "text": "North Atlantic right whale (Eubalaena glacialis)\nCurrent Status of population: Critically Endangered species\nVisit the North Atlantic right whale page on NOAA’s website for more information."
+    "text": "NOAA offers answers to FAQs in the wake of increased Humpback whale mortality on the US east coast: Frequent Questions—Offshore Wind and Whales\n\n\n\n\n\n\n\n\nDr. Helen Bailey was quoted in the article The Ocean Got so Loud That Dolphins Must Now ‘Shout’ Over Noise Pollution 19 January, 2023.\nCBLOutreach (@CBL Outreach)Tweeted: #Dolphins will adjust their calls in the face of underwater noise pollution, with Helen Bailey, research professor at @UMCES, describing it to the BBC as “similar to when we shout louder when we are talking in a noisy bar.”"
   },
   {
-    "objectID": "rtwb/wotm.html",
-    "href": "rtwb/wotm.html",
-    "title": "TailWinds",
-    "section": "",
-    "text": "February 2023\n\n\n\n\nNorth Atlantic right whale (Eubalaena glacialis)\nCurrent Status of population: Critically Endangered species\nVisit the North Atlantic right whale page on NOAA’s website for more information.\n\nFin whale (Balaenoptera physalus)\nCurrent Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n\nHumpback whale (Megaptera novaeangliae)\nCurrent status of population: Protected species\nVisit the humpback whale page on NOAA’s website for more information."
+    "objectID": "news/index.html#from-our-scientists",
+    "href": "news/index.html#from-our-scientists",
+    "title": "What’s new in the news",
+    "section": "From Our Scientists",
+    "text": "From Our Scientists\n\nThe Music of Whales\nImagine yourself in a rainforest. The air is hot and humid, the smells of the environment surround you: damp soil, decomposing wood, and plants,so many different types of plants. Now imagine what you might hear; the croaks, barks, whirring of frogs, the chirp and buzz of insects, the songs and calls of birds, monkeys calling to each other with yips, screeches and shouts. So many different species being heard at the same time in the same ecosystem.\nWhere sound is such a vital part of marine mammals’ lives, it should be unsurprising that many different species can be vocalizing at the same time within the marine ecosystem, similarly to a terrestrial ecosystem. Every marine mammal has a distinct sound(s) they make that are unique to that species. For those who may not know much about the marine environment, they may find it remarkable to know that many different marine species can be vocalizing at the same time. The Ocean City, MD Real-time Whale Buoy transmitted data via satellite containing this exact scenario on 31 January, 2023. Three different baleen whale species were identified vocalizing within the same 15 minute period.\n\nAlmost like a of sheet of music this period depicts the composition of all the playing parts of a musical underwater. In the higher frequencies at 400Hz across the panels you can see the melody, the humpback song pattern, shown by pitchtracks (alike to notes on a music sheet) with upsweeps and downsweeps. And in the background the harmony of faint North Atlantic right whale upcalls at 200Hz above 20 seconds in the first panel and 11 seconds in the second panel. Finally, the fin whales with the bass, the part of the musical composition that human ears cannot hear because it is so low frequency. This sound is a steady pulse at 20Hz labeled with a four underneath. UMCES scientists are given a preview of this composition and will be able hear the audio after the recording data has been collected. For now, this is a reminder that no matter what ecosystem you are in, there is always the chance to hear many species at the same time. - Kirsten (Faculty Research Assistant)"
   },
   {
     "objectID": "pubs/index.html",
@@ -105,60 +84,39 @@
     "text": "Near Real-time Whale Monitoring\n\n\n\n\n\n\n\n\nThe Near Real-time Whale Monitoring project is a unique partnership between UMCES and Woods Hole Oceanographic Institution that utilizes specialized quiet mooring technology, whale vocalization detection algorithms, and telecommunications to transmit frequent alerts on the presence of baleen whales. The near real-time whale detection system will provide timely alerts on the presence of endangered whales."
   },
   {
-    "objectID": "team/index.html",
-    "href": "team/index.html",
-    "title": "Our Team",
+    "objectID": "frm/pot_survey.html",
+    "href": "frm/pot_survey.html",
+    "title": "TailWinds",
     "section": "",
-    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\nLab Website\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nWebsite"
+    "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
   },
   {
-    "objectID": "team/index.html#analysts",
-    "href": "team/index.html#analysts",
-    "title": "Our Team",
-    "section": "Analysts",
-    "text": "Analysts\n\n\n\nRobert Bell\n\n\nProjects:\n\n\nMarine mammal monitoring\n\n rbell@umces.edu\n \n\n\n\n\n\nAmber Fandel\n\n\nProjects:\n\n\nMarine mammal monitoring\n\n  \n\n\n\n\n\nMike O’Brien\n\n\nProjects:\n\n\nFishery Resources\n\n obrien@umces.edu\n   \n\n\n\n\n\n\nLauren Rodriguez\n\n\nProjects:\n\n\nFishery Resources\nMarine mammal monitoring\n\n lrodriguez@umces.edu\n\n\n\n\n\n\nKirsten Silva\n\n\nProjects:\n\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n ksilva@umces.edu\n\n\n\n\n\n\nJamie Testa\n\n\nProjects:\n\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n jctesta@umces.edu\n\n\n\n\n\n\n\nCaroline Tribble\n\n\nProjects:\n\n\nMarine mammal monitoring"
-  },
-  {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "What’s new in the news",
+    "objectID": "frm/index.html",
+    "href": "frm/index.html",
+    "title": "Fishery Resource Monitoring",
     "section": "",
-    "text": "NOAA offers answers to FAQs in the wake of increased Humpback whale mortality on the US east coast: Frequent Questions—Offshore Wind and Whales\n\n\n\n\n\n\n\n\nDr. Helen Bailey was quoted in the article The Ocean Got so Loud That Dolphins Must Now ‘Shout’ Over Noise Pollution 19 January, 2023.\nCBLOutreach (@CBL Outreach)Tweeted: #Dolphins will adjust their calls in the face of underwater noise pollution, with Helen Bailey, research professor at @UMCES, describing it to the BBC as “similar to when we shout louder when we are talking in a noisy bar.”"
+    "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
   },
   {
-    "objectID": "news/index.html#from-our-scientists",
-    "href": "news/index.html#from-our-scientists",
-    "title": "What’s new in the news",
-    "section": "From Our Scientists",
-    "text": "From Our Scientists\n\nThe Music of Whales\nImagine yourself in a rainforest. The air is hot and humid, the smells of the environment surround you: damp soil, decomposing wood, and plants,so many different types of plants. Now imagine what you might hear; the croaks, barks, whirring of frogs, the chirp and buzz of insects, the songs and calls of birds, monkeys calling to each other with yips, screeches and shouts. So many different species being heard at the same time in the same ecosystem.\nWhere sound is such a vital part of marine mammals’ lives, it should be unsurprising that many different species can be vocalizing at the same time within the marine ecosystem, similarly to a terrestrial ecosystem. Every marine mammal has a distinct sound(s) they make that are unique to that species. For those who may not know much about the marine environment, they may find it remarkable to know that many different marine species can be vocalizing at the same time. The Ocean City, MD Real-time Whale Buoy transmitted data via satellite containing this exact scenario on 31 January, 2023. Three different baleen whale species were identified vocalizing within the same 15 minute period.\n\nAlmost like a of sheet of music this period depicts the composition of all the playing parts of a musical underwater. In the higher frequencies at 400Hz across the panels you can see the melody, the humpback song pattern, shown by pitchtracks (alike to notes on a music sheet) with upsweeps and downsweeps. And in the background the harmony of faint North Atlantic right whale upcalls at 200Hz above 20 seconds in the first panel and 11 seconds in the second panel. Finally, the fin whales with the bass, the part of the musical composition that human ears cannot hear because it is so low frequency. This sound is a steady pulse at 20Hz labeled with a four underneath. UMCES scientists are given a preview of this composition and will be able hear the audio after the recording data has been collected. For now, this is a reminder that no matter what ecosystem you are in, there is always the chance to hear many species at the same time. - Kirsten (Faculty Research Assistant)"
+    "objectID": "frm/index.html#recreational",
+    "href": "frm/index.html#recreational",
+    "title": "Fishery Resource Monitoring",
+    "section": "Recreational Fishery Resource Monitoring",
+    "text": "Recreational Fishery Resource Monitoring\n\nUMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
   },
   {
-    "objectID": "news/posts/cbl/2023-01/index.html",
-    "href": "news/posts/cbl/2023-01/index.html",
-    "title": "TailWinds update: January 2023",
+    "objectID": "frm/rec_survey.html",
+    "href": "frm/rec_survey.html",
+    "title": "TailWinds",
     "section": "",
-    "text": "Note\n\n\n\nThis update was first featured in the January 2023 edition of the CBL Newsletter.\nThe US Wind group at UMCES has been rebranded, and we’ll be providing quarterly updates to the CBL community starting right now! Check out our new project website: https://tailwinds.umces.edu"
-  },
-  {
-    "objectID": "news/posts/cbl/2023-01/index.html#who-are-we",
-    "href": "news/posts/cbl/2023-01/index.html#who-are-we",
-    "title": "TailWinds update: January 2023",
-    "section": "Who are we?",
-    "text": "Who are we?\nThe TailWinds group, Team for Assessing Impacts to Living resources from offshore WIND turbineS, is led by Drs. Dave Secor, Helen Bailey, and Slava Lyubchich with support by student Robert Bell and Faculty Research Assistants Mike O’Brien, Lauren Rodriguez, Kirsten Silva, and Jamie Testa."
-  },
-  {
-    "objectID": "news/posts/cbl/2023-01/index.html#what-are-we",
-    "href": "news/posts/cbl/2023-01/index.html#what-are-we",
-    "title": "TailWinds update: January 2023",
-    "section": "What are we?",
-    "text": "What are we?\n\n\nUS Wind, Inc. is developing a wind farm in waters offshore of Ocean City, MD. In tandem with this development, UMCES TailWinds is undertaking a coordinated program of fishery resource and marine mammal monitoring. The program includes monitoring of (1) commercial and recreational fishery resources, with a focus on black sea bass; (2) marine mammals (cetaceans: whales, dolphins and porpoises), using a passive acoustic monitoring array and emphasizing large whales and dolphins; and (3) near real-time detections of baleen whales.\n\n\n\n\n\nFishery Resource Monitoring\nThe TailWinds team completed a pilot year last summer, comprising four monthly pot fishing trips and two bimonthly hook-and-line recreational trips between June and September 2022.\n\n\nReal-time Whale Monitoring\nJamie Testa and Kirsten Silva review daily acoustic transmissions from the near-real time whale buoy east of Ocean City, MD where ‘whale season’ has officially started! Over the past month they have detected critically endangered North Atlantic right whales, humpback whales, and fin whales.\nThe real time whale buoy is listening for four baleen whales: fin, sei, humpback and North Atlantic right whales. Each species has specific sounds that can be identified through the use of pitch tracks (visual representations of sound from an audio spectrogram) that are transmitted via Iridium satellite from the buoy which is located within the US Wind lease area.\nAnyone can visit the Robots4Whales website and view acoustic detections which have been processed through a low-frequency detection and classification system (LFDCS) and displayed as colored lines (pitchtracks) for rapid, daily analysis."
+    "text": "UMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
   },
   {
     "objectID": "mmm/index.html#rockhoppers",
     "href": "mmm/index.html#rockhoppers",
     "title": "Marine Mammal Monitoring",
     "section": "Rockhoppers",
-    "text": "Rockhoppers\n\n\n\n\n\n\nRockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins."
+    "text": "Rockhoppers\n\n\n \n\n\n\nRockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins. Deployment of this technology and related analysis represents a key partnership between UMCES and The Cornell Lab Center for Conservation Bioacoustics. To learn more about the Cornell Lab Center: https://www.birds.cornell.edu/ccb/"
   },
   {
     "objectID": "mmm/index.html#f-pods",
@@ -196,31 +154,73 @@
     "text": "Humpback Whale \nHumpback whales create a variety of complex sounds. They are most-commonly known for their song patterns (only produced by male singers), however they can also emit social sounds (produced by both males and females). Humpback whales can sing up to 30 minutes at a time before they come up for air. The sequences of sound patterns created by singers are most-commonly used to identify the presence of humpback whales."
   },
   {
-    "objectID": "frm/index.html",
-    "href": "frm/index.html",
-    "title": "Fishery Resource Monitoring",
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Our Team",
     "section": "",
-    "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
+    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\nLab Website\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nWebsite"
   },
   {
-    "objectID": "frm/index.html#recreational",
-    "href": "frm/index.html#recreational",
-    "title": "Fishery Resource Monitoring",
-    "section": "Recreational Fishery Resource Monitoring",
-    "text": "Recreational Fishery Resource Monitoring\n\nUMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
+    "objectID": "team/index.html#analysts",
+    "href": "team/index.html#analysts",
+    "title": "Our Team",
+    "section": "Analysts",
+    "text": "Analysts\n\n\n\nRobert Bell\n\n\nProjects:\n\n\nMarine mammal monitoring\n\n rbell@umces.edu\n \n\n\n\n\n\nAmber Fandel\n\n\nProjects:\n\n\nMarine mammal monitoring\n\n  \n\n\n\n\n\nMike O’Brien\n\n\nProjects:\n\n\nFishery Resources\n\n obrien@umces.edu\n   \n\n\n\n\n\n\nLauren Rodriguez\n\n\nProjects:\n\n\nFishery Resources\nMarine mammal monitoring\n\n lrodriguez@umces.edu\n\n\n\n\n\n\nKirsten Silva\n\n\nProjects:\n\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n ksilva@umces.edu\n\n\n\n\n\n\nJamie Testa\n\n\nProjects:\n\n\nReal-time whale monitoring\nMarine mammal monitoring\n\n jctesta@umces.edu\n\n\n\n\n\n\n\nCaroline Tribble\n\n\nProjects:\n\n\nMarine mammal monitoring"
   },
   {
-    "objectID": "frm/rec_survey.html",
-    "href": "frm/rec_survey.html",
+    "objectID": "rtwb/wotm.html",
+    "href": "rtwb/wotm.html",
     "title": "TailWinds",
     "section": "",
-    "text": "UMCES TailWinds is working with Fin Chaser Charters, Ocean City MD (Captain Dan Stauffer) to test how black seabass charter recreational fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Standardized bottom drop and jigging angling techniques are used on control wrecks and at sites immediately adjacent to turbine sub-foundations in monthly surveys (May-October for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Diet and physiological condition are assessed for sampled fish."
+    "text": "February 2023\n\n\n\n\nNorth Atlantic right whale (Eubalaena glacialis)\nCurrent Status of population: Critically Endangered species\nVisit the North Atlantic right whale page on NOAA’s website for more information.\n\nFin whale (Balaenoptera physalus)\nCurrent Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n\nHumpback whale (Megaptera novaeangliae)\nCurrent status of population: Protected species\nVisit the humpback whale page on NOAA’s website for more information."
   },
   {
-    "objectID": "frm/pot_survey.html",
-    "href": "frm/pot_survey.html",
+    "objectID": "rtwb/index.html#whales-detected-this-month",
+    "href": "rtwb/index.html#whales-detected-this-month",
+    "title": "Real Time Whale Buoy",
+    "section": "Whale(s) detected this month",
+    "text": "Whale(s) detected this month\n\nFebruary 2023\n\nNorth Atlantic right whale (Eubalaena glacialis)\nCurrent Status of population: Critically Endangered species\nVisit the North Atlantic right whale page on NOAA’s website for more information.\n\nFin whale (Balaenoptera physalus)\nCurrent Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information.\n\nHumpback whale (Megaptera novaeangliae)\nCurrent status of population: Protected species\nVisit the humpback whale page on NOAA’s website for more information."
+  },
+  {
+    "objectID": "rtwb/index.html#monitoring-for-whales-in-real-time",
+    "href": "rtwb/index.html#monitoring-for-whales-in-real-time",
+    "title": "Real Time Whale Buoy",
+    "section": "Monitoring for Whales in real-time",
+    "text": "Monitoring for Whales in real-time\nUMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of the Ocean City Real-time Whale Buoy (RTWB), listening for fin, humpback, sei and North Atlantic right whales. Built and deployed by Woods Hole Oceanographic Institution and purchased by the MD Department of Natural Resources, the Ocean City RTWB is deployed 27 miles offshore in the US wind MarWin Project area and represents the southernmost RTWB system in a network of whale listening stations that extends into the Gulf of Maine. This RTWB records audio, processes it with an on-board classification algorithm and at two hour intervals, transmits data via iridium satellite communications daily to the Robots4Whales website. This data is reviewed daily by UMCES scientists who confirm whales calls and send alerts to a Whale Alert network and informs National Ocean and Atmospheric Administration’s alerts to marine traffic to avoid endangered North Atlantic right whales within Slow Zones. Listen to Dr. Helen Bailey’s podcast below for more information.\n\n\n Sounds that whales make within the detection range of the RTWB recorder are transmitted from the buoy via iridium satellite communications to a computer where analysts can review the data for the presence of whales at the Robots4Whales website. Any whales detected are shared with the public through the Robots4Whales website and apps (BOEM’s Ocean Alert, Whale Alert, and Mysticetus)."
+  },
+  {
+    "objectID": "rtwb/index.html#project-funders-and-collaborators",
+    "href": "rtwb/index.html#project-funders-and-collaborators",
+    "title": "Real Time Whale Buoy",
+    "section": "Project Funders and collaborators",
+    "text": "Project Funders and collaborators"
+  },
+  {
+    "objectID": "rtwb/wotm/humpbackwhale.html",
+    "href": "rtwb/wotm/humpbackwhale.html",
     "title": "TailWinds",
     "section": "",
-    "text": "UMCES TailWinds is working with Seaborn Seafood, Ocean City MD (Captains Kerry, Cory, and Brandon Harrington) to test how black seabass pot fisheries will adapt and be impacted by turbine emplacement in the US Wind MarWin Project. Four and two strings of 15 pots are respectively fished in the Project and Control areas in monthly surveys (March-November) for Before (’23-’24), During (’25-’26), and After (’27-’28) periods. Strings of pots emulate commercial deployments and also evaluate reef and spillover effects. Each string will terminate with an Edgetech ropeless device. This together with 1-day soak times will curtail interactions with protected species."
+    "text": "Humpback whale (Megaptera novaeangliae)\nCurrent status of population: Protected species\nVisit the humpback whale page on NOAA’s website for more information."
+  },
+  {
+    "objectID": "rtwb/wotm/rightwhale.html",
+    "href": "rtwb/wotm/rightwhale.html",
+    "title": "TailWinds",
+    "section": "",
+    "text": "North Atlantic right whale (Eubalaena glacialis)\nCurrent Status of population: Critically Endangered species\nVisit the North Atlantic right whale page on NOAA’s website for more information."
+  },
+  {
+    "objectID": "rtwb/wotm/finwhale.html",
+    "href": "rtwb/wotm/finwhale.html",
+    "title": "TailWinds",
+    "section": "",
+    "text": "Fin whale (Balaenoptera physalus)\nCurrent Status of population: Endangered species\nVisit the fin whale page on NOAA’s website for more information."
+  },
+  {
+    "objectID": "rtwb/wotm/seiwhale.html",
+    "href": "rtwb/wotm/seiwhale.html",
+    "title": "TailWinds",
+    "section": "",
+    "text": "Sei whale (Balaenoptera borealis)\nCurrent status of population: Endangered species\nVisit the sei whale page on NOAA’s website for more information."
   }
 ]

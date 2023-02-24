@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
-    <lastmod>2023-02-15T23:00:50.991Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/seiwhale.html</loc>
-    <lastmod>2023-02-15T23:00:51.615Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/finwhale.html</loc>
-    <lastmod>2023-02-15T23:00:51.895Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/humpbackwhale.html</loc>
-    <lastmod>2023-02-15T23:00:52.175Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/rightwhale.html</loc>
-    <lastmod>2023-02-15T23:00:53.055Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm.html</loc>
-    <lastmod>2023-02-15T23:00:54.739Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/pubs/index.html</loc>
-    <lastmod>2023-02-15T23:00:55.123Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/index.html</loc>
-    <lastmod>2023-02-15T23:00:55.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/team/index.html</loc>
-    <lastmod>2023-02-15T23:00:55.931Z</lastmod>
+    <loc>https://tailwinds.umces.edu/news/posts/cbl/2023-01/index.html</loc>
+    <lastmod>2023-02-24T18:23:05.890Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/news/index.html</loc>
-    <lastmod>2023-02-15T23:00:56.231Z</lastmod>
+    <lastmod>2023-02-24T18:23:06.590Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/news/posts/cbl/2023-01/index.html</loc>
-    <lastmod>2023-02-15T23:00:56.563Z</lastmod>
+    <loc>https://tailwinds.umces.edu/pubs/index.html</loc>
+    <lastmod>2023-02-24T18:23:07.010Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/mmm/index.html</loc>
-    <lastmod>2023-02-15T23:00:56.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/frm/index.html</loc>
-    <lastmod>2023-02-15T23:00:57.723Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/frm/rec_survey.html</loc>
-    <lastmod>2023-02-15T23:00:57.995Z</lastmod>
+    <loc>https://tailwinds.umces.edu/index.html</loc>
+    <lastmod>2023-02-24T18:23:07.382Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/frm/pot_survey.html</loc>
-    <lastmod>2023-02-15T23:00:58.263Z</lastmod>
+    <lastmod>2023-02-24T18:23:07.678Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/index.html</loc>
+    <lastmod>2023-02-24T18:23:08.026Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/rec_survey.html</loc>
+    <lastmod>2023-02-24T18:23:08.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/mmm/index.html</loc>
+    <lastmod>2023-02-24T18:23:08.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/team/index.html</loc>
+    <lastmod>2023-02-24T18:23:09.234Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm.html</loc>
+    <lastmod>2023-02-24T18:23:09.554Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
+    <lastmod>2023-02-24T18:23:09.898Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/humpbackwhale.html</loc>
+    <lastmod>2023-02-24T18:23:10.182Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/rightwhale.html</loc>
+    <lastmod>2023-02-24T18:23:10.506Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/finwhale.html</loc>
+    <lastmod>2023-02-24T18:23:10.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/seiwhale.html</loc>
+    <lastmod>2023-02-24T18:23:11.078Z</lastmod>
   </url>
 </urlset>
