@@ -12,22 +12,19 @@ A Passive Acoustic Monitoring (PAM) listening array will asses any long term cha
 
 ## Rockhoppers
 
-::: {.columns}
+::: columns
 ::: {.column width="30%"}
 ![](images/rockhoppers.png)
+![](images/logos/Cornelllogo.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins. Deployment of this technology and related analysis represents a key partnership between UMCES and The Cornell Lab Center for Conservation Bioacoustics.
+Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins. Deployment of this technology and related analysis represents a key partnership between UMCES and The Cornell Lab Center for Conservation Bioacoustics. To learn more about the Cornell Lab Center: <https://www.birds.cornell.edu/ccb/>  
 :::
 :::
-### A Collaboration
-A team from the K. Lisa Yang Center for Conservation Bioacoustics led by Dr. Aaron Rice will investigate the temporal and spatial patterns of cetacean habitat and underwater noise levels in the Maryland Wind Energy Area. Additionally, the team from Cornell will also conduct one of the first before-, during- and after-construction analyses of whale occurrence as it relates to wind farm construction. To learn more about the Yang center: [https://www.birds.cornell.edu/ccb/](https://www.birds.cornell.edu/ccb/)
-
-
 
 ## F-PODS
 
@@ -58,7 +55,7 @@ Dolphins are a very social vocal species that use many different sounds for a va
 
 {{< video '../video/T1Coffshore_180727_finalversion.mp4' >}}
 
-::: {.column-margin}
+::: column-margin
 This video shows the spectrogram image and audio collected from an underwater recorder in the US Wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle.
 :::
 
@@ -81,9 +78,3 @@ Humpback whales create a variety of complex sounds. They are most-commonly known
 <audio controls source src="../audio/Humpbacksong_020722_225400.mp3">
 
 </audio>
-
-## Project Funders and collaborators 
-![](images/logos/UMCESlogo.png){width="2in"} ![](images/logos/USWindlogo.png){width="2in"}
-![](images/logos/Helenslogo.png){width="1.25in"}
-![](images/logos/Cornell Insignia.jpg){width=1in}
-![](images/logos/Cornelllogo.png){width=2in} 
