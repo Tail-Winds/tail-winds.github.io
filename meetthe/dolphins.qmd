@@ -1,3 +1,54 @@
 ---
 title: Meet the Dolphins and Porpoises
 ---
+
+## Bottlenose Dolphin
+
+### (*Tursiops truncatus*)
+
+::: columns
+::: {.column width="40%"}
+Bottlenose dolphins are the largest dolphin species in the Marine Mammal Monitoring project and are present off the East coast of the United States year round. There are multiple populations of bottlenose dolphins in US waters and while none of their current population statuses are endangered or threatened they are still protected under the Marine Mammal Protection act.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![](images/bottlenosedolphin_NOAAFisheries.png)
+:::
+:::
+
+## Common Dolphin
+
+### (*Delphinus delphis*)
+
+::: columns
+::: {.column width="40%"}
+These dolphins have a very distinct appearance that sets them apart from other dolphin species; gray on the top half of their bodies and white on the sides and underside. The presence of common dolphins in the mid-Atlantic bight is mostly during the winter and spring months, December - May. Common dolphins are protected under the Marine Mammal Protection Act.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![](images/CommonDolphin_Adamli.png)
+:::
+:::
+
+## Harbor Porpoise
+
+### (*Phocoena phocoena*)
+
+::: columns 
+::: {.column width="40%"} 
+Harbor Porpoises are distinctly different in appearance from dolphins: they have a very short robust body, shorter rostrum and a more triangular shaped dorsal fin. This species is most commonly found in colder waters and are present off the East coast of the United States from December - June. 
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+![](images/HarborPorpoise_NOAAFisheries.png)
+:::
+:::
