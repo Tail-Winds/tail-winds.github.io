@@ -12,16 +12,17 @@ A Passive Acoustic Monitoring (PAM) listening array will asses any long term cha
 
 ## Rockhoppers
 
-::: {.columns}
+::: columns
 ::: {.column width="30%"}
 ![](images/rockhoppers.png)
+![](images/logos/Cornelllogo.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="55%"}
-Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins.
+Rockhoppers continuously record sounds underwater, collecting data that will tell us about the presence of the critically endangered North Atlantic right whales, other baleen whales, and bottlenose and common dolphins. Deployment of this technology and related analysis represents a key partnership between UMCES and The Cornell Lab Center for Conservation Bioacoustics. To learn more about the Cornell Lab Center: <https://www.birds.cornell.edu/ccb/>  
 :::
 :::
 
@@ -54,7 +55,7 @@ Dolphins are a very social vocal species that use many different sounds for a va
 
 {{< video '../video/T1Coffshore_180727_finalversion.mp4' >}}
 
-::: {.column-margin}
+::: column-margin
 This video shows the spectrogram image and audio collected from an underwater recorder in the US Wind energy area. As the vertical bar scrolls across you can see and hear what dolphin clicks and whistles sound like. The repeated pattern of the same whistle is an example of a signature whistle.
 :::
 
