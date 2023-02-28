@@ -29,7 +29,7 @@ Archived audio spectrogram recorded 12 January, 2022 ![](images/RWD_20220112_045
 
 ::: columns
 ::: {.column width="40%"}
-Humpback whales make the most variety of sounds of the whale species being studied. They are most commonly identified by song patterns, but are known to produce social sounds as well. The songs are produced only by males, however both females and males can make social sounds. Humpback whales can be detected about 10km from the Real-time Whale Buoy.
+Humpback whales make the most variety of sounds of the whale species studied. They are most commonly identified by song patterns, but are known to produce social sounds as well. The songs are produced only by males, however both females and males can make social sounds. Humpback whales can be detected about 10km from the Real-time Whale Buoy.
 :::
 
 ::: {.column width="5%"}
