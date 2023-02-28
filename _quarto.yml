@@ -20,6 +20,14 @@ website:
           href: frm/index.qmd
         - text: Marine Mammals
           file: mmm/index.qmd
+      - text: The Species
+        menu:
+        - text: Whales
+          href: meetthe/whales.qmd
+        - text: Dolphins and Porpoises
+          href: meetthe/dolphins.qmd
+        - text: Fish
+          href: meetthe/fish.qmd
       - text: The Team
         href: team/index.qmd
       - text: For Reference
