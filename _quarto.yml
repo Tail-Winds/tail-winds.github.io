@@ -32,7 +32,7 @@ website:
         href: team/index.qmd
       - text: For Reference
         href: pubs/index.qmd
-      - text: Whats New
+      - text: What's New
         href: news/index.qmd
       # - text: In the Press
       #   href: Press/index.qmd
