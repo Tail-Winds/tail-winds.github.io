@@ -15,7 +15,7 @@ Bottlenose dolphins are the largest dolphin species in the Marine Mammal Monitor
 :::
 
 ::: {.column width="55%"}
-![](images/bottlenosedolphin_NOAAFisheries.png)
+![](images/Bottlenosedolphin_NOAAFisheries.png)
 :::
 :::
 
@@ -32,7 +32,7 @@ These dolphins have a very distinct appearance that sets them apart from other d
 :::
 
 ::: {.column width="55%"}
-![](images/CommonDolphin_Adamli.png)
+![](images/CommonDolphin_AdamLi.png)
 :::
 :::
 
