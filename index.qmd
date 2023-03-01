@@ -1,6 +1,6 @@
 ---
 title: |
-  ![](index_images/tailwinds_logo.png)
+  &#32; ![](index_images/tailwinds_logo.png)
 subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
 ---
 
