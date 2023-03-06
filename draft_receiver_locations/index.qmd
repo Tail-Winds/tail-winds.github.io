@@ -4,7 +4,6 @@ title: Draft receiver locations
 
 ```{r}
 library(sf)
-library(geoarrow)
 library(leaflet)
 library(dplyr)
 ```
