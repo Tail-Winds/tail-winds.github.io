@@ -1,0 +1,41 @@
+---
+title: Draft receiver locations
+---
+
+```{r}
+library(sf)
+library(geoarrow)
+library(leaflet)
+library(dplyr)
+```
+```{r}
+# towers <- st_read(tar_read(usw_locations),
+#                   layer = 'WTG_Layout_2022_0111',
+#                   quiet = T)
+wms_enc <- 'https://gis.charttools.noaa.gov/arcgis/rest/services/MCS/ENCOnline/MapServer/exts/MaritimeChartService/WMSServer'
+zones <- st_read('usw_buildout_zones.gpkg',
+                 quiet = T)
+mmm <- read.csv('MD_PAM_AllStations_BOEMFinal_D1_2.csv',
+                na.strings = '') |> 
+  st_as_sf(coords = c('Longitude', 'Latitude'), crs = 4326) |> 
+  filter(Device %in% c('MARU', 'C-POD', 'C-POD 2', 'FPOD'))
+
+
+leaflet() |> 
+  setView(lng = -74.7, lat = 38.3, zoom = 10) |> 
+  addWMSTiles(
+    wms_enc,
+    layers = c(0:3, 6),
+    options = WMSTileOptions(format = "image/png", transparent = T)
+  ) |>
+  addPolygons(data = zones, color = 'pink') |>
+  # addCircleMarkers(data = towers, radius = 1, color = 'black') |>  
+  addCircleMarkers(data = mmm, label = ~ StationName,
+                   color = ~ colorFactor(c('red', 'orange', 'green', 'blue'), mmm$Device)(Device),
+                   group = 'Device') |>
+  # addLegend(data = mmm, pal = ~ colorFactor(c('red', 'orange', 'green'), mmm$type_name)) |> 
+  addMeasure(primaryLengthUnit = 'meters', primaryAreaUnit = 'hectares') |>
+  addMiniMap(zoomLevelFixed = 7)
+```
+
+
