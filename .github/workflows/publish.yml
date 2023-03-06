@@ -33,8 +33,8 @@ jobs:
             any::rvest
             any::dplyr
             any::tidyr
-            any:sf
-            any:leaflet
+            any::sf
+            any::leaflet
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
