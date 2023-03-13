@@ -28,13 +28,6 @@
     "text": "Guidance for offshore impacts on resource species\n Responsible Offshore Science Alliance. 2021. Offshore Wind Project Monitoring Framework and Guidelines. URL: https://www.rosascience.org/wp-content/uploads/2022/09/ROSA-Offshore-Wind-Project-Montioring-Framework-and-Guidelines.pdf\n Hutchison, Z.L., D.H. Secor, and A.B Gill. 2020. The interaction between resource species and electromagnetic fields associated with electricity production by offshore wind farms. Oceanography 33(4):96-107. https://doi.org/10.5670/oceanog.2020.409\n Wiernicki, CJ, D Liang, H Bailey, and DH Secor. 2020. The effect of swim bladder presence and morphology on sound frequency detection for fishes. Reviews in Fisheries Science and Aquaculture 28:459-477. https://doi.org/10.1080/23308249.2020.1762536"
   },
   {
-    "objectID": "draft_receiver_locations/index.html",
-    "href": "draft_receiver_locations/index.html",
-    "title": "Draft receiver locations",
-    "section": "",
-    "text": "library(sf)\n\nLinking to GEOS 3.10.2, GDAL 3.4.1, PROJ 8.2.1; sf_use_s2() is TRUE\n\nlibrary(leaflet)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\n\n# towers <- st_read(tar_read(usw_locations),\n#                   layer = 'WTG_Layout_2022_0111',\n#                   quiet = T)\nwms_enc <- 'https://gis.charttools.noaa.gov/arcgis/rest/services/MCS/ENCOnline/MapServer/exts/MaritimeChartService/WMSServer'\nzones <- st_read('usw_buildout_zones.gpkg',\n                 quiet = T)\nmmm <- read.csv('MD_PAM_AllStations_BOEMFinal_D1_2.csv',\n                na.strings = '') |> \n  st_as_sf(coords = c('Longitude', 'Latitude'), crs = 4326) |> \n  filter(Device %in% c('MARU', 'C-POD', 'C-POD 2', 'FPOD'))\n\n\nleaflet() |> \n  setView(lng = -74.7, lat = 38.3, zoom = 10) |> \n  addWMSTiles(\n    wms_enc,\n    layers = c(0:3, 6),\n    options = WMSTileOptions(format = \"image/png\", transparent = T)\n  ) |>\n  addPolygons(data = zones, color = 'pink') |>\n  # addCircleMarkers(data = towers, radius = 1, color = 'black') |>  \n  addCircleMarkers(data = mmm, label = ~ StationName,\n                   color = ~ colorFactor(c('red', 'orange', 'green', 'blue'), mmm$Device)(Device),\n                   group = 'Device') |>\n  # addLegend(data = mmm, pal = ~ colorFactor(c('red', 'orange', 'green'), mmm$type_name)) |> \n  addMeasure(primaryLengthUnit = 'meters', primaryAreaUnit = 'hectares') |>\n  addMiniMap(zoomLevelFixed = 7)"
-  },
-  {
     "objectID": "rtwb/wotm/rightwhale.html",
     "href": "rtwb/wotm/rightwhale.html",
     "title": "TailWinds",
