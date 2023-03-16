@@ -1,0 +1,11 @@
+---
+title: ''
+---
+
+:::{.column-page}
+![](index_images/tailwinds_logo.png)
+:::
+
+Oh, no! Seems that page must have high***tail***ed it out of here.
+
+Nothing left but a gust of ***wind***.
