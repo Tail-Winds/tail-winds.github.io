@@ -35,6 +35,7 @@ jobs:
             any::tidyr
             any::sf
             any::leaflet
+            any::gt
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
