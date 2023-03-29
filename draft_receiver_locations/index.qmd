@@ -93,10 +93,10 @@ dm <- function(x){
 }
 
 mmm |> 
-  mutate(Lat_DD = st_coordinates(geometry)[, 1],
-         Long_DD = st_coordinates(geometry)[, 2],
-         Lat_DM = dm(st_coordinates(geometry)[, 1]),
-         Long_DM = dm(st_coordinates(geometry)[, 2])) |> 
+  mutate(Lat_DD = st_coordinates(geometry)[, 2],
+         Long_DD = st_coordinates(geometry)[, 1],
+         Lat_DM = dm(st_coordinates(geometry)[, 2]),
+         Long_DM = dm(st_coordinates(geometry)[, 1])) |> 
   select(StationName, Device, Lat_DD, Long_DD, Lat_DM, Long_DM) |> 
   st_drop_geometry() |> 
   gt()
