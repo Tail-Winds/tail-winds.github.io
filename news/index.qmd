@@ -25,6 +25,10 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 
 ## From Our Scientists
 
+### Dave Secor on the [FRM project's](../frm/index.html) experimental design
+
+{{< video https://www.youtube.com/embed/4EsVbLs9JGk >}}
+
 ### The Music of Whales
 
 Imagine yourself in a rainforest. The air is hot and humid, the smells of the environment surround you: damp soil, decomposing wood, and plants,so many different types of plants. Now imagine what you might hear; the croaks, barks, whirring of frogs, the chirp and buzz of insects, the songs and calls of birds, monkeys calling to each other with yips, screeches and shouts. So many different species being heard at the same time in the same ecosystem.
