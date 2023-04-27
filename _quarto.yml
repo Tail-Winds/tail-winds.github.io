@@ -5,6 +5,8 @@ project:
     - CNAME
     - audio
     - video
+    - frm/plans
+    - frm/reports
 
 website:
   title: "TailWinds"
