@@ -1,6 +1,6 @@
 ---
 title: |
-  &#32; ![](index_images/tailwinds_logo.png)
+  &#32; ![](index_images/TailWinds_logo.png)
 subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
 ---
 
@@ -11,7 +11,7 @@ subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from o
 
 ::: {.column width="20%"}
 
-![](index_images/umces-seal.jpg){fig-align="center"}
+![](index_images/UMCES-Seal.jpg){fig-align="center"}
 :::
 ::: {.column width="40%"}
 ![](index_images/us-wind_logo.jpg)

@@ -1,9 +1,9 @@
 ---
-title: ''
+title: "We don't seem to have that..."
 ---
 
 :::{.column-page}
-![](index_images/tailwinds_logo.png)
+![](index_images/TailWinds_logo.png)
 :::
 
 Oh, no! Seems that page must have high***tail***ed it out of here.

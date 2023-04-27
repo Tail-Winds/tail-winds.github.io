@@ -12,7 +12,7 @@ website:
   title: "TailWinds"
   site-url: "https://tailwinds.umces.edu/"
   navbar:
-    logo: index_images/tailwinds_logo_white.png
+    logo: index_images/TailWinds_logo_white.png
     title: false
     left:
       - text: Monitoring Projects
