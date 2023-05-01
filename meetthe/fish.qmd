@@ -1,0 +1,194 @@
+---
+title: Meet the Fish (and friends)
+---
+
+Not just fish -- here are what you may find in our [commercial](../frm/#commercial) or [recreational](../frm/#recreational) fishery surveys:
+
+## Fish
+
+### Black sea bass {#bsb}
+::: columns
+::: {.column width=72%}
+*Centropristis striata*
+
+The focus of our survey, we're no stranger to this bass common to the Atlantic seaboard.
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/bsb.jpg)
+:::
+:::
+
+### Northern sea robin {#searobin}
+::: columns
+::: {.column width=72%}
+*Prionotus carolinus*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/sea_robin.jpg)
+:::
+:::
+
+### Cunner {#cunner}
+::: columns
+::: {.column width=72%}
+*Tautogolabrus adspersus*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/cunner.jpg)
+:::
+:::
+
+### Tautog {#tautog}
+::: columns
+::: {.column width=72%}
+*Tautoga onitis*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/tautog.jpg)
+:::
+:::
+
+### Scup {#scup}
+::: columns
+::: {.column width=72%}
+*Stenotomus chrysops*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/scup.jpg)
+:::
+:::
+
+### Lined seahorse {#seahorse}
+::: columns
+::: {.column width=72%}
+*Hippocampus erectus*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/lined_seahorse.jpg)
+:::
+:::
+
+### Spotted hake {#hake}
+::: columns
+::: {.column width=72%}
+*Urophycis regia*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/spotted_hake.jpg)
+:::
+:::
+
+## Crustaceans
+
+### American lobster {#lobster}
+::: columns
+::: {.column width=72%}
+*Homarus americanus*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/american_lobster.jpg)
+:::
+:::
+
+### Jonah crab {#jonah}
+::: columns
+::: {.column width=72%}
+*Cancer borealis*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/jonah_crab.jpg)
+:::
+:::
+
+### Mud crab {#mudcrab}
+::: columns
+::: {.column width=72%}
+*Panopeidae* family
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/mud_crab.jpg)
+:::
+:::
+
+### Atlantic rock crab {#rockcrab}
+::: columns
+::: {.column width=72%}
+*Cancer irroratus*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/rock_crab.jpg)
+:::
+:::
+
+## Other
+
+### Common sea star {#seastar}
+::: columns
+::: {.column width=72%}
+*Asterias rubens*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/sea_star.jpg)
+:::
+:::
+
+### Common sand dollar {#sanddollar}
+::: columns
+::: {.column width=72%}
+*Echinarachnius parma*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/sand_dollar.jpg)
+:::
+:::
+
+### Longfin squid {#squid}
+::: columns
+::: {.column width=72%}
+*Doryteuthis pealeii*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/longfin.png)
+:::
+:::

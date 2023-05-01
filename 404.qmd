@@ -1,0 +1,11 @@
+---
+title: "We don't seem to have that..."
+---
+
+:::{.column-page}
+![](index_images/TailWinds_logo.png)
+:::
+
+Oh, no! Seems that page must have high***tail***ed it out of here.
+
+Nothing left but a gust of ***wind***.

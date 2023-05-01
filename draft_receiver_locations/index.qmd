@@ -1,0 +1,104 @@
+---
+title: Draft receiver locations
+echo: false
+warning: false
+message: false
+---
+
+```{r}
+library(sf)
+library(leaflet)
+library(dplyr)
+```
+
+```{r}
+# towers <- st_read(tar_read(usw_locations),
+#                   layer = 'WTG_Layout_2022_0111',
+#                   quiet = T)
+wms_enc <- 'https://gis.charttools.noaa.gov/arcgis/rest/services/MCS/ENCOnline/MapServer/exts/MaritimeChartService/WMSServer'
+zones <- st_read('usw_buildout_zones.gpkg',
+                 quiet = T)
+mmm <- read.csv('MD_PAM_AllStations_BOEMFinal_D1_2.csv',
+                na.strings = '') |> 
+  st_as_sf(coords = c('Longitude', 'Latitude'), crs = 4326) |> 
+  filter(Device %in% c('MARU', 'C-POD', 'FPOD'),
+         !Site %in% c('T-3', 'A-8'))
+
+## Add VR2ARs
+vr2ar <- mmm |> 
+  filter(StationName == 'A-5C') |> 
+  st_transform(6487) |> 
+  st_geometry() + list(c(4000, 0), c(-4000, 0)) 
+st_crs(vr2ar) <- 6487
+vr2ar <- st_transform(vr2ar, 4326)
+vr2ar <- st_as_sf(vr2ar)
+vr2ar$StationName <- c('V4', 'V5')
+vr2ar$Device <- 'VR2AR'
+vr2ar$geometry <- vr2ar$x
+vr2ar$x <- NULL
+
+mmm <- bind_rows(mmm, vr2ar)
+
+
+## Add extra FPOD site. this is hacky and being called CPOD to get the colors right
+fpod <- mmm |> 
+  filter(StationName == 'T-3*M') |> 
+  st_transform(6487) |> 
+  st_geometry() + list(c(-2500, 0)) 
+st_crs(fpod) <- 6487
+fpod <- st_transform(fpod, 4326)
+fpod <- st_as_sf(fpod)
+fpod$StationName <- 'T-3*C'
+fpod$Device <- 'C-POD'
+fpod$geometry <- fpod$x
+fpod$x <- NULL
+
+mmm <- bind_rows(mmm, fpod)
+
+
+mmm <- mmm |> 
+  mutate(Device = case_when(Device == 'MARU' ~ 'Rockhopper',
+                            Device == 'C-POD' ~ 'FPOD + VR2AR',
+                            T ~ Device)
+  )
+```
+
+```{r}
+leaflet() |> 
+  setView(lng = -74.7, lat = 38.3, zoom = 10) |> 
+  addWMSTiles(
+    wms_enc,
+    layers = c(0:3, 6),
+    options = WMSTileOptions(format = "image/png", transparent = T)
+  ) |>
+  addPolygons(data = zones, color = 'pink') |>
+  addCircleMarkers(data = mmm, label = ~ StationName,
+                   group = 'Device',
+                   color = ~ colorFactor(c('green', 'red', 'blue', 'black'),
+                                         mmm$Device)(Device)) |>
+  addLegend(data = mmm,
+            colors = c('green', 'red', 'blue', 'black'),
+            labels = sort(unique(mmm$Device)),
+            group = 'Device') |>
+  addMeasure(primaryLengthUnit = 'meters', primaryAreaUnit = 'hectares') |>
+  addMiniMap(zoomLevelFixed = 7)
+```
+
+:::{.column-body-outset}
+```{r}
+library(gt)
+
+dm <- function(x){
+     paste(as.integer(x), round((abs(x) %% 1) * 60, 4))
+}
+
+mmm |> 
+  mutate(Lat_DD = st_coordinates(geometry)[, 2],
+         Long_DD = st_coordinates(geometry)[, 1],
+         Lat_DM = dm(st_coordinates(geometry)[, 2]),
+         Long_DM = dm(st_coordinates(geometry)[, 1])) |> 
+  select(StationName, Device, Lat_DD, Long_DD, Lat_DM, Long_DM) |> 
+  st_drop_geometry() |> 
+  gt()
+```
+:::

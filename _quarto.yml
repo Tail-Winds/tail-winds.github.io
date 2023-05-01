@@ -1,15 +1,18 @@
 project:
   type: website
+  execute-dir: file
   resources:
     - CNAME
     - audio
     - video
+    - frm/plans
+    - frm/reports
 
 website:
   title: "TailWinds"
   site-url: "https://tailwinds.umces.edu/"
   navbar:
-    logo: index_images/tailwinds_logo_white.png
+    logo: index_images/TailWinds_logo_white.png
     title: false
     left:
       - text: Monitoring Projects
@@ -20,10 +23,20 @@ website:
           href: frm/index.qmd
         - text: Marine Mammals
           file: mmm/index.qmd
+      - text: The Species
+        menu:
+        - text: Whales
+          href: meetthe/whales.qmd
+        - text: Dolphins and Porpoises
+          href: meetthe/dolphins.qmd
+        - text: Fish
+          href: meetthe/fish.qmd
       - text: The Team
         href: team/index.qmd
       - text: For Reference
         href: pubs/index.qmd
+      - text: What's New
+        href: news/index.qmd
       # - text: In the Press
       #   href: Press/index.qmd
 
