@@ -25,6 +25,11 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 
 # From Our Scientists
 
+## Lauren Rodriguez shows you how to dissect a black sea bass
+
+{{< video https://www.youtube.com/watch?v=9NQMpEi4vDw >}}
+
+
 ## Dave Secor on the [FRM project's](../frm/index.html) experimental design
 
 {{< video https://www.youtube.com/embed/4EsVbLs9JGk >}}
