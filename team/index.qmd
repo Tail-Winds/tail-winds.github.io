@@ -130,26 +130,6 @@ Projects:
 
 ::: columns
 ::: {.column width="32%"}
-### Lauren Rodriguez
-
-![](images/lauren.jpg)
-
-::: {style="line-height: 0.1"}
-Projects:
-:::
-
--   [Fishery Resources](../frm/index.qmd)
--   [Marine mammal monitoring](../mmm/index.qmd)
-
-[{{< fa envelope size=1x >}} lrodriguez\@umces.edu](mailto:lrodriguez@umces.edu){.email}
-
-[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
 ### Kirsten Silva
 
 ![](images/kirsten.jpg)
@@ -185,9 +165,10 @@ Projects:
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
+
+::: {.column width="2%"}
 :::
 
-::: columns
 ::: {.column width="32%"}
 ### Caroline Tribble
 
@@ -204,18 +185,64 @@ Projects:
 :::
 :::
 
-::: {.column width="2%"}
-:::
-
+::: columns
 ::: {.column width="32%"}
+
 ### Rebecca Wingate
 
-![](images/rebecca.jpeg){height="2in"}
+![](images/rebecca.jpeg)
 
 ::: {style="line-height: 0.1"}
 Projects:
 :::
 
 -   [Real-time whale monitoring](../rtwb/index.qmd)
+
 :::
 
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+:::
+
+
+## Alumni
+
+::: columns
+::: {.column width="32%"}
+### Lauren Rodriguez
+
+![](images/lauren.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Fishery Resources](../frm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+:::
