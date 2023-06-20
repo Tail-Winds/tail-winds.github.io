@@ -198,5 +198,24 @@ Projects:
 :::
 
 -   [Marine mammal monitoring](../mmm/index.qmd)
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+
+[{{< fa envelope size=1x >}} ctribble@umces.edu](mailto:ctribble@umces.edu){.email}
 :::
 :::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+### Rebecca Wingate
+
+![](images/rebecca.jpeg){height="2in"}
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+:::
+
