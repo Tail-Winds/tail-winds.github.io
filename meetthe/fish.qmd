@@ -85,6 +85,20 @@ The focus of our survey, we're no stranger to this bass common to the Atlantic s
 :::
 :::
 
+### Summer flounder {#flounder}
+::: columns
+::: {.column width=72%}
+*Paralichthys dentatus*
+
+:::
+::: {.column width=3%}
+:::
+::: {.column width=25%}
+![](images/frm/summer_flounder.jpg)
+:::
+:::
+
+
 ### Spotted hake {#hake}
 ::: columns
 ::: {.column width=72%}
