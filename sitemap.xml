@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tailwinds.umces.edu/news/index.html</loc>
-    <lastmod>2023-06-28T21:04:06.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/frm/rec_survey.html</loc>
-    <lastmod>2023-06-28T21:04:05.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/frm/index.html</loc>
-    <lastmod>2023-06-28T21:04:05.057Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/rightwhale.html</loc>
-    <lastmod>2023-06-28T21:04:04.453Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/finwhale.html</loc>
-    <lastmod>2023-06-28T21:04:03.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
-    <lastmod>2023-06-28T21:04:03.341Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/mmm/index.html</loc>
-    <lastmod>2023-06-28T21:04:01.005Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/meetthe/whales.html</loc>
-    <lastmod>2023-06-28T21:04:00.217Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/meetthe/dolphins.html</loc>
-    <lastmod>2023-06-28T21:03:59.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/index.html</loc>
-    <lastmod>2023-06-28T21:03:58.865Z</lastmod>
+    <loc>https://tailwinds.umces.edu/team/index.html</loc>
+    <lastmod>2023-06-30T05:15:15.131Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/meetthe/fish.html</loc>
-    <lastmod>2023-06-28T21:03:59.873Z</lastmod>
+    <lastmod>2023-06-30T05:15:14.067Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/draft_receiver_locations/index.html</loc>
-    <lastmod>2023-06-28T21:04:00.641Z</lastmod>
+    <loc>https://tailwinds.umces.edu/index.html</loc>
+    <lastmod>2023-06-30T05:15:13.327Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/pubs/index.html</loc>
-    <lastmod>2023-06-28T21:04:01.453Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tailwinds.umces.edu/rtwb/wotm/seiwhale.html</loc>
-    <lastmod>2023-06-28T21:04:03.649Z</lastmod>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/finwhale.html</loc>
+    <lastmod>2023-06-30T05:15:12.487Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/rtwb/wotm/humpbackwhale.html</loc>
-    <lastmod>2023-06-28T21:04:04.189Z</lastmod>
+    <lastmod>2023-06-30T05:15:11.891Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/rtwb/wotm.html</loc>
-    <lastmod>2023-06-28T21:04:04.745Z</lastmod>
+    <lastmod>2023-06-30T05:15:11.259Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/rec_survey.html</loc>
+    <lastmod>2023-06-30T05:15:08.871Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/frm/pot_survey.html</loc>
-    <lastmod>2023-06-28T21:04:05.337Z</lastmod>
+    <lastmod>2023-06-30T05:15:08.207Z</lastmod>
   </url>
   <url>
-    <loc>https://tailwinds.umces.edu/team/index.html</loc>
-    <lastmod>2023-06-28T21:04:06.249Z</lastmod>
+    <loc>https://tailwinds.umces.edu/news/index.html</loc>
+    <lastmod>2023-06-30T05:15:07.459Z</lastmod>
   </url>
   <url>
     <loc>https://tailwinds.umces.edu/news/posts/cbl/2023-01/index.html</loc>
-    <lastmod>2023-06-28T21:04:06.969Z</lastmod>
+    <lastmod>2023-06-30T05:15:06.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/mmm/index.html</loc>
+    <lastmod>2023-06-30T05:15:07.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/frm/index.html</loc>
+    <lastmod>2023-06-30T05:15:08.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/index.html</loc>
+    <lastmod>2023-06-30T05:15:10.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/seiwhale.html</loc>
+    <lastmod>2023-06-30T05:15:11.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/rtwb/wotm/rightwhale.html</loc>
+    <lastmod>2023-06-30T05:15:12.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/draft_receiver_locations/index.html</loc>
+    <lastmod>2023-06-30T05:15:12.955Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/meetthe/whales.html</loc>
+    <lastmod>2023-06-30T05:15:13.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/meetthe/dolphins.html</loc>
+    <lastmod>2023-06-30T05:15:14.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tailwinds.umces.edu/pubs/index.html</loc>
+    <lastmod>2023-06-30T05:15:15.623Z</lastmod>
   </url>
 </urlset>
