@@ -23,6 +23,24 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 :::
 :::
 
+# Outreach 
+
+## UMCES attends US Wind event 
+
+Monday, July 10, 2023 UMCES was invited to attend an event hosted by US Wind for Maryland Governor Wes Moore and state officials to learn about the planned renovation of the Sparrows Point Steel, and interview key partners involved in the US Wind project. TailWinds PI Dave Secor and analyst Kirsten Silva provided overviews of  the TailWinds project. The Governor was particularly captivated by the sounds of humpback whales recorded by the Real-time Whale Bouy. 
+
+::: columns
+::: {.column width="47%"}
+![](images/DandGovMoore.jpg)
+:::
+
+::: {.column width=".5%"}
+:::
+
+::: {.column width="47%"}
+![](images/KandGovMoore.jpg)
+:::
+:::
 # From Our Scientists
 
 ## Lauren Rodriguez shows you how to dissect a black sea bass
