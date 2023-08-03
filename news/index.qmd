@@ -8,8 +8,8 @@ title: "What's new in the news"
 Bottlenose dolphins ![](images/bottlenose dolphin.png){width="0.65in"} and common dolphins ![](images/common dolphin.png){width="0.75in"} produce a diversity of vocalizations to orient, feed, and socialize in their environment. Similar to a bat, dolphins produce biological sonar clicks to navigate and hunt. Echolocation clicks often occur in trains and are highly directional, meaning the energy in each click is focused in the forward direction and bounces off objects in the water. The returning echo tells the dolphin what, where, and how far the object is to inform its next move. Burst pulses are packets of high repetition pulses that include a range of sounds such as buzzes, squawks, and brays. They are the least characterized vocalization due to the diversity in pulsed call types and may be related to feeding, aggression, mating, and courtship. Whistles are tonal, narrow-band frequency modulated calls important for communication that vary in shape and structure. Dolphins use them in a variety of social contexts related to identification, localization, and group cohesion. Signature whistles are a type of whistle unique across individuals and are important for recognition of individuals in a social group.
 
 ![](images/dolphin_vocalizations_edited.png){width="12in"}
-Listen to an example of dolphin whistles here
-<audio controls source src="../audio_video/whistle.mp3">
+Listen to an example of whistles here
+<audio controls source src="../news/audio_video/whistle.mp3">
 
 </audio>
 
