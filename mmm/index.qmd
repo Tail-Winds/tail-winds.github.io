@@ -71,7 +71,7 @@ North Atlantic right whales are the most endangered species in this study; their
 
 </audio>
 
-## Humpback Whale ![](images/humpback.png){width="2.5in"}
+## Humpback Whale ![](images/Humpback.png){width="2.5in"}
 
 Humpback whales create a variety of complex sounds. They are most-commonly known for their song patterns (only produced by male singers), however they can also emit social sounds (produced by both males and females). Humpback whales can sing up to 30 minutes at a time before they come up for air. The sequences of sound patterns created by singers are most-commonly used to identify the presence of humpback whales.
 

@@ -112,6 +112,22 @@ Projects:
 :::
 
 ::: {.column width="32%"}
+### Evan Kostelecky
+
+![](images/evan.jpeg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Fishery Resources](../frm/index.qmd)
+
+[{{< fa envelope size=1x >}} ekostelecky\@umces.edu](mailto:ekostelecky@umces.edu){.email}
+:::
+:::
+
+::: columns
+::: {.column width="32%"}
 ### Mike O'Brien
 
 ![](images/mike.jpg)
@@ -125,25 +141,6 @@ Projects:
 [{{< fa envelope size=1x >}} obrien\@umces.edu](mailto:obrien@umces.edu){.email}
 
 [{{< fa brands github size=2x >}}](https://github.com/mhpob) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/ABF-9080-2021)
-:::
-:::
-
-::: columns
-::: {.column width="32%"}
-### Lauren Rodriguez
-
-![](images/lauren.jpg)
-
-::: {style="line-height: 0.1"}
-Projects:
-:::
-
--   [Fishery Resources](../frm/index.qmd)
--   [Marine mammal monitoring](../mmm/index.qmd)
-
-[{{< fa envelope size=1x >}} lrodriguez\@umces.edu](mailto:lrodriguez@umces.edu){.email}
-
-[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
 :::
 
 ::: {.column width="2%"}
@@ -198,5 +195,70 @@ Projects:
 :::
 
 -   [Marine mammal monitoring](../mmm/index.qmd)
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+
+[{{< fa envelope size=1x >}} ctribble@umces.edu](mailto:ctribble@umces.edu){.email}
 :::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+### Rebecca Wingate
+
+![](images/rebecca.jpeg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+:::
+
+
+## Alumni
+
+::: columns
+::: {.column width="32%"}
+### Lauren Rodriguez
+
+![](images/lauren.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Fishery Resources](../frm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="32%"}
+:::
+
 :::

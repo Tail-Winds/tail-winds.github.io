@@ -2,11 +2,11 @@
 title: "What's new in the news"
 ---
 
-## On the Web
+# On the Web
 
 NOAA offers answers to FAQs in the wake of increased Humpback whale mortality on the US east coast: [Frequent Questions---Offshore Wind and Whales](https://www.fisheries.noaa.gov/new-england-mid-atlantic/marine-life-distress/frequent-questions-offshore-wind-and-whales)
 
-### A Featured Scientist
+## A Featured Scientist
 
 ::: columns
 ::: {.column width="30%"}
@@ -23,13 +23,36 @@ Dr. Helen Bailey was quoted in the article [The Ocean Got so Loud That Dolphins 
 :::
 :::
 
-## From Our Scientists
+# Outreach 
 
-### Dave Secor on the [FRM project's](../frm/index.html) experimental design
+## UMCES attends US Wind event 
+
+Monday, July 10, 2023 UMCES was invited to attend an event hosted by US Wind for Maryland Governor Wes Moore and state officials to learn about the planned renovation of the Sparrows Point Steel, and interview key partners involved in the US Wind project. TailWinds PI Dave Secor and analyst Kirsten Silva provided overviews of  the TailWinds project. The Governor was particularly captivated by the sounds of humpback whales recorded by the Real-time Whale Bouy. 
+
+::: columns
+::: {.column width="47%"}
+![](images/DandGovMoore.jpg)
+:::
+
+::: {.column width=".5%"}
+:::
+
+::: {.column width="47%"}
+![](images/KandGovMoore.jpg)
+:::
+:::
+# From Our Scientists
+
+## Lauren Rodriguez shows you how to dissect a black sea bass
+
+{{< video https://www.youtube.com/watch?v=9NQMpEi4vDw >}}
+
+
+## Dave Secor on the [FRM project's](../frm/index.html) experimental design
 
 {{< video https://www.youtube.com/embed/4EsVbLs9JGk >}}
 
-### The Music of Whales
+## The Music of Whales
 
 Imagine yourself in a rainforest. The air is hot and humid, the smells of the environment surround you: damp soil, decomposing wood, and plants,so many different types of plants. Now imagine what you might hear; the croaks, barks, whirring of frogs, the chirp and buzz of insects, the songs and calls of birds, monkeys calling to each other with yips, screeches and shouts. So many different species being heard at the same time in the same ecosystem.
 
