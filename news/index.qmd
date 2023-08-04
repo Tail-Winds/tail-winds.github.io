@@ -9,7 +9,7 @@ Bottlenose dolphins ![](images/bottlenose dolphin.png){width="0.65in"} and commo
 
 ![](images/dolphin_vocalizations_edited.png){width="12in"}
 Listen to an example of whistles here
-<audio controls source src="../news/audio_video/whistle.mp3">
+<audio controls source src="audio_video/whistle.mp3">
 
 </audio>
 
