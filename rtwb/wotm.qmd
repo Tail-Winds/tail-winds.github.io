@@ -49,7 +49,8 @@ whales <- whales |>
   )
 
 whales_mon <- whales |>
-  filter(as.numeric(format(Date, '%m')) == month_num) |> 
+  filter(as.numeric(format(Date, '%m')) == month_num,
+         format(Date, '%Y') == year) |> 
   gather('whale', 'detected', -Date) |>
   filter(detected == 'detected') |>
   distinct(whale)
