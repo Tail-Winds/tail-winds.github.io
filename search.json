@@ -249,14 +249,14 @@
     "href": "team/index.html",
     "title": "Our Team",
     "section": "",
-    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\nLab Website\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nWebsite"
+    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\n\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nUMCES Profile"
   },
   {
     "objectID": "team/index.html#leads",
     "href": "team/index.html#leads",
     "title": "Our Team",
     "section": "",
-    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\nLab Website\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nWebsite"
+    "text": "University of Maryland Center for Environmental Science\n secor@umces.edu\nUMCES Profile\n\n    \n\n\n\n\n\n\n\n\n\n\n\nBlue Wave Consulting Group\n helenbailey@bluewaveconsultinggroup.com\n   \n\n\n\n\n\n\n\n\n\n\n\nUniversity of Maryland Center for Environmental Science\n lyubchich@umces.edu\nUMCES Profile"
   },
   {
     "objectID": "team/index.html#analysts",
@@ -355,6 +355,13 @@
     "title": "Real Time Whale Buoy",
     "section": "Monitoring for Whales in real-time",
     "text": "Monitoring for Whales in real-time\nUMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of the Ocean City Real-time Whale Buoy (RTWB), listening for fin, humpback, sei and North Atlantic right whales. Built and deployed by Woods Hole Oceanographic Institution and purchased by the MD Department of Natural Resources, the Ocean City RTWB is deployed 27 miles offshore in the US wind MarWin Project area and represents the southernmost RTWB system in a network of whale listening stations that extends into the Gulf of Maine. This RTWB records audio, processes it with an on-board classification algorithm and at two hour intervals, transmits data via iridium satellite communications daily to the Robots4Whales website. This data is reviewed daily by UMCES scientists who confirm whales calls and send alerts to a Whale Alert network and informs National Ocean and Atmospheric Administration’s alerts to marine traffic to avoid endangered North Atlantic right whales within Slow Zones. Listen to Dr. Helen Bailey’s podcast below for more information.\n\n\n Sounds that whales make within the detection range of the RTWB recorder are transmitted from the buoy via iridium satellite communications to a computer where analysts can review the data for the presence of whales at the Robots4Whales website. Any whales detected are shared with the public through the Robots4Whales website and apps (BOEM’s Ocean Alert, Whale Alert, and Mysticetus)."
+  },
+  {
+    "objectID": "rtwb/index.html#download-the-whale-alert-app",
+    "href": "rtwb/index.html#download-the-whale-alert-app",
+    "title": "Real Time Whale Buoy",
+    "section": "Download the Whale Alert app!",
+    "text": "Download the Whale Alert app!\n\n\nThe Whale Alert app is available for both android and apple devices. Whales both seen (visual sightings) and heard (via acoustic devices underwater similar to the RTWB) can be shared on this app. For more information on how to download and use the app go to NOAA’s Whale Alert website page.\nImage to the right shows the location of the Ocean City RTWB in the US wind MarWin project area in the Whale Alert app."
   },
   {
     "objectID": "rtwb/index.html#project-funders-and-collaborators",
