@@ -22,6 +22,22 @@ UMCES TailWinds is supported in 2022-2023 by US Wind to oversee deployment of th
 
 ![](images/RTWB_Flowdiagram.jpg) Sounds that whales make within the detection range of the RTWB recorder are transmitted from the buoy via iridium satellite communications to a computer where analysts can review the data for the presence of whales at the [Robots4Whales](http://dcs.whoi.edu) website. Any whales detected are shared with the public through the Robots4Whales website and apps (BOEM's Ocean Alert, Whale Alert, and Mysticetus).
 
+## Download the Whale Alert app!
+
+::: columns
+::: {.column width="50%"}
+The Whale Alert app is available for both android and apple devices. Whales both seen (visual sightings) and heard (via acoustic devices underwater similar to the RTWB) can be shared on this app. For more information on how to download and use the app go to [NOAA’s Whale Alert website](https://www.fisheries.noaa.gov/resource/tool-app/whale-alert) page. 
+
+Image to the right shows the location of the Ocean City RTWB in the US wind MarWin project area in the Whale Alert app. 
+:::
+
+::: {.column width="1%"}
+:::
+
+::: {.column width="49%"}
+![](images/OCBuoy_WAapp.png){height="4in"}
+:::
+:::
 
 ## Project Funders and collaborators
 
