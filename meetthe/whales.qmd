@@ -23,6 +23,10 @@ Near Real-time data transmitted 12 January, 2022 ![](images/RT_RWD_12Jan22_04560
 
 Archived audio spectrogram recorded 12 January, 2022 ![](images/RWD_20220112_045600.png)
 
+<audio controls source src="../audio/NARW_220112_045600_Final version.mp3">
+
+</audio>
+
 ## Humpback whale
 
 ### (*Megaptera novaeangliae*)
@@ -43,6 +47,10 @@ Humpback whales make the most variety of sounds of the whale species studied. Th
 Near real-time data transmitted 8 March, 2022 ![](images/RT_HWSong_08Mar22_175600.png)
 
 Archived audio spectrogram recorded 8 March, 2022 ![](images/HWD_20220308_175600.png)
+
+<audio controls source src="../audio/Humpback_220308_175600_FinalVersion.mp3">
+
+</audio>
 
 ## Fin whale
 
@@ -65,6 +73,10 @@ Near real-time data transmitted 20 December, 2021 ![](images/RT_FWD_12Dec2021_01
 
 Archived audio spectrogram recorded 20 December, 2022 ![](images/FWD_20211220_010300.png)
 
+<audio controls source src="../audio/FW_122021_010300_finalversion.mp3">
+
+</audio>
+
 ## Sei whale
 
 ### (*Balaenoptera borealis*)
@@ -85,3 +97,7 @@ Sei whales are identified by sounds with a downsweep shape between 30 and 100Hz.
 Near real-time data transmitted 9 October, 2021 ![](images/RT_SWD_09Oct2021_131000.png)
 
 Archived audio spectrogram recorded 9 October, 2021 ![](images/SWD_20211009_131000.png)
+
+<audio controls source src="../audio/SW_100921_131000_finalversion.mp3">
+
+</audio>
