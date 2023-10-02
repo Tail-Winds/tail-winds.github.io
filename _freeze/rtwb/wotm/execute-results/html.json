@@ -1,0 +1,14 @@
+{
+  "hash": "6fafb4cd6eae234f691831be120d7960",
+  "result": {
+    "markdown": "::: {.cell}\n\n:::\n\n\n\n###  September 2023\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
