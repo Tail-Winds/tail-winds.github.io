@@ -21,6 +21,8 @@ title: "Related publications and references"
 
 ## Baseline monitoring for migratory fishes
 
+{{< ai open-access size=lg color=green >}} Rothermel, E.R., O'Brien M.H.P., Best, J.E., Fox, D.A., Gahagan, B.I., Higgs, A.L., Park, I.A., Wippelhauser, G., Secor, D.H., 2024. **An Eulerian perspective on habitat models of striped bass occurrence in an offshore wind development area**. *ICES Journal of Marine Science*, fsad212. [https://doi.org/10.1093/icesjms/fsad212](https://doi.org/10.1093/icesjms/fsad212)
+
 {{< ai open-access size=lg color=green >}} O’Brien, M.H.P., Secor, D.H., 2021. **Influence of thermal stratification and storms on acoustic telemetry detection efficiency: a year-long test in the US Southern Mid-Atlantic Bight**. *Animal Biotelemetry* 9, 8. [https://doi.org/10.1186/s40317-021-00233-3](https://doi.org/10.1186/s40317-021-00233-3)
 
 {{< ai open-access size=lg color=green >}} Bangley, C.W., T.H. Curtis, D.H. Secor, M.B. Ogburn. 2020. **Search for important habitat for juvenile dusky sharks (Carcharhinus obscurus) in the Northwest Atlantic Ocean using acoustic telemetry and spatial modeling**. *Marine and Coastal Fisheries* 12:348-363. [https://doi.org/10.1002/mcf2.10120](https://doi.org/10.1002/mcf2.10120)
