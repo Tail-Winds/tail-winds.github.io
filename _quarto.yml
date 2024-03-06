@@ -8,6 +8,7 @@ project:
     - frm/plans
     - frm/reports
     - news/audio_video
+    - mmm/plans
 
 website:
   title: "TailWinds"
