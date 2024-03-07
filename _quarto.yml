@@ -5,7 +5,7 @@ project:
     - CNAME
     - audio
     - video
-    - frm/plans
+    - frm/plans/*.html
     - frm/reports
     - news/audio_video
     - mmm/plans

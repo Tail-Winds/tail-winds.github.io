@@ -1,0 +1,49 @@
+---
+title: 'Cruise Plan Index'
+---
+
+## 2024
+::: {.callout-note}
+2024 cruise plans are in the drafting stage. Cruises are planned to be within the months noted; actual dates are TBD.
+:::
+
+  - [Spring (March-May)](draft_2024spring.html)
+  - [Early Summer (May-July)](draft_2024summer1.html)
+  - [Late Summer (July-September)](draft_2024summer2.html)
+  - [Autumn (September-November)](draft_2024autumn.html)
+  
+
+## 2023
+### Commercial
+
+  - [April](FRM-POT_CruisePlan_20230410.html)
+  - [May](FRM-POT_CruisePlan_20230501.html)
+  - [June (1)](FRM-POT_CruisePlan_20230605.html)
+  - [June (2)](FRM-POT_CruisePlan_20230626.html)
+  - [July](FRM-POT_CruisePlan_20230724.html)
+  - [August](FRM-POT_CruisePlan_20230828.html)
+  - [October (1)](FRM-POT_CruisePlan_20231003.html)
+  - [October (2)](FRM-POT_CruisePlan_20231023.html)
+  - [November](FRM-POT_CruisePlan_20231114.html)
+
+### Recreational
+
+  - [May, attempt 1 *(cancelled)*](FRM-REC_CruisePlan_20230522.html)
+  - [May, attempt 2 *(cancelled)*](FRM-REC_CruisePlan_20230531.html)
+  - [June](FRM-REC_CruisePlan_20230612.html)
+  - [July](FRM-REC_CruisePlan_20230710.html)
+  - [August](FRM-REC_CruisePlan_20230814.html)
+  - [September](FRM-REC_CruisePlan_20230905.html)
+  - [October](FRM-REC_CruisePlan_20231010.html)
+
+## 2022: the "Shakedown Year"
+::: {.callout-note}
+Interactive cruise planning was not used prior to the August 2022 shakedown cruises.
+:::
+### Commercial
+
+- [August](FRM-POT_CruisePlan_20220829.html)
+
+### Recreational
+
+- [August](FRM-REC_CruisePlan_20220815.html)
