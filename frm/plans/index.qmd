@@ -3,8 +3,13 @@ title: 'Cruise Plan Index'
 ---
 
 ## 2024
+### Commercial
+  - [May](draft_2024spring.html)
+  - [July](FRM-POT_CruisePlan_2024summer1.html)
+
+#### Drafts   
 ::: {.callout-note}
-2024 cruise plans are in the drafting stage. Cruises are planned to be within the months noted; actual dates are TBD.
+The 2024 cruise plans below were for drafting purposes only. Cruises are planned to be within the months noted; actual dates are TBD.
 :::
 
   - [Spring (March-May)](draft_2024spring.html)
