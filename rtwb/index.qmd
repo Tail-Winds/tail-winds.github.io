@@ -1,5 +1,7 @@
 ---
 title: "Real Time Whale Buoy"
+execute: 
+  freeze: false
 ---
 
 ![](images/HumpbackHawaiicropped.png)
