@@ -13,9 +13,6 @@ title: 'Cruise Plan Index'
 The 2024 cruise plans below were for drafting purposes only. Cruises are planned to be within the months noted; actual dates are TBD.
 :::
 
-  - [Spring (March-May)](draft_2024spring.html)
-  - [Early Summer (May-July)](draft_2024summer1.html)
-  - [Late Summer (July-September)](draft_2024summer2.html)
   - [Autumn (September-November)](draft_2024autumn.html)
   - [Joint MMM planning](2024_joint_FRM_MMM.html)
   
