@@ -5,7 +5,8 @@ title: 'Cruise Plan Index'
 ## 2024
 ### Commercial
   - [May](draft_2024spring.html)
-  - [July](FRM-POT_CruisePlan_2024summer1.html)
+  - [July/August](FRM-POT_CruisePlan_2024summer1.html)
+  - [September](FRM-POT_CruisePlan_2024summer2.html)
 
 #### Drafts   
 ::: {.callout-note}
