@@ -1,0 +1,14 @@
+{
+  "hash": "6fe602bbceae63497354c578a5b116d8",
+  "result": {
+    "markdown": "::: {.cell}\n\n:::\n\n\n\n###  December 2024\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

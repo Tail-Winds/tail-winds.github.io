@@ -1,1 +1,4 @@
 /* css styles */
+section#footnotes {
+  display: none !important;
+}

@@ -2,6 +2,11 @@
 title: "What's new in the news"
 ---
 
+## On the Web
+US Wind receives approval for next steps in offshore wind development 
+["Maryland wind energy company gets approval for major offshore wind project"](https://www.cbsnews.com/baltimore/news/maryland-wind-energy-project-us-wind/) 4 December, 2024.
+![](images/WindTurbines.png)
+
 ## Tailwinds at the American Fisheries Society Tidewater Chapter Meeting
 ![](images/Evan_poster.jpg)
 Analyst Evan Kostelecky presented his poster "Clean energy and changing habitats" at the American Fisheries Society Tidewater Chapter meeting on February 29, 2024.
