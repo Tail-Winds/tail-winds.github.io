@@ -48,7 +48,7 @@ format:
 
 ![](index_images/SponsorLogos.png)
 
-[^1]: An industry slowdown caused cessation of Rockhopper and US Wind array assets for the period 2024-2026. 
+[^1]: An industry change in schedule caused cessation of Rockhopper and US Wind array assets for the period 2024-2026. 
 Maps display PAM and biotelemetry monitoring devices deployed within and surrounding the Maryland Lease Area (black outline, MARWIN region shaded pink). Monitoring with the WHOI Near Real-Time Whale Buoy spans 2021 to present.
 
 
