@@ -7,15 +7,8 @@ title: 'Cruise Plan Index'
   - [May](draft_2024spring.html)
   - [July/August](FRM-POT_CruisePlan_2024summer1.html)
   - [September](FRM-POT_CruisePlan_2024summer2.html)
+  - [November](FRM-POT_CruisePlan_2024autumn.html)
 
-#### Drafts   
-::: {.callout-note}
-The 2024 cruise plans below were for drafting purposes only. Cruises are planned to be within the months noted; actual dates are TBD.
-:::
-
-  - [Autumn (September-November)](draft_2024autumn.html)
-  - [Joint MMM planning](2024_joint_FRM_MMM.html)
-  
 
 ## 2023
 ### Commercial

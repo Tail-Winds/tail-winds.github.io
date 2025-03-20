@@ -1,0 +1,16 @@
+{
+  "hash": "c905a375ec15e90050ece853a781c0dd",
+  "result": {
+    "markdown": "::: {.cell}\n\n:::\n\n\n\n###  January 2025\n\n::: {.cell}\n\n:::\n\n\n![](images/whales/NARW_scaled.png)\n\nNorth Atlantic right whale (*Eubalaena glacialis*)\\\nCurrent Status of population: Critically Endangered species\\\nVisit the [North Atlantic right whale page](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale) on NOAA's website for more information.\n\n\n![](images/whales/Finwhale_scaled.png)\n\nFin whale (*Balaenoptera physalus*)\\\nCurrent Status of population: Endangered species\\\nVisit the [fin whale page](https://www.fisheries.noaa.gov/species/fin-whale) on NOAA's website for more information.\n\n\n\n\n",
+    "supporting": [
+      "wotm_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

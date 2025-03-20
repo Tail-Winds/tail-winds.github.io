@@ -17,7 +17,7 @@ library(rvest)
 library(dplyr)
 library(tidyr)
 
-whales_html <- read_html('http://dcs.whoi.edu/mdoc1023/mdoc1023_mdoc.shtml') 
+whales_html <- read_html('https://dcs.whoi.edu/mdoc2410/mdoc2410_mdoc.shtml') 
 
 whales <- whales_html |> 
   html_element(xpath = '/html/body/table[1]') |> 

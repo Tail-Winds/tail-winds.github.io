@@ -2,6 +2,9 @@
 title: |
   &#32; ![](index_images/TailWinds_logo.png)
 subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
+format:
+    html: 
+      footnotes-hover: true
 ---
 
 ::: columns
@@ -21,30 +24,35 @@ subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from o
 :::
 :::
 
-[US Wind, Inc.](https://uswindinc.com/) is developing Lease area OCS-A 0490 in waters offshore of Ocean City, MD. In tandem with this development, UMCES TAILWINDS will undertake a coordinated program of fishery resource and marine mammal monitoring. The program includes monitoring of (1) commercial and recreational fishery resources, with a focus on black sea bass; (2) marine mammals (cetaceans: whales, dolphins and porpoises), using a passive acoustic monitoring array and emphasizing large whales and dolphins; and (3) near real-time detections of baleen whales.
+**UMCES TAILWINDS** is a coordinated program assessing the impacts of offshore wind to Mid-Atlantic Bight (MAB) fisheries, whales, dolphins, porpoises, turtles, and migratory fishes. A portfolio of industry, state, and federal grants and assets are supporting:
 
-## Fishery Resource and Marine Mammal Monitoring
+1. Long-term research and monitoring of commercial and recreational fishery fleets and their adaptation to offshore wind development;
+2. Long-term research and monitoring of the distribution and ecology of marine mammals and migratory fishes as they are affected by offshore wind development and ocean conditions;  
+3. Near-real time surveillance and dynamic ocean management of baleen whales through a satellite-linked ocean listening buoy; 
+4. Ocean observing system data synthesis, development of soundscape assessments, and quantitative models of cetacean and migratory fish distributions in offshore wind project areas.  
 
-::: {layout-ncol=2 layout-valign="center"}
-![](index_images/pots_and_flags.jpg)
+**TAILWINDS** assets include:
 
-![](index_images/mike_helen.png)
-:::
+1. Passive acoustic monitoring assets (MARU, Rockhopper, C/F-POD, LS-1X) designed to localize and record behaviors of cetaceans in near and mid-shelf MAB waters (2014- 2017; 2021-present[^1]). 
+2. Biotelemetry assets (VR2AR, VR2W) designed to transect migration flyways of electronically-tagged sharks, fishes and turtles (2014-2018; 2022-present[^1]).  
+3. Autonomous buoy ([Ocean City buoy](https://dcs.whoi.edu/mdoc2410/mdoc2410_mdoc.shtml)) for sub-hour telemetry and analyst identification of endangered North Atlantic right whales and other baleen species (2021-present). 
+4. MAB shelf array of acoustic assets (C/F-POD, LS-1X, VR2AR) in support of integrated soundscape, oceanographic, and biodiversity measures (2024-present, <https://marinebon.org/us-mbon/mid-atlantic-mbon/>).   
 
-Monitoring projects follow a *Before-After-Control-Impact* (BACI) and *Before-After-Gradient* (BAG) design following the before (2022-2024), during (2025-2026), and after construction periods (2027-2028). Field deployments for all monitoring projects utilize Ocean City commercial fishing and recreational charter vessels, as well as the [UMCES *R/V Rachel Carson*](https://www.umces.edu/research-fleet). The Fishery Resource Monitoring project evaluates reef and spillover effects and tests ropeless gear, the latter as a conservation measure against whale entanglement. The Marine Mammal Monitoring project deploys two types of listening devices: [Rockhopper recorders](https://www.birds.cornell.edu/ccb/rockhopper-unit/) designed by Cornell University to determine the occurrence and position of large whales (including North Atlantic right whales) and dolphins, and [F-POD devices](https://www.chelonia.co.uk/fpod_home_page.htm) to detect the tonal echolocation clicks of small cetaceans including porpoises. Additionally, this project will deploy [biotelemetry receivers](https://www.innovasea.com/fish-tracking/products/acoustic-receivers/) to listen for passing fishes, sharks, rays and turtles that have been implanted with transponders. UMCES will also analyze US Wind's [Metocean buoy](https://www.rpsgroup.com/services/oceans-and-coastal/metocean-science-and-technology/our-metocean-technology/metocean-buoy/) sensor data for fish and marine mammal detections.
+## US Wind array off Ocean City, MD, Apr 2023 - present[^1]
 
-## Near Real-time Whale Monitoring
-::: columns
-::: {.column width="45%"}
-![](index_images/umces_buoy.png)
+![](index_images/USWindArray.png)
 
-![](index_images/right_whale_warning.jpg)
-:::
-::: {.column width="5%"}
-:::
-::: {.column width="50%"}
-![](index_images/whale_pitch.png)
+## MBON array off Ocean City, MD, Nov 2024 - present
 
-The Near Real-time Whale Monitoring project is a unique partnership between UMCES and Woods Hole Oceanographic Institution that utilizes specialized quiet mooring technology, whale vocalization detection algorithms, and telecommunications to transmit frequent alerts on the presence of baleen whales. The near real-time whale detection system will provide timely alerts on the presence of endangered whales.
-:::
-:::
+![](index_images/MBONArray.png)
+
+![](index_images/SponsorLogos.png)
+
+[^1]: An industry change in schedule caused cessation of Rockhopper and US Wind array assets for the period 2024-2026. 
+Maps display PAM and biotelemetry monitoring devices deployed within and surrounding the Maryland Lease Area (black outline, MARWIN region shaded pink). Monitoring with the WHOI Near Real-Time Whale Buoy spans 2021 to present.
+
+
+
+
+
+
