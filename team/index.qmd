@@ -91,40 +91,6 @@ Projects:
 ::: {.column width="2%"}
 :::
 
-::: {.column width="32%"}
-### Amber Fandel
-
-![](images/amber.jpg)
-
-::: {style="line-height: 0.1"}
-Projects:
-:::
-
--   [Marine mammal monitoring](../mmm/index.qmd)
-
-[{{< fa envelope size=1x >}} afandel\@umces.edu](mailto:afandel@umces.edu){.email}
-
-[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6859-3138) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?&user=EEQNkTMAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Amber-Fandel)
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
-### Evan Kostelecky
-
-![](images/evan.jpeg)
-
-::: {style="line-height: 0.1"}
-Projects:
-:::
-
--   [Fishery Resources](../frm/index.qmd)
-
-[{{< fa envelope size=1x >}} ekostelecky\@umces.edu](mailto:ekostelecky@umces.edu){.email}
-:::
-:::
-
 ::: columns
 ::: {.column width="32%"}
 ### Mike O'Brien
@@ -148,7 +114,7 @@ Projects:
 ::: {.column width="32%"}
 ### Kirsten Silva
 
-![](images/kirsten.jpg)
+![](images/RTWB&Kirsten.jpg)
 
 ::: {style="line-height: 0.1"}
 Projects:
@@ -161,6 +127,8 @@ Projects:
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
+
+::: columns
 
 ::: {.column width="2%"}
 :::
@@ -181,9 +149,10 @@ Projects:
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
+
+::: {.column width="2%"}
 :::
 
-::: columns
 ::: {.column width="32%"}
 ### Caroline Tribble
 
@@ -252,12 +221,38 @@ Projects:
 :::
 
 ::: {.column width="32%"}
+### Amber Fandel
+
+![](images/amber.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< fa envelope size=1x >}} afandel\@umces.edu](mailto:afandel@umces.edu){.email}
+
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6859-3138) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?&user=EEQNkTMAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Amber-Fandel)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="32%"}
+### Evan Kostelecky
+
+![](images/evan.jpeg)
+
+::: {style="line-height: 0.1"}
+Projects:
 :::
 
+-   [Fishery Resources](../frm/index.qmd)
+
+[{{< fa envelope size=1x >}} ekostelecky\@umces.edu](mailto:ekostelecky@umces.edu){.email}
+:::
+:::
+
+:::
 :::
