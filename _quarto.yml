@@ -10,7 +10,8 @@ project:
     - news/audio_video
     - mmm/plans
     - mmm/reports
-    - mbon
+    - mbon/plans
+    - mbon/reports
 
 website:
   title: "TailWinds"
