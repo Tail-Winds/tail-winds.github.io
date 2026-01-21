@@ -6,15 +6,15 @@ title: 'MBON Cruise Plan and Report Index'
 ## 2025
 
 ### November
-  - [November '25 Cruise Plan](251124_mbon_cruise.html)
+  - [November '25 Cruise Plan](plans/251124_mbon_cruise.html)
 
 ### September
-  - [September '25 Cruise Report](250912_mbon_cruise_report.html)
-  - [September '25 Cruise Plan](250911_mbon_cruise.html)
+  - [September '25 Cruise Report](reports/250912_mbon_cruise_report.html)
+  - [September '25 Cruise Plan](plans/250911_mbon_cruise.html)
 
 ### April
-  - [April '25 Cruise Report](250414_mbon_cruise_report.html)
-  - [April '25 Cruise Plan](250407_mbon_cruise.html)
+  - [April '25 Cruise Report](reports/250414_mbon_cruise_report.html)
+  - [April '25 Cruise Plan](plans/250407_mbon_cruise.html)
 
 ## 2024
-  - [November '24 Cruise Plan](241107_mbon_cruise.html)
+  - [November '24 Cruise Plan](plans/241107_mbon_cruise.html)
