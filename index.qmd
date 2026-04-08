@@ -1,58 +1,84 @@
 ---
-title: |
-  &#32; ![](index_images/TailWinds_logo.png)
-subtitle: "**T**eam for **A**ssessing **I**mpacts to **L**iving resources from offshore **WIND** turbine**S**"
 format:
     html: 
       footnotes-hover: true
+resources: 
+  - video/RTWB_crop.mp4
+  - index_images/TailWinds_logo.png
 ---
+::: {.column-screen}
+<style>
+  .hero-container {
+    position: relative;
+    width: 100%;
+    height: 40vh; 
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black; /* Backup color while video loads */
+  }
 
-::: columns
+  /* THE VEIL: Sits above video, below image */
+  .hero-container::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Increase 0.5 to make it darker */
+    z-index: 1; /* Layer 2 */
+  }
 
-:::{.column width="15%"}
+  .hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    z-index: 0; /* Layer 1 (Bottom) */
+  }
+
+  .hero-logo {
+    position: relative; 
+    z-index: 2; /* Layer 3 (Top) */
+/* DYNAMIC SCALING LOGIC */
+    width: 100%;
+    height: 100%;
+    max-height: 40vh;
+    object-fit: contain; /* Ensures the logo ratio is preserved while scaling */
+    /* filter: drop-shadow(0px 4px 10px rgba(0,0,0,0.3)); */
+  }
+</style>
+
+<div class="hero-container">
+  <video autoplay muted loop playsinline class="hero-video">
+    <source src="video/RTWB_crop.mp4" type="video/mp4">
+  </video>
+  
+  <img src="index_images/TailWinds_logo_white.png" class="hero-logo" alt="TailWinds Logo">
+</div>
 :::
 
-::: {.column width="20%"}
 
-![](index_images/UMCES-Seal.jpg){fig-align="center"}
-:::
-::: {.column width="40%"}
-![](index_images/us-wind_logo.jpg)
-:::
+**Uiversity of Maryland Center for Environmental Science (UMCES) TAILWINDS** is a coordinated program of assessment through ocean observing ecosystems, fisheries, and animal migrations that may be impacted by human activities in the U.S. Mid-Atlantic Bight. A portfolio of industry, state, NGO, and federal grants and assets are supporting:
 
-:::{.column width="15%"}
-:::
-:::
-
-**UMCES TAILWINDS** is a coordinated program assessing the impacts of offshore wind to Mid-Atlantic Bight (MAB) fisheries, whales, dolphins, porpoises, turtles, and migratory fishes. A portfolio of industry, state, and federal grants and assets are supporting:
-
-1. Long-term research and monitoring of commercial and recreational fishery fleets and their adaptation to offshore wind development;
-2. Long-term research and monitoring of the distribution and ecology of marine mammals and migratory fishes as they are affected by offshore wind development and ocean conditions;  
-3. Near-real time surveillance and dynamic ocean management of baleen whales through a satellite-linked ocean listening buoy; 
-4. Ocean observing system data synthesis, development of soundscape assessments, and quantitative models of cetacean and migratory fish distributions in offshore wind project areas.  
+1. Ocean observing system data synthesis, development of soundscape assessments, and quantitative models of cetacean and migratory fish distributions in offshore wind project areas;
+2. Near-real time surveillance and dynamic ocean management of baleen whales through a satellite-linked ocean listening buoy; 
+3. Long-term research and monitoring of commercial and recreational fishery fleets and their adaptation to offshore wind energy development;
+4. Long-term research and monitoring of the distribution and ecology of marine mammals and migratory fishes as they are affected by offshore wind energy development, shipping noise, and ocean conditions.
 
 **TAILWINDS** assets include:
 
-1. Passive acoustic monitoring assets (MARU, Rockhopper, C/F-POD, LS-1X) designed to localize and record behaviors of cetaceans in near and mid-shelf MAB waters (2014- 2017; 2021-present[^1]). 
-2. Biotelemetry assets (VR2AR, VR2W) designed to transect migration flyways of electronically-tagged sharks, fishes and turtles (2014-2018; 2022-present[^1]).  
-3. Autonomous buoy ([Ocean City buoy](https://dcs.whoi.edu/mdoc2410/mdoc2410_mdoc.shtml)) for sub-hour telemetry and analyst identification of endangered North Atlantic right whales and other baleen species (2021-present). 
-4. MAB shelf array of acoustic assets (C/F-POD, LS-1X, VR2AR) in support of integrated soundscape, oceanographic, and biodiversity measures (2024-present, <https://marinebon.org/us-mbon/mid-atlantic-mbon/>).   
+1. A team of trained and experienced specialists in fisheries, cetacean ecology, bioacoustics, data science, and field operations.
+2. Mid-Atlantic Bight shelf array of passive acoustic and telemetry assets in support of integrated soundscape, oceanographic, and biodiversity measures. Specializes assets designed to detect, localize and record behaviors and migrations of cetaceans and electronically-tagged sharks, fishes and turtles.
+3. Autonomous buoy ([Ocean City buoy](https://dcs.whoi.edu/mdoc2505/mdoc2505_mdoc.shtml)) for sub-hour detection and analyst identification of endangered North Atlantic right whales and other baleen species (2021-present).
 
-## US Wind array off Ocean City, MD, Apr 2023 - present[^1]
-
-![](index_images/USWindArray.png)
-
-## MBON array off Ocean City, MD, Nov 2024 - present
-
-![](index_images/MBONArray.png)
-
-![](index_images/SponsorLogos.png)
-
-[^1]: An industry change in schedule caused cessation of Rockhopper and US Wind array assets for the period 2024-2026. 
-Maps display PAM and biotelemetry monitoring devices deployed within and surrounding the Maryland Lease Area (black outline, MARWIN region shaded pink). Monitoring with the WHOI Near Real-Time Whale Buoy spans 2021 to present.
-
-
-
-
-
-
+![](index_images/umces_logo.png){width=350}
+![](index_images/sponsor_logos/us-wind_logo.jpg){width=350}
+![](index_images/sponsor_logos/MEA-logo-full-color.png){width=350}
+![](index_images/sponsor_logos/mdnr_logo.png){width=175}
+![](index_images/sponsor_logos/NOAA_logo.svg){width=175}
