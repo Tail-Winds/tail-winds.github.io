@@ -88,10 +88,9 @@ Projects:
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle) [{{< fa brands mastodon size=2x >}}](https://ecoevo.social/@cosmicspittle)
 :::
 
-::: {.column width="2%"}
+::: {.column width="1%"}
 :::
 
-::: columns
 ::: {.column width="32%"}
 ### Mike O'Brien
 
@@ -108,7 +107,7 @@ Projects:
 [{{< fa brands github size=2x >}}](https://github.com/mhpob) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-1420-6395) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ&hl=en) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/ABF-9080-2021)
 :::
 
-::: {.column width="2%"}
+::: {.column width="1%"}
 :::
 
 ::: {.column width="32%"}
@@ -130,29 +129,6 @@ Projects:
 
 ::: columns
 
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
-### Jamie Testa
-
-![](images/jamie.jpg)
-
-::: {style="line-height: 0.1"}
-Projects:
-:::
-
--   [Real-time whale monitoring](../rtwb/index.qmd)
--   [Marine mammal monitoring](../mmm/index.qmd)
-
-[{{< fa envelope size=1x >}} jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
-
-[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
-:::
-
-::: {.column width="2%"}
-:::
-
 ::: {.column width="32%"}
 ### Caroline Tribble
 
@@ -168,7 +144,7 @@ Projects:
 [{{< fa envelope size=1x >}} ctribble@umces.edu](mailto:ctribble@umces.edu){.email}
 :::
 
-::: {.column width="2%"}
+::: {.column width="1%"}
 :::
 
 ::: {.column width="32%"}
@@ -184,41 +160,10 @@ Projects:
 
 :::
 
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="32%"}
-:::
-
-:::
-
 
 ## Alumni
 
 ::: columns
-::: {.column width="32%"}
-### Lauren Rodriguez
-
-![](images/lauren.jpg)
-
-::: {style="line-height: 0.1"}
-Projects:
-:::
-
--   [Fishery Resources](../frm/index.qmd)
--   [Marine mammal monitoring](../mmm/index.qmd)
-
-[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
-:::
-
-::: {.column width="2%"}
-:::
 
 ::: {.column width="32%"}
 ### Amber Fandel
@@ -236,7 +181,7 @@ Projects:
 [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6859-3138) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?&user=EEQNkTMAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Amber-Fandel)
 :::
 
-::: {.column width="2%"}
+::: {.column width="1%"}
 :::
 
 ::: {.column width="32%"}
@@ -252,6 +197,43 @@ Projects:
 
 [{{< fa envelope size=1x >}} ekostelecky\@umces.edu](mailto:ekostelecky@umces.edu){.email}
 :::
+:::
+::: {.column width="1%"}
+:::
+
+::: {.column width="32%"}
+### Lauren Rodriguez
+
+![](images/lauren.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Fishery Resources](../frm/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< fa brands twitter size=2x >}}](https://twitter.com/MarineBio_LKRod)
+:::
+:::
+
+::: columns
+
+::: {.column width="32%"}
+### Jamie Testa
+
+![](images/jamie.jpg)
+
+::: {style="line-height: 0.1"}
+Projects:
+:::
+
+-   [Real-time whale monitoring](../rtwb/index.qmd)
+-   [Marine mammal monitoring](../mmm/index.qmd)
+
+[{{< fa envelope size=1x >}} jctesta\@umces.edu](mailto:jctesta@umces.edu){.email}
+
+[{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
 :::
 
 :::
