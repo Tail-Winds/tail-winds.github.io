@@ -80,5 +80,7 @@ resources:
 ![](index_images/umces_logo.png){width=350}
 ![](index_images/sponsor_logos/us-wind_logo.jpg){width=350}
 ![](index_images/sponsor_logos/MEA-logo-full-color.png){width=350}
+![](index_images/sponsor_logos/rosa_logo.webp){width=350}
+![](index_images/sponsor_logos/maracoos.png){width=350}
 ![](index_images/sponsor_logos/mdnr_logo.png){width=175}
 ![](index_images/sponsor_logos/NOAA_logo.svg){width=175}
