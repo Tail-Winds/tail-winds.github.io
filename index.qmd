@@ -66,7 +66,7 @@ resources:
 <!-- Give a little more space before text starts -->
 <br>
 
-**University of Maryland Center for Environmental Science (UMCES) TAILWINDS** is a coordinated program of assessment through ocean observing ecosystems, fisheries, and animal migrations that may be impacted by human activities in the U.S. Mid-Atlantic Bight. A portfolio of industry, state, NGO, and federal grants and assets are supporting:
+**University of Maryland Center for Environmental Science (UMCES) TAILWINDS** is a coordinated program of assessment through ocean observing of ecosystems, fisheries, and animal migrations that may be impacted by human activities in the U.S. Mid-Atlantic Bight. A portfolio of industry, state, NGO, and federal grants and assets are supporting:
 
 1. Ocean observing system data synthesis, development of soundscape assessments, and quantitative models of cetacean and migratory fish distributions in offshore wind project areas;
 2. Near-real time surveillance and dynamic ocean management of baleen whales through a satellite-linked ocean listening buoy; 
@@ -76,8 +76,15 @@ resources:
 **TAILWINDS** assets include:
 
 1. A team of trained and experienced specialists in fisheries, cetacean ecology, bioacoustics, data science, and field operations.
-2. Mid-Atlantic Bight shelf array of passive acoustic and telemetry assets in support of integrated soundscape, oceanographic, and biodiversity measures. Specializes assets designed to detect, localize and record behaviors and migrations of cetaceans and electronically-tagged sharks, fishes and turtles.
-3. Autonomous buoy ([Ocean City buoy](https://dcs.whoi.edu/mdoc2505/mdoc2505_mdoc.shtml)) for sub-hour detection and analyst identification of endangered North Atlantic right whales and other baleen species (2021-present).
+2. Mid-Atlantic Bight shelf array of passive acoustic and telemetry assets in support of integrated soundscape, oceanographic, and biodiversity measures. Specialized assets designed to detect, localize and record behaviors and migrations of cetaceans and electronically-tagged sharks, fishes and turtles.
+3. Autonomous buoy ([Ocean City buoy](https://tailwinds.umces.edu/rtwb)) for sub-hour detection and analyst identification of endangered North Atlantic right whales and other baleen species (2021-present).
+
+::: {style="font-size: 50%;"}
+![The map above shows the placement of different PAM and biotelemetry devices deployed from November 2024 to present as part of the MBON project that transects through the Maryland Lease Area (black outline; MARWIN region shaded pink) spanning across the shelf environment. Animal icons by NOAA Fisheries.](index_images/mbon_rtwb.png)
+:::
+
+<br><br>
+Funding support from:
 
 ![](index_images/umces_logo.png){width=350}
 ![](index_images/sponsor_logos/us-wind_logo.jpg){width=350}
