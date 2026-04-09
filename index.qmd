@@ -63,8 +63,10 @@ resources:
 </div>
 :::
 
+<!-- Give a little more space before text starts -->
+<br>
 
-**Uiversity of Maryland Center for Environmental Science (UMCES) TAILWINDS** is a coordinated program of assessment through ocean observing ecosystems, fisheries, and animal migrations that may be impacted by human activities in the U.S. Mid-Atlantic Bight. A portfolio of industry, state, NGO, and federal grants and assets are supporting:
+**University of Maryland Center for Environmental Science (UMCES) TAILWINDS** is a coordinated program of assessment through ocean observing ecosystems, fisheries, and animal migrations that may be impacted by human activities in the U.S. Mid-Atlantic Bight. A portfolio of industry, state, NGO, and federal grants and assets are supporting:
 
 1. Ocean observing system data synthesis, development of soundscape assessments, and quantitative models of cetacean and migratory fish distributions in offshore wind project areas;
 2. Near-real time surveillance and dynamic ocean management of baleen whales through a satellite-linked ocean listening buoy; 
@@ -82,5 +84,5 @@ resources:
 ![](index_images/sponsor_logos/MEA-logo-full-color.png){width=350}
 ![](index_images/sponsor_logos/rosa_logo.webp){width=350}
 ![](index_images/sponsor_logos/maracoos.png){width=350}
-![](index_images/sponsor_logos/mdnr_logo.png){width=175}
-![](index_images/sponsor_logos/NOAA_logo.svg){width=175}
+![](index_images/sponsor_logos/mdnr_logo.png){width=173}
+![](index_images/sponsor_logos/NOAA_logo.svg){width=173}
