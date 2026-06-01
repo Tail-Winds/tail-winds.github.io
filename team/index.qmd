@@ -24,7 +24,9 @@ University of Maryland Center for Environmental Science
 
 [UMCES Profile](https://www.umces.edu/david-secor)\
 
-[{{< fa brands twitter size=2x >}}](https://twitter.com/secorlab) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727) [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@secorlab)
+[{{< fa brands twitter size=2x >}}](https://twitter.com/secorlab) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-6007-4827) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=5G4_EvwAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/913727) [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@secorlab) 
+
+Research Interests: Population ecology of marine estuarine fishes, migration ecology, offshore wind energy impact assessment.
 :::
 :::
 
@@ -44,6 +46,8 @@ Blue Wave Consulting Group
 [{{< fa envelope size=1x >}} helenbailey\@bluewaveconsultinggroup.com](mailto:helenbailey@bluewaveconsultinggroup.com){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7445-4687) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=PewlQUIAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/599233)
+
+Research Interests: Marine mammals, bioacoustics, movement ecology
 :::
 :::
 
@@ -65,8 +69,34 @@ University of Maryland Center for Environmental Science
 [UMCES Profile](https://www.umces.edu/vyacheslav-lyubchich)
 
 [{{< fa brands github size=2x >}}](https://github.com/vlyubchich) [{{< ai orcid size=2x >}}](https://orcid.org/0000-0001-7936-4285) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=qMeQJCgAAAAJ) [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Vyacheslav-Lyubchich) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/989365) [{{< ai scopus size=2x >}}](https://www.scopus.com/authid/detail.uri?authorId=56814941600) [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@statspilot)
+
+Research Interests: Time series analysis, nonparametric inference, machine learning
 :::
 :::
+
+### Dr. Ryan Woodland
+
+::: columns
+::: {.column width="25%"}
+![](images/Ryan.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+University of Maryland Center for Environmental Science
+
+[{{< fa envelope size=1x >}} woodland\@umces.edu](mailto:woodland@umces.edu){.email}
+
+[UMCES Profile](https://sites.google.com/umces.edu/woodland-lab)
+
+[{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-3309-3413) [{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?hl=en&user=oAGqnfgAAAAJ) [{{< ai clarivate size=2x >}}](https://www.webofscience.com/wos/author/record/D-5344-2017)
+
+Research Interests: Food webs, fish ecology, stable isotopes
+:::
+:::
+
 
 ## Analysts
 
@@ -86,6 +116,8 @@ Projects:
 [{{< fa envelope size=1x >}} rbell\@umces.edu](mailto:rbell@umces.edu){.email}
 
 [{{< fa brands github size=2x >}}](https://github.com/CosmicSpittle) [{{< fa brands mastodon size=2x >}}](https://ecoevo.social/@cosmicspittle)
+
+Research Interests: Bioacoustics, soundscape ecology, marine mammals
 :::
 
 ::: {.column width="1%"}
@@ -101,6 +133,9 @@ Projects:
 :::
 
 -   [Fishery Resources](../frm/index.qmd)
+-   [Marine Biodiversity Observation Network (MBON)](https://ioos.noaa.gov/project/marine-life-mid-atlantic-mbon/)
+-   [Responsible Offshore Science Alliance (ROSA)](https://www.rosascience.org/awarded-projects/)
+
 
 [{{< fa envelope size=1x >}} obrien\@umces.edu](mailto:obrien@umces.edu){.email}
 
@@ -125,6 +160,8 @@ Projects:
 [{{< fa envelope size=1x >}} ksilva\@umces.edu](mailto:ksilva@umces.edu){.email}
 
 [{{< fa brands twitter size=2x >}}](https://twitter.com/DolphinWatch_CB)
+
+Research Interests: Marine mammals, bioacoustics, conservation and anthropogenic impacts
 :::
 
 ::: columns
@@ -140,8 +177,11 @@ Projects:
 
 -   [Marine mammal monitoring](../mmm/index.qmd)
 -   [Real-time whale monitoring](../rtwb/index.qmd)
+-    [Marine Biodiversity Observation Network (MBON)](https://ioos.noaa.gov/project/marine-life-mid-atlantic-mbon/)
 
 [{{< fa envelope size=1x >}} ctribble@umces.edu](mailto:ctribble@umces.edu){.email}
+
+Research Interests: Marine mammals, bioacoustics, behavorial ecology and conservation 
 :::
 
 ::: {.column width="1%"}
@@ -150,7 +190,7 @@ Projects:
 ::: {.column width="32%"}
 ### Rebecca Wingate
 
-![](images/rebecca.jpeg)
+![](images/rebecca2.jpg)
 
 ::: {style="line-height: 0.1"}
 Projects:
@@ -158,6 +198,7 @@ Projects:
 
 -   [Real-time whale monitoring](../rtwb/index.qmd)
 
+Research Interests: Marine mammals, bioacoustics, fish ecology
 :::
 
 
