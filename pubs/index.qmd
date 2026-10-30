@@ -2,7 +2,7 @@
 title: "Related publications and references"
 ---
 
-## Baseline monitoring for marine mammals
+## Marine Mammals in the US Mid-Atlantic Bight
 
 {{< ai open-access size=lg color=green >}} Bailey, H., Fandel, A. D., Silva, K., Gryzb, E., McDonald, E., Hoover, A. L., Ogburn, M. B., & Rice, A. N. (2021). **Identifying and predicting occurrence and abundance of a vocal animal species based on individually specific calls**. *Ecosphere*, 12(8). [https://doi.org/10.1002/ecs2.3685](https://doi.org/10.1002/ecs2.3685)
 
@@ -19,7 +19,9 @@ title: "Related publications and references"
 {{< ai open-access size=lg color=green >}} Bailey, H., Brookes, K.L. and Thompson, P.M. (2014) **Assessing environmental impacts of offshore wind farms: Lessons learned and recommendations for the future**. *Aquatic Biosystems*, 10: 8. [https://doi.org/10.1186/2046-9063-10-8](https://doi.org/10.1186/2046-9063-10-8)
 
 
-## Baseline monitoring for migratory fishes
+## Migratory and Reef Fishes in the US Mid-Atlantic Bight
+
+{{< ai open-access size=lg color=green >}} Secor, DH, MHP O’Brien, H. Bailey. 2025. **The flyway construct and assessment of offshore wind farm impacts on migratory marine fauna**. *ICES Journal of Marine Science* 82(3). [https://doi.org/10.1093/icesjms/fsae138](https://doi.org/10.1093/icesjms/fsae138)
 
 {{< ai open-access size=lg color=green >}} Rothermel, E.R., O'Brien M.H.P., Best, J.E., Fox, D.A., Gahagan, B.I., Higgs, A.L., Park, I.A., Wippelhauser, G., Secor, D.H., 2024. **An Eulerian perspective on habitat models of striped bass occurrence in an offshore wind development area**. *ICES Journal of Marine Science*, fsad212. [https://doi.org/10.1093/icesjms/fsad212](https://doi.org/10.1093/icesjms/fsad212)
 
@@ -32,8 +34,6 @@ title: "Related publications and references"
 {{< ai open-access size=lg color=green >}} Rothermel, E.R., Balazik, M.T., Best, J.E., Fox, D.A., Gahagan, B.I., Haulsee, D.E., Higgs, A.L., O’Brien, M.H.P., Oliver, M.J., Park, I.A., and Secor, D.H. 2020. **Comparative migration ecology of striped bass and Atlantic sturgeon in the US Southern Mid-Atlantic Bight flyway**. *PLOS ONE* 15(6): e0234442. [https://doi.org/10.1371/journal.pone.0234442](https://doi.org/10.1371/journal.pone.0234442)
 
 {{< ai open-access size=lg color=green >}} Secor, D, M O’Brien, E Rothermel, C Wiernicki, and H Bailey. (2020). **Movement and Habitat Selection by Migratory Fishes within the Maryland Wind Energy Area and Adjacent Reference Sites**. *Sterling (VA): U.S. Department of the Interior, Bureau of Ocean Energy Management, Office of Renewable Energy Programs*. URL: [https://espis.boem.gov/final%20reports/BOEM_2020-030.pdf](https://espis.boem.gov/final%20reports/BOEM_2020-030.pdf)
-
-## Baseline monitoring for reef fishes
 
 {{< ai open-access size=lg color=green >}} Secor, D.H., Bailey, H., Carroll, A., Lyubchich, V., O'Brien, M.H.P., Wiernicki, C.J., 2021. **Diurnal vertical movements in black sea bass (Centropristis striata): Endogenous, facultative, or something else?** *Ecosphere* 12, e03616. [https://doi.org/10.1002/ecs2.3616](https://doi.org/10.1002/ecs2.3616)
 
